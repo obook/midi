@@ -1,0 +1,9 @@
+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
+
+git clone https://oauth2:<YOUR-TOKEN-HERE>@github.com/<your_user>/<your_repo>.git
+
+git clone https://oauth2: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@github.com/obook/midiperso.git
+
+git clone https://<tokenhere>@github.com/<user>/<repo>.git
+
+
