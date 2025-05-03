@@ -25,13 +25,28 @@ for file in sorted(
    ):
     files.append([file, md5(file)])
 
+# print(files)
+
 with open("duplicate.txt", "w") as f:
     counter = 0
     for index1 in range(len(files)):
         for index2 in range(len(files)):
-            if files[index1][1] == files[index2][1] and files[index1][0] != files[index2][0]:
+
+            file_1 = files[index1][0]
+            md5_1 = files[index1][1]
+
+            file_2 = files[index2][0]
+            md5_2 = files[index2][1]
+
+            if md5_1 == md5_2 and file_1 != file_2:
                 counter += 1
                 s = f"#{counter} {files[index1][0]} ~ {files[index2][0]}\n"
                 print(s)
                 f.write(s)
                 # os.remove(files[index2][0])
+
+            # Windows name collision (case-insensitive filesystem)
+            if file_1 != file_2 and file_1.upper() == file_2.upper():
+                s = f"Name collision {files[index1][0]} AND {files[index2][0]}\n"
+                print(s)
+                # os.rename('a.txt', 'b.kml')
