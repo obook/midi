@@ -43,10 +43,10 @@ with open("duplicate.txt", "w") as f:
                 s = f"#{counter} {files[index1][0]} ~ {files[index2][0]}\n"
                 print(s)
                 f.write(s)
-                # os.remove(files[index2][0])
+                # os.remove(files[index2][0]) # and pdf ?
 
             # Windows name collision (case-insensitive filesystem)
             if file_1 != file_2 and file_1.upper() == file_2.upper():
-                s = f"Name collision {files[index1][0]} AND {files[index2][0]}\n"
+                s = f"Same md5 : [{files[index1][0]}] and [{files[index2][0]}]\n"
                 print(s)
                 # os.rename('a.txt', 'b.kml')
