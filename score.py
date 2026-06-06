@@ -106,7 +106,7 @@ def entete_partition(fichier_midi):
     """Déterminer le titre et la ligne d'artiste de l'en-tête.
 
     Si un sidecar JSON existe, on utilise score_title comme titre et
-    "performer (date)" comme ligne d'artiste (la date entre parenthèses
+    "composer (date)" comme ligne d'artiste (la date entre parenthèses
     si elle est renseignée). Sinon, on retombe sur le nom du fichier et
     le nom du dossier.
 
@@ -119,7 +119,7 @@ def entete_partition(fichier_midi):
     infos = lire_infos_sidecar(fichier_midi)
     if infos:
         titre = infos.get("score_title") or titre_morceau(fichier_midi)
-        artiste = infos.get("performer") or nom_compositeur(fichier_midi)
+        artiste = infos.get("composer") or nom_compositeur(fichier_midi)
         date = str(infos.get("date", "")).strip()
         if date:
             artiste = f"{artiste} ({date})"
