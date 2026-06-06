@@ -1,0 +1,18 @@
+{
+  "title": "In my life",
+  "score_title": "In My Life",
+  "path": "PIANO BAR/In my life.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1965",
+  "duration": "1:54",
+  "duration_seconds": 114,
+  "humanized": true,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 879,
+  "tempo_bpm": 114,
+  "time_signature": "2/2"
+}

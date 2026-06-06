@@ -1,0 +1,18 @@
+{
+  "title": "SOS",
+  "score_title": "SOS",
+  "path": "ABBA/S_O_S.mid",
+  "composer": "Abba",
+  "performer": "Abba",
+  "date": "1975",
+  "duration": "3:22",
+  "duration_seconds": 202,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 90
+  },
+  "note_count": 5597,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

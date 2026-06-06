@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in A-Flat Major, Hob. XVI46, I. Allegro moderato",
+  "score_title": "Piano Sonata in A-flat Major, Hob. XVI:46, I. Allegro moderato",
+  "path": "HAYDN FRANZ JOSEPH/Sonata in A-Flat Major, Hob. XVI46, I. Allegro moderato.mid",
+  "composer": "Franz Joseph Haydn",
+  "performer": "Franz Joseph Haydn",
+  "date": "1767",
+  "duration": "5:49",
+  "duration_seconds": 349,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2715
+  },
+  "note_count": 2706,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

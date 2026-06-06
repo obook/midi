@@ -1,0 +1,18 @@
+{
+  "title": "Sonata F# Minor",
+  "score_title": "Piano Sonata No. 1 in F-sharp Minor, Op. 11",
+  "path": "SCHUMANN ROBERT/Sonata F# Minor.mid",
+  "composer": "Robert Schumann",
+  "performer": "Robert Schumann",
+  "date": "1835",
+  "duration": "29:53",
+  "duration_seconds": 1793,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 27874
+  },
+  "note_count": 17876,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

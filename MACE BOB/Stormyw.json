@@ -1,0 +1,18 @@
+{
+  "title": "Stormyw",
+  "score_title": "Stormy Weather",
+  "path": "MACE BOB/Stormyw.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1933",
+  "duration": "2:31",
+  "duration_seconds": 151,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 192
+  },
+  "note_count": 986,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

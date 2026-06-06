@@ -1,0 +1,18 @@
+{
+  "title": "Serge Lama - Je Suis Malade piano",
+  "score_title": "Serge Lama - Je suis malade",
+  "path": "POP-FRANCE/Serge Lama - Je_Suis_Malade_piano.mid",
+  "composer": "Pop-France",
+  "performer": "Pop-France",
+  "date": "1973",
+  "duration": "4:01",
+  "duration_seconds": 241,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 363
+  },
+  "note_count": 1353,
+  "tempo_bpm": 82,
+  "time_signature": "3/4"
+}

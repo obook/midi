@@ -1,0 +1,18 @@
+{
+  "title": "Scherzo",
+  "score_title": "Scherzo",
+  "path": "MENDELSSOHN FELIX/Scherzo.mid",
+  "composer": "Felix Mendelssohn",
+  "performer": "Felix Mendelssohn",
+  "date": "",
+  "duration": "4:28",
+  "duration_seconds": 268,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4698
+  },
+  "note_count": 4740,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

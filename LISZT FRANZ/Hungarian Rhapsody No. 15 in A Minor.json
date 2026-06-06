@@ -1,0 +1,18 @@
+{
+  "title": "Hungarian Rhapsody No. 15 in A Minor",
+  "score_title": "Hungarian Rhapsody No. 15 in A Minor, S. 244 No. 15 \"Rakoczi March\"",
+  "path": "LISZT FRANZ/Hungarian Rhapsody No. 15 in A Minor.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1853",
+  "duration": "5:13",
+  "duration_seconds": 313,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2841
+  },
+  "note_count": 5914,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

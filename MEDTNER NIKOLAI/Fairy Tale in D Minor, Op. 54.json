@@ -1,0 +1,18 @@
+{
+  "title": "Fairy Tale in D Minor, Op. 54",
+  "score_title": "Fairy Tale (Skazka) in D Minor, Op. 54",
+  "path": "MEDTNER NIKOLAI/Fairy Tale in D Minor, Op. 54.mid",
+  "composer": "Nikolai Medtner",
+  "performer": "Nikolai Medtner",
+  "date": "1932",
+  "duration": "6:02",
+  "duration_seconds": 362,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3582
+  },
+  "note_count": 2509,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

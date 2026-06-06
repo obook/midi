@@ -1,0 +1,18 @@
+{
+  "title": "Chances are",
+  "score_title": "Chances Are",
+  "path": "MACE BOB/Chances are.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1957",
+  "duration": "2:06",
+  "duration_seconds": 126,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 112
+  },
+  "note_count": 652,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

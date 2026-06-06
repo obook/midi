@@ -1,0 +1,18 @@
+{
+  "title": "Waterloo",
+  "score_title": "Waterloo",
+  "path": "ABBA/Waterloo.mid",
+  "composer": "Abba",
+  "performer": "Abba",
+  "date": "1974",
+  "duration": "2:41",
+  "duration_seconds": 161,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 1720,
+  "tempo_bpm": 149,
+  "time_signature": "4/4"
+}

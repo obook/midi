@@ -1,0 +1,18 @@
+{
+  "title": "A Very Special Love Song",
+  "score_title": "A Very Special Love Song",
+  "path": "MACE BOB/A Very Special Love Song.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1974",
+  "duration": "3:42",
+  "duration_seconds": 222,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 215
+  },
+  "note_count": 1363,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

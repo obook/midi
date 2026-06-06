@@ -1,0 +1,18 @@
+{
+  "title": "DONTITMA",
+  "score_title": "Don't It Make My Brown Eyes Blue",
+  "path": "MACE BOB/DONTITMA.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1977",
+  "duration": "4:36",
+  "duration_seconds": 276,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 359
+  },
+  "note_count": 2553,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

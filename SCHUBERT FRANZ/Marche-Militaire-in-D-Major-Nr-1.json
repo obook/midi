@@ -1,0 +1,18 @@
+{
+  "title": "Marche-Militaire-in-D-Major-Nr-1",
+  "score_title": "Marche militaire No. 1 in D Major, Op. 51 No. 1, D. 733",
+  "path": "SCHUBERT FRANZ/Marche-Militaire-in-D-Major-Nr-1.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1818",
+  "duration": "6:15",
+  "duration_seconds": 375,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 936
+  },
+  "note_count": 6171,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

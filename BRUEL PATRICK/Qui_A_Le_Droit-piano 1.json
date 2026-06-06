@@ -1,0 +1,18 @@
+{
+  "title": "Qui A Le Droit-piano 1",
+  "score_title": "Qui a le droit",
+  "path": "BRUEL PATRICK/Qui_A_Le_Droit-piano 1.mid",
+  "composer": "Patrick Bruel",
+  "performer": "Patrick Bruel",
+  "date": "1989",
+  "duration": "4:49",
+  "duration_seconds": 289,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 316
+  },
+  "note_count": 1824,
+  "tempo_bpm": 85,
+  "time_signature": "4/4"
+}

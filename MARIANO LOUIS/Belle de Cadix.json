@@ -1,0 +1,18 @@
+{
+  "title": "Belle de Cadix",
+  "score_title": "La Belle de Cadix",
+  "path": "MARIANO LOUIS/Belle de Cadix.mid",
+  "composer": "Louis Mariano",
+  "performer": "Louis Mariano",
+  "date": "1945",
+  "duration": "2:30",
+  "duration_seconds": 150,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 1943,
+  "tempo_bpm": 240,
+  "time_signature": "4/4"
+}

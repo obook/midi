@@ -1,0 +1,18 @@
+{
+  "title": "Toccata in E Minor, BWV 914",
+  "score_title": "Toccata in E Minor, BWV 914",
+  "path": "BACH JOHANN SEBASTIAN/Toccata in E Minor, BWV 914.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1710",
+  "duration": "6:03",
+  "duration_seconds": 363,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1508
+  },
+  "note_count": 3014,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

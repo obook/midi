@@ -1,0 +1,18 @@
+{
+  "title": "Quelques mots d'amour",
+  "score_title": "Quelques mots d'amour",
+  "path": "BERGER MICHEL/Quelques mots d'amour.mid",
+  "composer": "Michel Berger",
+  "performer": "Michel Berger",
+  "date": "1980",
+  "duration": "3:30",
+  "duration_seconds": 210,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 964
+  },
+  "note_count": 2279,
+  "tempo_bpm": 70,
+  "time_signature": "2/4"
+}

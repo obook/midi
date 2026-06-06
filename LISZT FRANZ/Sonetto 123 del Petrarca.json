@@ -1,0 +1,18 @@
+{
+  "title": "Sonetto 123 del Petrarca",
+  "score_title": "Sonetto 123 del Petrarca, S. 161 No. 6",
+  "path": "LISZT FRANZ/Sonetto 123 del Petrarca.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1846",
+  "duration": "6:52",
+  "duration_seconds": 412,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3333
+  },
+  "note_count": 1963,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in D Minor, K. 141",
+  "score_title": "Sonata in D Minor, K. 141",
+  "path": "SCARLATTI DOMENICO/Sonata in D Minor, K. 141.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "",
+  "duration": "3:18",
+  "duration_seconds": 198,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 875
+  },
+  "note_count": 3102,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

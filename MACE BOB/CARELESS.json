@@ -1,0 +1,18 @@
+{
+  "title": "CARELESS",
+  "score_title": "Careless Whisper",
+  "path": "MACE BOB/CARELESS.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1984",
+  "duration": "3:35",
+  "duration_seconds": 215,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 160
+  },
+  "note_count": 1649,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

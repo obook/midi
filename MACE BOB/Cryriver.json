@@ -1,0 +1,18 @@
+{
+  "title": "Cryriver",
+  "score_title": "Cry Me a River",
+  "path": "MACE BOB/Cryriver.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1955",
+  "duration": "2:41",
+  "duration_seconds": 161,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 170
+  },
+  "note_count": 1177,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

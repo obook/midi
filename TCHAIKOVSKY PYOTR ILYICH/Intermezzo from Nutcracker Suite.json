@@ -1,0 +1,18 @@
+{
+  "title": "Intermezzo from Nutcracker Suite",
+  "score_title": "Intermezzo from The Nutcracker",
+  "path": "TCHAIKOVSKY PYOTR ILYICH/Intermezzo from Nutcracker Suite.mid",
+  "composer": "Pyotr Ilyich Tchaikovsky",
+  "performer": "Pyotr Ilyich Tchaikovsky",
+  "date": "1892",
+  "duration": "4:00",
+  "duration_seconds": 240,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2279
+  },
+  "note_count": 2449,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

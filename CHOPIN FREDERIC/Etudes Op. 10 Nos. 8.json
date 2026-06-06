@@ -1,0 +1,18 @@
+{
+  "title": "Etudes Op. 10 Nos. 8",
+  "score_title": "Etude in F Major, Op. 10 No. 8",
+  "path": "CHOPIN FREDERIC/Etudes Op. 10 Nos. 8.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1829",
+  "duration": "2:24",
+  "duration_seconds": 144,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3018
+  },
+  "note_count": 2327,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

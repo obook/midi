@@ -1,0 +1,18 @@
+{
+  "title": "Sting - Shape Of My Heart",
+  "score_title": "Sting - Shape of My Heart",
+  "path": "POP-INTER/Sting - Shape Of My Heart.mid",
+  "composer": "Pop-Inter",
+  "performer": "Pop-Inter",
+  "date": "1993",
+  "duration": "4:23",
+  "duration_seconds": 263,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 310
+  },
+  "note_count": 1375,
+  "tempo_bpm": 75,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Rhapsody Op. 79 No. 1 in B minor",
+  "score_title": "Rhapsody in B Minor, Op. 79 No. 1",
+  "path": "BRAMS JOHANNES/Rhapsody Op. 79 No. 1 in B minor.mid",
+  "composer": "Johannes Brams",
+  "performer": "Johannes Brams",
+  "date": "1879",
+  "duration": "9:07",
+  "duration_seconds": 547,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 7647
+  },
+  "note_count": 4010,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

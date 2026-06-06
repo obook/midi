@@ -1,0 +1,18 @@
+{
+  "title": "Wives and Lowers",
+  "score_title": "Wives and Lovers",
+  "path": "PIANO BAR/Wives and Lowers.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1963",
+  "duration": "1:59",
+  "duration_seconds": 119,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 272
+  },
+  "note_count": 1231,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

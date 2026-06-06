@@ -1,0 +1,18 @@
+{
+  "title": "Wachet  auf, ruft uns die Stimme BWV 645",
+  "score_title": "Wachet auf, ruft uns die Stimme, BWV 645",
+  "path": "BACH JOHANN SEBASTIAN/Wachet  auf, ruft uns die Stimme BWV 645.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1746",
+  "duration": "3:16",
+  "duration_seconds": 196,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4048
+  },
+  "note_count": 931,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

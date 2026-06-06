@@ -1,0 +1,18 @@
+{
+  "title": "Scherzo No. 3",
+  "score_title": "Scherzo No. 3 in C-sharp Minor, Op. 39",
+  "path": "CHOPIN FREDERIC/Scherzo No. 3.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1839",
+  "duration": "7:10",
+  "duration_seconds": 430,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4821
+  },
+  "note_count": 5126,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

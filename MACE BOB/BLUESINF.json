@@ -1,0 +1,18 @@
+{
+  "title": "BLUESINF",
+  "score_title": "Blues in F",
+  "path": "MACE BOB/BLUESINF.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "4:10",
+  "duration_seconds": 250,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4
+  },
+  "note_count": 3284,
+  "tempo_bpm": 135,
+  "time_signature": "4/4"
+}

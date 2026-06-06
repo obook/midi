@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in A Minor, D. 537, I. Allegro ma non troppo",
+  "score_title": "Piano Sonata No. 4 in A Minor, D. 537: I. Allegro ma non troppo",
+  "path": "SCHUBERT FRANZ/Sonata in A Minor, D. 537, I. Allegro ma non troppo.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1817",
+  "duration": "5:09",
+  "duration_seconds": 309,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 6073
+  },
+  "note_count": 3066,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

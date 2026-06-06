@@ -1,0 +1,18 @@
+{
+  "title": "Prelude Op. 32 No. 8 in A Minor",
+  "score_title": "Prelude in A Minor, Op. 32 No. 8",
+  "path": "RACHMANINOV SERGUEÏ/Prelude Op. 32 No. 8 in A Minor.mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1910",
+  "duration": "1:48",
+  "duration_seconds": 108,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 491
+  },
+  "note_count": 1400,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

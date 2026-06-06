@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 23 in F Minor, Op. 57 Appassionata, First Movement",
+  "score_title": "Sonata No. 23 in F Minor, Op. 57 \"Appassionata\", I. Allegro assai",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 23 in F Minor, Op. 57 Appassionata, First Movement.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1806",
+  "duration": "9:46",
+  "duration_seconds": 586,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 9806
+  },
+  "note_count": 6361,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

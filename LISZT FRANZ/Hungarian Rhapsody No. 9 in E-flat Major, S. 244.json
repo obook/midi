@@ -1,0 +1,18 @@
+{
+  "title": "Hungarian Rhapsody No. 9 in E-flat Major, S. 244",
+  "score_title": "Hungarian Rhapsody No. 9 in E-flat Major, S. 244 No. 9 \"Carnival in Pest\"",
+  "path": "LISZT FRANZ/Hungarian Rhapsody No. 9 in E-flat Major, S. 244.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1847",
+  "duration": "10:45",
+  "duration_seconds": 645,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 6154
+  },
+  "note_count": 8775,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in D-flat Major, WTC I, BWV 848",
+  "score_title": "Prelude and Fugue in D-flat Major, BWV 848 (WTC I)",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in D-flat Major, WTC I, BWV 848.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1722",
+  "duration": "3:48",
+  "duration_seconds": 228,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 961
+  },
+  "note_count": 2239,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

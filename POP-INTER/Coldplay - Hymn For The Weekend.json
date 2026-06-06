@@ -1,0 +1,18 @@
+{
+  "title": "Coldplay - Hymn For The Weekend",
+  "score_title": "Coldplay - Hymn for the Weekend",
+  "path": "POP-INTER/Coldplay - Hymn For The Weekend.mid",
+  "composer": "Pop-Inter",
+  "performer": "Pop-Inter",
+  "date": "2015",
+  "duration": "3:22",
+  "duration_seconds": 202,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 488
+  },
+  "note_count": 1721,
+  "tempo_bpm": 91,
+  "time_signature": "4/4"
+}

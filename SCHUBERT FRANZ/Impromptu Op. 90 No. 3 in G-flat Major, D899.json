@@ -1,0 +1,18 @@
+{
+  "title": "Impromptu Op. 90 No. 3 in G-flat Major, D899",
+  "score_title": "Impromptu in G-flat Major, Op. 90 No. 3, D. 899",
+  "path": "SCHUBERT FRANZ/Impromptu Op. 90 No. 3 in G-flat Major, D899.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1827",
+  "duration": "5:54",
+  "duration_seconds": 354,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3214
+  },
+  "note_count": 2606,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "All by myself",
+  "score_title": "All by Myself",
+  "path": "DION CELINE/All_by_myself.mid",
+  "composer": "Celine Dion",
+  "performer": "Celine Dion",
+  "date": "1996",
+  "duration": "4:55",
+  "duration_seconds": 295,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 323
+  },
+  "note_count": 2999,
+  "tempo_bpm": 60,
+  "time_signature": "4/4"
+}

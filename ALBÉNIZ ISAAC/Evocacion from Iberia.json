@@ -1,0 +1,18 @@
+{
+  "title": "Evocacion from Iberia",
+  "score_title": "Evocacion, from Iberia, Book 1",
+  "path": "ALBÉNIZ ISAAC/Evocacion from Iberia.mid",
+  "composer": "Isaac Albéniz",
+  "performer": "Isaac Albéniz",
+  "date": "1906",
+  "duration": "5:15",
+  "duration_seconds": 315,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2374
+  },
+  "note_count": 1427,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

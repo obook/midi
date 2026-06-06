@@ -1,0 +1,18 @@
+{
+  "title": "Harlem Rag",
+  "score_title": "Harlem Rag",
+  "path": "RAGTIME/Harlem Rag.mid",
+  "composer": "Ragtime",
+  "performer": "Ragtime",
+  "date": "1897",
+  "duration": "2:31",
+  "duration_seconds": 151,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 344
+  },
+  "note_count": 2249,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

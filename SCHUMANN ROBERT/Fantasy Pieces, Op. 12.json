@@ -1,0 +1,18 @@
+{
+  "title": "Fantasy Pieces, Op. 12",
+  "score_title": "Fantasiestucke, Op. 12",
+  "path": "SCHUMANN ROBERT/Fantasy Pieces, Op. 12.mid",
+  "composer": "Robert Schumann",
+  "performer": "Robert Schumann",
+  "date": "1837",
+  "duration": "20:46",
+  "duration_seconds": 1246,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 19832
+  },
+  "note_count": 13809,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

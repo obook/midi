@@ -1,0 +1,18 @@
+{
+  "title": "Levon Live",
+  "score_title": "Levon (Live)",
+  "path": "ELTON JOHN/Levon Live.mid",
+  "composer": "John Elton",
+  "performer": "John Elton",
+  "date": "1971",
+  "duration": "7:24",
+  "duration_seconds": 444,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 4573,
+  "tempo_bpm": 70,
+  "time_signature": "1/4"
+}

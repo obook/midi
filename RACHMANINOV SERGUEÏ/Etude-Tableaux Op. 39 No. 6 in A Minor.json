@@ -1,0 +1,18 @@
+{
+  "title": "Etude-Tableaux Op. 39 No. 6 in A Minor",
+  "score_title": "Etude-Tableau in A Minor, Op. 39 No. 6",
+  "path": "RACHMANINOV SERGUEÏ/Etude-Tableaux Op. 39 No. 6 in A Minor.mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1917",
+  "duration": "2:38",
+  "duration_seconds": 158,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3025
+  },
+  "note_count": 2495,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

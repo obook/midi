@@ -1,0 +1,18 @@
+{
+  "title": "Feuillet d'album",
+  "score_title": "Feuillet d'album",
+  "path": "CHABRIER EMMANUEL/Feuillet d'album.mid",
+  "composer": "Emmanuel Chabrier",
+  "performer": "Emmanuel Chabrier",
+  "date": "1890",
+  "duration": "1:44",
+  "duration_seconds": 104,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 92
+  },
+  "note_count": 482,
+  "tempo_bpm": 92,
+  "time_signature": "3/4"
+}

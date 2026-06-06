@@ -1,0 +1,18 @@
+{
+  "title": "Max Morath - American Beauty",
+  "score_title": "American Beauty Rag",
+  "path": "RAGTIME/Max Morath - American Beauty.mid",
+  "composer": "Ragtime",
+  "performer": "Ragtime",
+  "date": "1913",
+  "duration": "4:16",
+  "duration_seconds": 256,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 851
+  },
+  "note_count": 2848,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

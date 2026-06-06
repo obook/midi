@@ -1,0 +1,18 @@
+{
+  "title": "Images, Book II, Poissons d'or",
+  "score_title": "Poissons d'or, from Images, Book II",
+  "path": "DEBUSSY CLAUDE/Images, Book II, Poissons d'or.mid",
+  "composer": "Claude Debussy",
+  "performer": "Claude Debussy",
+  "date": "1907",
+  "duration": "3:40",
+  "duration_seconds": 220,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4035
+  },
+  "note_count": 2809,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

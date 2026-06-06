@@ -1,0 +1,18 @@
+{
+  "title": "DRIFTAWA",
+  "score_title": "Drift Away",
+  "path": "MACE BOB/DRIFTAWA.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1973",
+  "duration": "3:02",
+  "duration_seconds": 182,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 238
+  },
+  "note_count": 1230,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

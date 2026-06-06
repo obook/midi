@@ -1,0 +1,18 @@
+{
+  "title": "Hungarian Rhapsody No. 13 (arr. Volodos)",
+  "score_title": "Hungarian Rhapsody No. 13 in A Minor, S. 244 (arr. Volodos)",
+  "path": "LISZT FRANZ/Hungarian Rhapsody No. 13 (arr. Volodos).mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1847",
+  "duration": "7:00",
+  "duration_seconds": 420,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4540
+  },
+  "note_count": 6171,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

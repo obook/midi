@@ -1,0 +1,18 @@
+{
+  "title": "Grande Waltz Op.18",
+  "score_title": "Grande Valse Brillante in E-flat Major, Op. 18",
+  "path": "CHOPIN FREDERIC/Grande Waltz Op.18.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1833",
+  "duration": "5:07",
+  "duration_seconds": 307,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 390
+  },
+  "note_count": 4413,
+  "tempo_bpm": 208,
+  "time_signature": "3/4"
+}

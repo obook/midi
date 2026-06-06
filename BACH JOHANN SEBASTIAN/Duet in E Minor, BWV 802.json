@@ -1,0 +1,18 @@
+{
+  "title": "Duet in E Minor, BWV 802",
+  "score_title": "Duet in E Minor, BWV 802",
+  "path": "BACH JOHANN SEBASTIAN/Duet in E Minor, BWV 802.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1739",
+  "duration": "2:09",
+  "duration_seconds": 129,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 29
+  },
+  "note_count": 994,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Maria Luisa",
+  "score_title": "Maria Luisa",
+  "path": "MARIANO LOUIS/Maria Luisa.mid",
+  "composer": "Louis Mariano",
+  "performer": "Louis Mariano",
+  "date": "1945",
+  "duration": "2:35",
+  "duration_seconds": 155,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4
+  },
+  "note_count": 615,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

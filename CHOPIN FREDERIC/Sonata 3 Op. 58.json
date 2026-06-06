@@ -1,0 +1,18 @@
+{
+  "title": "Sonata 3 Op. 58",
+  "score_title": "Piano Sonata No. 3 in B Minor, Op. 58",
+  "path": "CHOPIN FREDERIC/Sonata 3 Op. 58.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1844",
+  "duration": "24:00",
+  "duration_seconds": 1440,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 19435
+  },
+  "note_count": 13106,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Finale to B Minor Piano Sonata",
+  "score_title": "Piano Sonata No. 3 in B Minor, Op. 58: Finale",
+  "path": "CHOPIN FREDERIC/Finale to B Minor Piano Sonata.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1844",
+  "duration": "6:02",
+  "duration_seconds": 362,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2170
+  },
+  "note_count": 4851,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

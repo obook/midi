@@ -1,0 +1,18 @@
+{
+  "title": "STLOUISB",
+  "score_title": "St. Louis Blues",
+  "path": "MACE BOB/STLOUISB.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1914",
+  "duration": "4:34",
+  "duration_seconds": 274,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 255
+  },
+  "note_count": 2267,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

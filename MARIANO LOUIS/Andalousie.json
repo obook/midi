@@ -1,0 +1,18 @@
+{
+  "title": "Andalousie",
+  "score_title": "Andalousie",
+  "path": "MARIANO LOUIS/Andalousie.mid",
+  "composer": "Louis Mariano",
+  "performer": "Louis Mariano",
+  "date": "1947",
+  "duration": "3:08",
+  "duration_seconds": 188,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 1982,
+  "tempo_bpm": 200,
+  "time_signature": "4/4"
+}

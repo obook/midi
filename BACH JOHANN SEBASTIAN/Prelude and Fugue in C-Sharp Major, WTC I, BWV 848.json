@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in C-Sharp Major, WTC I, BWV 848",
+  "score_title": "Prelude and Fugue in C-sharp Major, WTC I, BWV 848",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in C-Sharp Major, WTC I, BWV 848.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1722",
+  "duration": "3:21",
+  "duration_seconds": 201,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 135
+  },
+  "note_count": 2246,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

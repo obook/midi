@@ -1,0 +1,18 @@
+{
+  "title": "Thirty-Two Variations in C Minor, WoO 80",
+  "score_title": "Thirty-Two Variations in C Minor, WoO 80",
+  "path": "BEETHOVEN LUDWIG VAN/Thirty-Two Variations in C Minor, WoO 80.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1806",
+  "duration": "9:58",
+  "duration_seconds": 598,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 9085
+  },
+  "note_count": 7345,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sonetto 104 del Petrarca",
+  "score_title": "Sonetto 104 del Petrarca, S. 161 No. 5",
+  "path": "LISZT FRANZ/Sonetto 104 del Petrarca.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1846",
+  "duration": "6:33",
+  "duration_seconds": 393,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4235
+  },
+  "note_count": 2006,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

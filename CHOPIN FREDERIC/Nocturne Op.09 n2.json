@@ -1,0 +1,18 @@
+{
+  "title": "Nocturne Op.09 n2",
+  "score_title": "Nocturne in E-flat Major, Op. 9 No. 2",
+  "path": "CHOPIN FREDERIC/Nocturne Op.09 n2.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1831",
+  "duration": "3:54",
+  "duration_seconds": 234,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 268
+  },
+  "note_count": 1298,
+  "tempo_bpm": 120,
+  "time_signature": "12/8"
+}

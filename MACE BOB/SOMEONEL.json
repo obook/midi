@@ -1,0 +1,18 @@
+{
+  "title": "SOMEONEL",
+  "score_title": "SOMEONEL",
+  "path": "MACE BOB/SOMEONEL.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "3:57",
+  "duration_seconds": 237,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 211
+  },
+  "note_count": 1397,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in B Major, WTC I, BWV 868",
+  "score_title": "Prelude and Fugue in B Major, WTC I, BWV 868",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in B Major, WTC I, BWV 868.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1722",
+  "duration": "3:06",
+  "duration_seconds": 186,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1753
+  },
+  "note_count": 1286,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

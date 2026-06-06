@@ -1,0 +1,18 @@
+{
+  "title": "ABEGG Variations Op. 1",
+  "score_title": "Abegg Variations, Op. 1",
+  "path": "SCHUMANN ROBERT/ABEGG Variations Op. 1.mid",
+  "composer": "Robert Schumann",
+  "performer": "Robert Schumann",
+  "date": "1830",
+  "duration": "7:36",
+  "duration_seconds": 456,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 7939
+  },
+  "note_count": 5849,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

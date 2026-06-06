@@ -1,0 +1,18 @@
+{
+  "title": "Suite No. 3 in D Minor",
+  "score_title": "Suite No. 3 in D Minor, HWV 428",
+  "path": "HANDEL GEORGE FRIEDRICH/Suite No. 3 in D Minor.mid",
+  "composer": "George Friedrich Handel",
+  "performer": "George Friedrich Handel",
+  "date": "1720",
+  "duration": "14:12",
+  "duration_seconds": 852,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3729
+  },
+  "note_count": 6309,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

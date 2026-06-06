@@ -1,0 +1,18 @@
+{
+  "title": "Mazurka in B Minor, Op. 33 No. 4",
+  "score_title": "Mazurka in B Minor, Op. 33 No. 4",
+  "path": "CHOPIN FREDERIC/Mazurka in B Minor, Op. 33 No. 4.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1838",
+  "duration": "5:15",
+  "duration_seconds": 315,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 323
+  },
+  "note_count": 2165,
+  "tempo_bpm": 120,
+  "time_signature": "3/4"
+}

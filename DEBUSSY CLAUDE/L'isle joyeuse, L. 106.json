@@ -1,0 +1,18 @@
+{
+  "title": "L'isle joyeuse, L. 106",
+  "score_title": "L'isle joyeuse, L. 106",
+  "path": "DEBUSSY CLAUDE/L'isle joyeuse, L. 106.mid",
+  "composer": "Claude Debussy",
+  "performer": "Claude Debussy",
+  "date": "1904",
+  "duration": "5:50",
+  "duration_seconds": 350,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3932
+  },
+  "note_count": 4740,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

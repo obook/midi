@@ -1,0 +1,18 @@
+{
+  "title": "GEORGIAO",
+  "score_title": "Georgia on My Mind",
+  "path": "MACE BOB/GEORGIAO.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1930",
+  "duration": "5:29",
+  "duration_seconds": 329,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 382
+  },
+  "note_count": 2351,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

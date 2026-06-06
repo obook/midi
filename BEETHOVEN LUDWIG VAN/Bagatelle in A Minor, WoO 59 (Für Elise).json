@@ -1,0 +1,18 @@
+{
+  "title": "Bagatelle in A Minor, WoO 59 (Für Elise)",
+  "score_title": "Bagatelle in A Minor, WoO 59 (\"Für Elise\")",
+  "path": "BEETHOVEN LUDWIG VAN/Bagatelle in A Minor, WoO 59 (Für Elise).mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1810",
+  "duration": "2:45",
+  "duration_seconds": 165,
+  "humanized": true,
+  "pedal": {
+    "present": true,
+    "events": 434
+  },
+  "note_count": 1005,
+  "tempo_bpm": 68,
+  "time_signature": "3/8"
+}

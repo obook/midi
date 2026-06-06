@@ -1,0 +1,18 @@
+{
+  "title": "Misty",
+  "score_title": "Misty",
+  "path": "GARNER ERROLL/Misty.mid",
+  "composer": "Erroll Garner",
+  "performer": "Erroll Garner",
+  "date": "1954",
+  "duration": "2:35",
+  "duration_seconds": 155,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 172
+  },
+  "note_count": 658,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

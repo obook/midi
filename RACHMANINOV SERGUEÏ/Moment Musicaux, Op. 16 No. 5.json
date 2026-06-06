@@ -1,0 +1,18 @@
+{
+  "title": "Moment Musicaux, Op. 16 No. 5",
+  "score_title": "Moment musical, Op. 16 No. 5 in D-flat Major",
+  "path": "RACHMANINOV SERGUEÏ/Moment Musicaux, Op. 16 No. 5.mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1896",
+  "duration": "3:19",
+  "duration_seconds": 199,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1004
+  },
+  "note_count": 1100,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

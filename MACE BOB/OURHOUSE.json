@@ -1,0 +1,18 @@
+{
+  "title": "OURHOUSE",
+  "score_title": "Our House",
+  "path": "MACE BOB/OURHOUSE.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "2:14",
+  "duration_seconds": 134,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 361
+  },
+  "note_count": 1367,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

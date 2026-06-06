@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 29 in B-flat Major, Op. 106",
+  "score_title": "Sonata No. 29 in B-flat Major, Op. 106 \"Hammerklavier\"",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 29 in B-flat Major, Op. 106.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1818",
+  "duration": "40:55",
+  "duration_seconds": 2455,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 39095
+  },
+  "note_count": 23469,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

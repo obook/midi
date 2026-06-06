@@ -1,0 +1,18 @@
+{
+  "title": "Praeludium und Fuge 2 in c-Moll BWV 847",
+  "score_title": "Prelude and Fugue No. 2 in C Minor, BWV 847",
+  "path": "BACH JOHANN SEBASTIAN/Praeludium und Fuge 2 in c-Moll BWV 847.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1722",
+  "duration": "3:04",
+  "duration_seconds": 184,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1
+  },
+  "note_count": 1845,
+  "tempo_bpm": 122,
+  "time_signature": "4/4"
+}

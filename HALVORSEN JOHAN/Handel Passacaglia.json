@@ -1,0 +1,18 @@
+{
+  "title": "Handel Passacaglia",
+  "score_title": "Passacaglia (after Handel)",
+  "path": "HALVORSEN JOHAN/Handel Passacaglia.mid",
+  "composer": "Johan Halvorsen",
+  "performer": "Johan Halvorsen",
+  "date": "1894",
+  "duration": "2:15",
+  "duration_seconds": 135,
+  "humanized": true,
+  "pedal": {
+    "present": true,
+    "events": 146
+  },
+  "note_count": 1030,
+  "tempo_bpm": 130,
+  "time_signature": "4/4"
+}

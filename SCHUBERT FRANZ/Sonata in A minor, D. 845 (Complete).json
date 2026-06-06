@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in A minor, D. 845 (Complete)",
+  "score_title": "Piano Sonata No. 16 in A Minor, D. 845",
+  "path": "SCHUBERT FRANZ/Sonata in A minor, D. 845 (Complete).mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1825",
+  "duration": "28:02",
+  "duration_seconds": 1682,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 13528
+  },
+  "note_count": 19014,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

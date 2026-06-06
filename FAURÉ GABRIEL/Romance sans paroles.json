@@ -1,0 +1,18 @@
+{
+  "title": "Romance sans paroles",
+  "score_title": "Romance sans paroles",
+  "path": "FAURÉ GABRIEL/Romance sans paroles.mid",
+  "composer": "Gabriel Fauré",
+  "performer": "Gabriel Fauré",
+  "date": "1863",
+  "duration": "2:05",
+  "duration_seconds": 125,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 145
+  },
+  "note_count": 766,
+  "tempo_bpm": 70,
+  "time_signature": "2/4"
+}

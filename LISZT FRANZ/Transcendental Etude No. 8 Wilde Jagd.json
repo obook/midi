@@ -1,0 +1,18 @@
+{
+  "title": "Transcendental Etude No. 8 Wilde Jagd",
+  "score_title": "Transcendental Etude No. 8 in C Minor, S. 139 \"Wilde Jagd\"",
+  "path": "LISZT FRANZ/Transcendental Etude No. 8 Wilde Jagd.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1852",
+  "duration": "4:58",
+  "duration_seconds": 298,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2659
+  },
+  "note_count": 6143,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Careless Whisper",
+  "score_title": "Careless Whisper",
+  "path": "ELTON JOHN/Careless Whisper.mid",
+  "composer": "John Elton",
+  "performer": "John Elton",
+  "date": "1984",
+  "duration": "3:35",
+  "duration_seconds": 215,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 160
+  },
+  "note_count": 1649,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

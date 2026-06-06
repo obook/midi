@@ -1,0 +1,18 @@
+{
+  "title": "Moment Musicaux, Op. 16 No. 3 in B Minor",
+  "score_title": "Moment musical, Op. 16 No. 3 in B Minor",
+  "path": "RACHMANINOV SERGUEÏ/Moment Musicaux, Op. 16 No. 3 in B Minor.mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1896",
+  "duration": "4:15",
+  "duration_seconds": 255,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3156
+  },
+  "note_count": 1122,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

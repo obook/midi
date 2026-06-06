@@ -1,0 +1,18 @@
+{
+  "title": "Noctune",
+  "score_title": "Nocturne",
+  "path": "FAURÉ GABRIEL/Noctune.mid",
+  "composer": "Gabriel Fauré",
+  "performer": "Gabriel Fauré",
+  "date": "",
+  "duration": "5:03",
+  "duration_seconds": 303,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 46
+  },
+  "note_count": 2912,
+  "tempo_bpm": 60,
+  "time_signature": "4/4"
+}

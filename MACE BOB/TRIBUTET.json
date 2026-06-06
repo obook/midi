@@ -1,0 +1,18 @@
+{
+  "title": "TRIBUTET",
+  "score_title": "TRIBUTET",
+  "path": "MACE BOB/TRIBUTET.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "5:14",
+  "duration_seconds": 314,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 296
+  },
+  "note_count": 2689,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

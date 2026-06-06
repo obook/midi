@@ -1,0 +1,18 @@
+{
+  "title": "In the Mists",
+  "score_title": "In the Mists",
+  "path": "JANÁČEK LEOŠ/In the Mists.mid",
+  "composer": "Leoš Janáček",
+  "performer": "Leoš Janáček",
+  "date": "1912",
+  "duration": "14:08",
+  "duration_seconds": 848,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 15127
+  },
+  "note_count": 4480,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

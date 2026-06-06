@@ -1,0 +1,18 @@
+{
+  "title": "Sonata K. 54",
+  "score_title": "Sonata in A Minor, K. 54",
+  "path": "SCARLATTI DOMENICO/Sonata K. 54.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "",
+  "duration": "3:24",
+  "duration_seconds": 204,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5078
+  },
+  "note_count": 1113,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

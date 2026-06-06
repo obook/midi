@@ -1,0 +1,18 @@
+{
+  "title": "Prelude Op. 23 No. 4 in D Major",
+  "score_title": "Prelude in D Major, Op. 23 No. 4",
+  "path": "RACHMANINOV SERGUEÏ/Prelude Op. 23 No. 4 in D Major.mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1901",
+  "duration": "4:12",
+  "duration_seconds": 252,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1558
+  },
+  "note_count": 1344,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

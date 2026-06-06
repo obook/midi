@@ -1,0 +1,18 @@
+{
+  "title": "French Suite No. 5 in G Major",
+  "score_title": "French Suite No. 5 in G Major, BWV 816",
+  "path": "BACH JOHANN SEBASTIAN/French Suite No. 5 in G Major.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1722",
+  "duration": "2:09",
+  "duration_seconds": 129,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 319
+  },
+  "note_count": 1623,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in B-flat Major, K.281",
+  "score_title": "Piano Sonata No. 3 in B-flat Major, K. 281",
+  "path": "MOZART WOLFGANG AMADEUS/Sonata in B-flat Major, K.281.mid",
+  "composer": "Wolfgang Amadeus Mozart",
+  "performer": "Wolfgang Amadeus Mozart",
+  "date": "1775",
+  "duration": "11:12",
+  "duration_seconds": 672,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 14729
+  },
+  "note_count": 5707,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": " Piano Sonata No. 3. in Bb [K281] - Allegro",
+  "score_title": "Piano Sonata No. 3 in B-flat Major, K. 281 - Allegro",
+  "path": "MOZART WOLFGANG AMADEUS/ Piano Sonata No. 3. in Bb [K281] - Allegro.mid",
+  "composer": "Wolfgang Amadeus Mozart",
+  "performer": "Wolfgang Amadeus Mozart",
+  "date": "1775",
+  "duration": "5:46",
+  "duration_seconds": 346,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 2831,
+  "tempo_bpm": 52,
+  "time_signature": "2/4"
+}

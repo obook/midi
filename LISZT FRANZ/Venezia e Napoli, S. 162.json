@@ -1,0 +1,18 @@
+{
+  "title": "Venezia e Napoli, S. 162",
+  "score_title": "Venezia e Napoli, S. 162",
+  "path": "LISZT FRANZ/Venezia e Napoli, S. 162.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1859",
+  "duration": "16:31",
+  "duration_seconds": 991,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 12855
+  },
+  "note_count": 12307,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

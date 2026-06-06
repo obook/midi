@@ -1,0 +1,18 @@
+{
+  "title": "Fantastic-Dances-Opus-5-Nr-1",
+  "score_title": "Three Fantastic Dances, Op. 5, No. 1",
+  "path": "SHOSTAKOVICH DMITRI/Fantastic-Dances-Opus-5-Nr-1.mid",
+  "composer": "Dmitri Shostakovich",
+  "performer": "Dmitri Shostakovich",
+  "date": "1922",
+  "duration": "1:07",
+  "duration_seconds": 67,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 115
+  },
+  "note_count": 500,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

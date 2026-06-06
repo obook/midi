@@ -1,0 +1,18 @@
+{
+  "title": "CHRISTMA",
+  "score_title": "CHRISTMA",
+  "path": "MACE BOB/CHRISTMA.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1944",
+  "duration": "4:20",
+  "duration_seconds": 260,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 289
+  },
+  "note_count": 1267,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

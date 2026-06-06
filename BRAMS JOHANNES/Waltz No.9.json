@@ -1,0 +1,18 @@
+{
+  "title": "Waltz No.9",
+  "score_title": "Waltz No. 9 in D Minor, Op. 39 No. 9",
+  "path": "BRAMS JOHANNES/Waltz No.9.mid",
+  "composer": "Johannes Brams",
+  "performer": "Johannes Brams",
+  "date": "1865",
+  "duration": "1:50",
+  "duration_seconds": 110,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 908
+  },
+  "note_count": 540,
+  "tempo_bpm": 160,
+  "time_signature": "3/4"
+}

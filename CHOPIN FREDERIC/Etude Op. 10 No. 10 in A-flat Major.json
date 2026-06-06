@@ -1,0 +1,18 @@
+{
+  "title": "Etude Op. 10 No. 10 in A-flat Major",
+  "score_title": "Etude in A-flat Major, Op. 10 No. 10",
+  "path": "CHOPIN FREDERIC/Etude Op. 10 No. 10 in A-flat Major.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1832",
+  "duration": "2:01",
+  "duration_seconds": 121,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1498
+  },
+  "note_count": 2232,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

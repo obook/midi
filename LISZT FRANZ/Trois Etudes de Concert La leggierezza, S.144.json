@@ -1,0 +1,18 @@
+{
+  "title": "Trois Etudes de Concert La leggierezza, S.144",
+  "score_title": "Trois Etudes de concert: La leggierezza, S. 144 No. 2",
+  "path": "LISZT FRANZ/Trois Etudes de Concert La leggierezza, S.144.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1849",
+  "duration": "4:38",
+  "duration_seconds": 278,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2243
+  },
+  "note_count": 3175,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

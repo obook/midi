@@ -1,0 +1,18 @@
+{
+  "title": "Two Fairy Tales",
+  "score_title": "Two Fairy Tales (Skazki)",
+  "path": "MEDTNER NIKOLAI/Two Fairy Tales.mid",
+  "composer": "Nikolai Medtner",
+  "performer": "Nikolai Medtner",
+  "date": "1909",
+  "duration": "6:52",
+  "duration_seconds": 412,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5054
+  },
+  "note_count": 5623,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

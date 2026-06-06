@@ -1,0 +1,18 @@
+{
+  "title": "Chanson Enfantine . Mon ane",
+  "score_title": "Mon ane",
+  "path": "ENFANTS CHILD/Chanson_Enfantine_._Mon_ane.mid",
+  "composer": "Child Enfants",
+  "performer": "Child Enfants",
+  "date": "",
+  "duration": "2:40",
+  "duration_seconds": 160,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 2540,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

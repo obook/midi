@@ -1,0 +1,18 @@
+{
+  "title": "PARAGONR",
+  "score_title": "PARAGONR",
+  "path": "MACE BOB/PARAGONR.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "3:04",
+  "duration_seconds": 184,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 557
+  },
+  "note_count": 2418,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

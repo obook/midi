@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in B-flat Major, K 333, First Movement",
+  "score_title": "Piano Sonata No. 13 in B-flat Major, K. 333, I. Allegro",
+  "path": "MOZART WOLFGANG AMADEUS/Sonata in B-flat Major, K 333, First Movement.mid",
+  "composer": "Wolfgang Amadeus Mozart",
+  "performer": "Wolfgang Amadeus Mozart",
+  "date": "1783",
+  "duration": "4:58",
+  "duration_seconds": 298,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2514
+  },
+  "note_count": 2850,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

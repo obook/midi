@@ -1,0 +1,18 @@
+{
+  "title": "Therose",
+  "score_title": "The Rose",
+  "path": "MACE BOB/Therose.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1979",
+  "duration": "3:50",
+  "duration_seconds": 230,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 200
+  },
+  "note_count": 1279,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

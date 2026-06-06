@@ -1,0 +1,18 @@
+{
+  "title": "Je te le dis quand meme piano 1",
+  "score_title": "Je te le dis quand meme",
+  "path": "BRUEL PATRICK/Je te le dis quand meme piano 1.mid",
+  "composer": "Patrick Bruel",
+  "performer": "Patrick Bruel",
+  "date": "1989",
+  "duration": "3:12",
+  "duration_seconds": 192,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 255
+  },
+  "note_count": 962,
+  "tempo_bpm": 72,
+  "time_signature": "4/4"
+}

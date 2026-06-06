@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in G Major, D. 896",
+  "score_title": "Sonata in G Major, D. 896",
+  "path": "SCHUBERT FRANZ/Sonata in G Major, D. 896.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1826",
+  "duration": "4:01",
+  "duration_seconds": 241,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3209
+  },
+  "note_count": 2719,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

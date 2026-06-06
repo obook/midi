@@ -1,0 +1,18 @@
+{
+  "title": "WHENSUNN",
+  "score_title": "When Sunny Gets Blue",
+  "path": "MACE BOB/WHENSUNN.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "3:52",
+  "duration_seconds": 232,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 221
+  },
+  "note_count": 1357,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

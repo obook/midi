@@ -1,0 +1,18 @@
+{
+  "title": "Sheep May Safely Graze, from Bachs Birthday Cantata",
+  "score_title": "Sheep May Safely Graze, from Bach's Birthday Cantata, BWV 208",
+  "path": "BACH JOHANN SEBASTIAN/Sheep May Safely Graze, from Bachs Birthday Cantata.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1713",
+  "duration": "4:29",
+  "duration_seconds": 269,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3666
+  },
+  "note_count": 2295,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

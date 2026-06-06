@@ -1,0 +1,18 @@
+{
+  "title": "Waltz No.2",
+  "score_title": "Waltz No. 2 in E Major, Op. 39 No. 2",
+  "path": "BRAMS JOHANNES/Waltz No.2.mid",
+  "composer": "Johannes Brams",
+  "performer": "Johannes Brams",
+  "date": "1865",
+  "duration": "1:15",
+  "duration_seconds": 75,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 28
+  },
+  "note_count": 578,
+  "tempo_bpm": 117,
+  "time_signature": "3/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Mazurka in G-sharp Minor, Op. 33, No. 1",
+  "score_title": "Mazurka in G-sharp Minor, Op. 33 No. 1",
+  "path": "CHOPIN FREDERIC/Mazurka in G-sharp Minor, Op. 33, No. 1.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1838",
+  "duration": "1:32",
+  "duration_seconds": 92,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1161
+  },
+  "note_count": 509,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

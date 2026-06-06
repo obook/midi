@@ -1,0 +1,18 @@
+{
+  "title": "SEPTEMBE",
+  "score_title": "September",
+  "path": "MACE BOB/SEPTEMBE.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "3:24",
+  "duration_seconds": 204,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 202
+  },
+  "note_count": 1192,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "The Cannonball",
+  "score_title": "The Cannonball",
+  "path": "MACE BOB/The Cannonball.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "2:12",
+  "duration_seconds": 132,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 315
+  },
+  "note_count": 2078,
+  "tempo_bpm": 155,
+  "time_signature": "4/4"
+}

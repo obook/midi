@@ -1,0 +1,18 @@
+{
+  "title": "Polonaise Op. 44",
+  "score_title": "Polonaise in F-sharp Minor, Op. 44",
+  "path": "CHOPIN FREDERIC/Polonaise Op. 44.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1841",
+  "duration": "10:56",
+  "duration_seconds": 656,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 9507
+  },
+  "note_count": 7652,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 15 in D Major, Op. 28, I. Allegro",
+  "score_title": "Sonata No. 15 in D Major, Op. 28 \"Pastoral\", I. Allegro",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 15 in D Major, Op. 28, I. Allegro.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1801",
+  "duration": "7:35",
+  "duration_seconds": 455,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 6892
+  },
+  "note_count": 3912,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

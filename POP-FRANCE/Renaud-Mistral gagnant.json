@@ -1,0 +1,18 @@
+{
+  "title": "Renaud-Mistral gagnant",
+  "score_title": "Renaud - Mistral gagnant",
+  "path": "POP-FRANCE/Renaud-Mistral gagnant.mid",
+  "composer": "Pop-France",
+  "performer": "Pop-France",
+  "date": "1985",
+  "duration": "2:50",
+  "duration_seconds": 170,
+  "humanized": true,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 845,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

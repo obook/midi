@@ -1,0 +1,18 @@
+{
+  "title": "HOWSWEET",
+  "score_title": "How Sweet It Is (To Be Loved by You)",
+  "path": "MACE BOB/HOWSWEET.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1964",
+  "duration": "3:55",
+  "duration_seconds": 235,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 388
+  },
+  "note_count": 2114,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 26 in E-Flat Major, Op. 81a, Les Adiex, First Movement",
+  "score_title": "Sonata No. 26 in E-flat Major, Op. 81a \"Les Adieux\", I. Das Lebewohl. Adagio - Allegro",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 26 in E-Flat Major, Op. 81a, Les Adiex, First Movement.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1810",
+  "duration": "5:37",
+  "duration_seconds": 337,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 8358
+  },
+  "note_count": 2646,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

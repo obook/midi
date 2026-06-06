@@ -1,0 +1,18 @@
+{
+  "title": "Alexanders Ragtime Band",
+  "score_title": "Alexander's Ragtime Band",
+  "path": "PIANO BAR/Alexanders Ragtime Band.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1911",
+  "duration": "4:52",
+  "duration_seconds": 292,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 438
+  },
+  "note_count": 2878,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

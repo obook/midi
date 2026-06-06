@@ -1,0 +1,18 @@
+{
+  "title": "Nine variations on a minuet by Duport, K537",
+  "score_title": "Nine Variations on a Minuet by Duport, K. 573",
+  "path": "MOZART WOLFGANG AMADEUS/Nine variations on a minuet by Duport, K537.mid",
+  "composer": "Wolfgang Amadeus Mozart",
+  "performer": "Wolfgang Amadeus Mozart",
+  "date": "1789",
+  "duration": "9:41",
+  "duration_seconds": 581,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 7598
+  },
+  "note_count": 4991,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

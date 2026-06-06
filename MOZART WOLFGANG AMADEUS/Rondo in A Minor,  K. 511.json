@@ -1,0 +1,18 @@
+{
+  "title": "Rondo in A Minor,  K. 511",
+  "score_title": "Rondo in A Minor, K. 511",
+  "path": "MOZART WOLFGANG AMADEUS/Rondo in A Minor,  K. 511.mid",
+  "composer": "Wolfgang Amadeus Mozart",
+  "performer": "Wolfgang Amadeus Mozart",
+  "date": "1787",
+  "duration": "8:21",
+  "duration_seconds": 501,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3447
+  },
+  "note_count": 3751,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Pixies - Where is my mind",
+  "score_title": "Pixies - Where Is My Mind?",
+  "path": "POP-INTER/Pixies - Where is my mind.mid",
+  "composer": "Pop-Inter",
+  "performer": "Pop-Inter",
+  "date": "1988",
+  "duration": "2:14",
+  "duration_seconds": 134,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 372
+  },
+  "note_count": 544,
+  "tempo_bpm": 75,
+  "time_signature": "2/4"
+}

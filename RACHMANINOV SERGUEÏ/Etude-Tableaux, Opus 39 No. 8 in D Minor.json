@@ -1,0 +1,18 @@
+{
+  "title": "Etude-Tableaux, Opus 39 No. 8 in D Minor",
+  "score_title": "Etude-Tableau in D Minor, Op. 39 No. 8",
+  "path": "RACHMANINOV SERGUEÏ/Etude-Tableaux, Opus 39 No. 8 in D Minor.mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1917",
+  "duration": "3:11",
+  "duration_seconds": 191,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1692
+  },
+  "note_count": 2850,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

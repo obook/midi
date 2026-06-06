@@ -1,0 +1,18 @@
+{
+  "title": "Toccata in C Major, Op. 7",
+  "score_title": "Toccata in C Major, Op. 7",
+  "path": "SCHUMANN ROBERT/Toccata in C Major, Op. 7.mid",
+  "composer": "Robert Schumann",
+  "performer": "Robert Schumann",
+  "date": "1830",
+  "duration": "4:50",
+  "duration_seconds": 290,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4608
+  },
+  "note_count": 6173,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

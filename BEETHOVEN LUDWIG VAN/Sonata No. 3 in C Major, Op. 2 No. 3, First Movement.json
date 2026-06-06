@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 3 in C Major, Op. 2 No. 3, First Movement",
+  "score_title": "Sonata No. 3 in C Major, Op. 2 No. 3, First Movement",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 3 in C Major, Op. 2 No. 3, First Movement.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1795",
+  "duration": "7:10",
+  "duration_seconds": 430,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4068
+  },
+  "note_count": 4368,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

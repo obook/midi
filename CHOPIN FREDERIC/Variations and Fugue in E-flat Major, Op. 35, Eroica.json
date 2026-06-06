@@ -1,0 +1,18 @@
+{
+  "title": "Variations and Fugue in E-flat Major, Op. 35, Eroica",
+  "score_title": "Variations and Fugue in E-flat Major, Op. 35 \"Eroica\"",
+  "path": "CHOPIN FREDERIC/Variations and Fugue in E-flat Major, Op. 35, Eroica.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1802",
+  "duration": "23:44",
+  "duration_seconds": 1424,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 12511
+  },
+  "note_count": 12300,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

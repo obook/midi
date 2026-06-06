@@ -1,0 +1,18 @@
+{
+  "title": "Complete Etudes, Opus 25",
+  "score_title": "Etudes, Op. 25 (Complete)",
+  "path": "CHOPIN FREDERIC/Complete Etudes, Opus 25.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1836",
+  "duration": "9:58",
+  "duration_seconds": 598,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 6208
+  },
+  "note_count": 9238,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

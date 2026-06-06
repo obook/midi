@@ -1,0 +1,18 @@
+{
+  "title": "Fousheé - deep end",
+  "score_title": "Foushee - Deep End",
+  "path": "POP-INTER/Fousheé - deep end.mid",
+  "composer": "Pop-Inter",
+  "performer": "Pop-Inter",
+  "date": "2020",
+  "duration": "2:21",
+  "duration_seconds": 141,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 336
+  },
+  "note_count": 961,
+  "tempo_bpm": 125,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Michel Fugain - Une belle histoire - Jazz - piano",
+  "score_title": "Une belle histoire",
+  "path": "POP-FRANCE/Michel Fugain - Une belle histoire - Jazz - piano.mid",
+  "composer": "Pop-France",
+  "performer": "Pop-France",
+  "date": "1972",
+  "duration": "3:16",
+  "duration_seconds": 196,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 1310,
+  "tempo_bpm": 88,
+  "time_signature": "4/4"
+}

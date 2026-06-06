@@ -1,0 +1,18 @@
+{
+  "title": "PARAGON",
+  "score_title": "PARAGON",
+  "path": "MACE BOB/PARAGON.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "3:03",
+  "duration_seconds": 183,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 557
+  },
+  "note_count": 2418,
+  "tempo_bpm": 180,
+  "time_signature": "4/4"
+}

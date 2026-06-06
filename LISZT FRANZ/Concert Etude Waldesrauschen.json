@@ -1,0 +1,18 @@
+{
+  "title": "Concert Etude Waldesrauschen",
+  "score_title": "Concert Etude \"Waldesrauschen\", S. 145 No. 1",
+  "path": "LISZT FRANZ/Concert Etude Waldesrauschen.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1863",
+  "duration": "3:48",
+  "duration_seconds": 228,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5433
+  },
+  "note_count": 3369,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

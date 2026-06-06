@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in E Major, WTC I, BWV 854",
+  "score_title": "Prelude and Fugue in E Major, WTC I, BWV 854",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in E Major, WTC I, BWV 854.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1722",
+  "duration": "2:28",
+  "duration_seconds": 148,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1431
+  },
+  "note_count": 1182,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Dante Sonata",
+  "score_title": "Dante Sonata, S. 161 No. 7",
+  "path": "LISZT FRANZ/Dante Sonata.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1849",
+  "duration": "16:25",
+  "duration_seconds": 985,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 9782
+  },
+  "note_count": 12781,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

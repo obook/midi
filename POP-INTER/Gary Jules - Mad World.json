@@ -1,0 +1,18 @@
+{
+  "title": "Gary Jules - Mad World",
+  "score_title": "Gary Jules - Mad World",
+  "path": "POP-INTER/Gary Jules - Mad World.mid",
+  "composer": "Pop-Inter",
+  "performer": "Pop-Inter",
+  "date": "2001",
+  "duration": "3:49",
+  "duration_seconds": 229,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 926
+  },
+  "note_count": 1820,
+  "tempo_bpm": 96,
+  "time_signature": "4/4"
+}

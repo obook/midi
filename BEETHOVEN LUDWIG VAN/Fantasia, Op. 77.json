@@ -1,0 +1,18 @@
+{
+  "title": "Fantasia, Op. 77",
+  "score_title": "Fantasia in G Minor, Op. 77",
+  "path": "BEETHOVEN LUDWIG VAN/Fantasia, Op. 77.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1809",
+  "duration": "8:47",
+  "duration_seconds": 527,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2875
+  },
+  "note_count": 5004,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

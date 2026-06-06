@@ -1,0 +1,18 @@
+{
+  "title": "Europe - The Final Countdown",
+  "score_title": "Europe - The Final Countdown",
+  "path": "POP-INTER/Europe - The Final Countdown.mid",
+  "composer": "Pop-Inter",
+  "performer": "Pop-Inter",
+  "date": "1986",
+  "duration": "4:41",
+  "duration_seconds": 281,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 602
+  },
+  "note_count": 3368,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

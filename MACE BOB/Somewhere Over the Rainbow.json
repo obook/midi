@@ -1,0 +1,18 @@
+{
+  "title": "Somewhere Over the Rainbow",
+  "score_title": "Somewhere Over the Rainbow",
+  "path": "MACE BOB/Somewhere Over the Rainbow.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1939",
+  "duration": "2:21",
+  "duration_seconds": 141,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 136
+  },
+  "note_count": 961,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

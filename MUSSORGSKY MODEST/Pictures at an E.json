@@ -1,0 +1,18 @@
+{
+  "title": "Pictures at an E",
+  "score_title": "Pictures at an Exhibition",
+  "path": "MUSSORGSKY MODEST/Pictures at an E.mid",
+  "composer": "Modest Mussorgsky",
+  "performer": "Modest Mussorgsky",
+  "date": "1874",
+  "duration": "33:29",
+  "duration_seconds": 2009,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 29592
+  },
+  "note_count": 15841,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

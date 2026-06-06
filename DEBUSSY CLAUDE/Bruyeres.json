@@ -1,0 +1,18 @@
+{
+  "title": "Bruyeres",
+  "score_title": "Bruyeres",
+  "path": "DEBUSSY CLAUDE/Bruyeres.mid",
+  "composer": "Claude Debussy",
+  "performer": "Claude Debussy",
+  "date": "1913",
+  "duration": "16:24",
+  "duration_seconds": 984,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 12265
+  },
+  "note_count": 8013,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

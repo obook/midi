@@ -1,0 +1,18 @@
+{
+  "title": "Amazing Grace",
+  "score_title": "Amazing Grace",
+  "path": "PIANO BAR/Amazing Grace.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "",
+  "duration": "2:56",
+  "duration_seconds": 176,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 183
+  },
+  "note_count": 1539,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

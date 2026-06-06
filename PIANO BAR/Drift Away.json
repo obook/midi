@@ -1,0 +1,18 @@
+{
+  "title": "Drift Away",
+  "score_title": "Drift Away",
+  "path": "PIANO BAR/Drift Away.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1973",
+  "duration": "3:02",
+  "duration_seconds": 182,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 238
+  },
+  "note_count": 1374,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

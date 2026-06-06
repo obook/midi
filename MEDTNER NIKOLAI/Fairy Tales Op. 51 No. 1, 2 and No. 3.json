@@ -1,0 +1,18 @@
+{
+  "title": "Fairy Tales Op. 51 No. 1, 2 and No. 3",
+  "score_title": "Fairy Tales (Skazki), Op. 51, Nos. 1, 2 and 3",
+  "path": "MEDTNER NIKOLAI/Fairy Tales Op. 51 No. 1, 2 and No. 3.mid",
+  "composer": "Nikolai Medtner",
+  "performer": "Nikolai Medtner",
+  "date": "1928",
+  "duration": "11:10",
+  "duration_seconds": 670,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 15923
+  },
+  "note_count": 8098,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Barbara-Gottingen",
+  "score_title": "Barbara - Gottingen",
+  "path": "POP-FRANCE/Barbara-Gottingen.mid",
+  "composer": "Pop-France",
+  "performer": "Pop-France",
+  "date": "1964",
+  "duration": "2:30",
+  "duration_seconds": 150,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 252
+  },
+  "note_count": 1282,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

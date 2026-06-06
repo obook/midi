@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in E Minor WTC I, BWV 855",
+  "score_title": "Prelude and Fugue in E Minor, WTC I, BWV 855",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in E Minor WTC I, BWV 855.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1722",
+  "duration": "3:21",
+  "duration_seconds": 201,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3027
+  },
+  "note_count": 2022,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

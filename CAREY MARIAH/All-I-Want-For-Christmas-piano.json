@@ -1,0 +1,18 @@
+{
+  "title": "All-I-Want-For-Christmas-piano",
+  "score_title": "All I Want for Christmas Is You",
+  "path": "CAREY MARIAH/All-I-Want-For-Christmas-piano.mid",
+  "composer": "Mariah Carey",
+  "performer": "Mariah Carey",
+  "date": "1994",
+  "duration": "2:00",
+  "duration_seconds": 120,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 950,
+  "tempo_bpm": 180,
+  "time_signature": "4/4"
+}

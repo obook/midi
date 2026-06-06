@@ -1,0 +1,18 @@
+{
+  "title": "Concert Etude No. 2, La leggierezza, S. 144",
+  "score_title": "Concert Etude No. 2 \"La Leggierezza\", S. 144",
+  "path": "LISZT FRANZ/Concert Etude No. 2, La leggierezza, S. 144.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1849",
+  "duration": "4:29",
+  "duration_seconds": 269,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 6067
+  },
+  "note_count": 3209,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Miniature Concerto for Piano and Orchestra",
+  "score_title": "Miniature Concerto for Piano and Orchestra",
+  "path": "HAYDN FRANZ JOSEPH/Miniature Concerto for Piano and Orchestra.mid",
+  "composer": "Franz Joseph Haydn",
+  "performer": "Franz Joseph Haydn",
+  "date": "",
+  "duration": "2:28",
+  "duration_seconds": 148,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 1519,
+  "tempo_bpm": 120,
+  "time_signature": "2/4"
+}

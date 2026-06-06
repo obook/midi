@@ -1,0 +1,18 @@
+{
+  "title": "Cataract Rag",
+  "score_title": "Cataract Rag",
+  "path": "RAGTIME/Cataract Rag.mid",
+  "composer": "Ragtime",
+  "performer": "Ragtime",
+  "date": "1914",
+  "duration": "3:15",
+  "duration_seconds": 195,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 574
+  },
+  "note_count": 2709,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

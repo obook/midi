@@ -1,0 +1,18 @@
+{
+  "title": "Tarantella, Venezia e Napoli in G Minor, S.159",
+  "score_title": "Tarantella in G Minor from Venezia e Napoli, S. 162 No. 3",
+  "path": "LISZT FRANZ/Tarantella, Venezia e Napoli in G Minor, S.159.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1840",
+  "duration": "8:24",
+  "duration_seconds": 504,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 8204
+  },
+  "note_count": 7342,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

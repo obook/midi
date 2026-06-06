@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in B Minor, L. 33",
+  "score_title": "Sonata in B Minor, L. 33",
+  "path": "SCARLATTI DOMENICO/Sonata in B Minor, L. 33.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "",
+  "duration": "2:46",
+  "duration_seconds": 166,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1649
+  },
+  "note_count": 844,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

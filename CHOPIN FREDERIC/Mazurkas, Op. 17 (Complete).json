@@ -1,0 +1,18 @@
+{
+  "title": "Mazurkas, Op. 17 (Complete)",
+  "score_title": "Mazurkas, Op. 17 (Complete)",
+  "path": "CHOPIN FREDERIC/Mazurkas, Op. 17 (Complete).mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1833",
+  "duration": "12:51",
+  "duration_seconds": 771,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 15373
+  },
+  "note_count": 5636,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

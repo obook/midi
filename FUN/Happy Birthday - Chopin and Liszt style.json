@@ -1,0 +1,18 @@
+{
+  "title": "Happy Birthday - Chopin and Liszt style",
+  "score_title": "Happy Birthday - Chopin and Liszt Style",
+  "path": "FUN/Happy Birthday - Chopin and Liszt style.mid",
+  "composer": "Fun",
+  "performer": "Fun",
+  "date": "1893",
+  "duration": "3:09",
+  "duration_seconds": 189,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 284
+  },
+  "note_count": 2233,
+  "tempo_bpm": 100,
+  "time_signature": "1/4"
+}

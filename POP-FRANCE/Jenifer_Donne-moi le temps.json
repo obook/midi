@@ -1,0 +1,18 @@
+{
+  "title": "Jenifer Donne-moi le temps",
+  "score_title": "Jenifer - Donne-moi le temps",
+  "path": "POP-FRANCE/Jenifer_Donne-moi le temps.mid",
+  "composer": "Pop-France",
+  "performer": "Pop-France",
+  "date": "2002",
+  "duration": "4:09",
+  "duration_seconds": 249,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 9857,
+  "tempo_bpm": 65,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Davidsbundlertanze, Op. 6",
+  "score_title": "Davidsbundlertanze, Op. 6",
+  "path": "SCHUMANN ROBERT/Davidsbundlertanze, Op. 6.mid",
+  "composer": "Robert Schumann",
+  "performer": "Robert Schumann",
+  "date": "1837",
+  "duration": "34:50",
+  "duration_seconds": 2090,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 25772
+  },
+  "note_count": 17108,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

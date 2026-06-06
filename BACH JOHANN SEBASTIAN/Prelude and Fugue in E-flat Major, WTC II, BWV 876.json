@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in E-flat Major, WTC II, BWV 876",
+  "score_title": "Prelude and Fugue in E-flat Major, WTC II, BWV 876",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in E-flat Major, WTC II, BWV 876.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1742",
+  "duration": "4:02",
+  "duration_seconds": 242,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2224
+  },
+  "note_count": 1611,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Overture in the French Style in B Minor, BWV 831",
+  "score_title": "Overture in the French Style in B Minor, BWV 831",
+  "path": "BACH JOHANN SEBASTIAN/Overture in the French Style in B Minor, BWV 831.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1735",
+  "duration": "7:14",
+  "duration_seconds": 434,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4536
+  },
+  "note_count": 3271,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

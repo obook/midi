@@ -1,0 +1,18 @@
+{
+  "title": "Hungarian Rhapsody No. 2 (Horowitz Edition)",
+  "score_title": "Hungarian Rhapsody No. 2 in C-sharp Minor, S. 244 No. 2 (Horowitz Edition)",
+  "path": "LISZT FRANZ/Hungarian Rhapsody No. 2 (Horowitz Edition).mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1847",
+  "duration": "8:48",
+  "duration_seconds": 528,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 6047
+  },
+  "note_count": 6972,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

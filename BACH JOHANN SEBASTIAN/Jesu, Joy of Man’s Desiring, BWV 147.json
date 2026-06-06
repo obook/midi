@@ -1,0 +1,18 @@
+{
+  "title": "Jesu, Joy of Man’s Desiring, BWV 147",
+  "score_title": "Jesu, Joy of Man's Desiring, BWV 147",
+  "path": "BACH JOHANN SEBASTIAN/Jesu, Joy of Man’s Desiring, BWV 147.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1723",
+  "duration": "3:21",
+  "duration_seconds": 201,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1691
+  },
+  "note_count": 1504,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

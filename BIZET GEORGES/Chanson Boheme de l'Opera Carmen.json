@@ -1,0 +1,18 @@
+{
+  "title": "Chanson Boheme de l'Opera Carmen",
+  "score_title": "Chanson bohème (de l'opéra Carmen)",
+  "path": "BIZET GEORGES/Chanson Boheme de l'Opera Carmen.mid",
+  "composer": "Georges Bizet",
+  "performer": "Georges Bizet",
+  "date": "1875",
+  "duration": "5:37",
+  "duration_seconds": 337,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3344
+  },
+  "note_count": 5542,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

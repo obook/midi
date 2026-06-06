@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in F# Min",
+  "score_title": "Sonata in F-sharp Minor",
+  "path": "CLEMENTI MUZIO/Sonata in F# Min.mid",
+  "composer": "Muzio Clementi",
+  "performer": "Muzio Clementi",
+  "date": "1790",
+  "duration": "10:49",
+  "duration_seconds": 649,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 12483
+  },
+  "note_count": 5065,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

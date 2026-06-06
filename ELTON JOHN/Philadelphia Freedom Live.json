@@ -1,0 +1,18 @@
+{
+  "title": "Philadelphia Freedom Live",
+  "score_title": "Philadelphia Freedom (Live)",
+  "path": "ELTON JOHN/Philadelphia Freedom Live.mid",
+  "composer": "John Elton",
+  "performer": "John Elton",
+  "date": "1975",
+  "duration": "6:55",
+  "duration_seconds": 415,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 4372,
+  "tempo_bpm": 128,
+  "time_signature": "2/4"
+}

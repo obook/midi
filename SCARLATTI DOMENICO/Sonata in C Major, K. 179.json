@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in C Major, K. 179",
+  "score_title": "Sonata in C Major, K. 179",
+  "path": "SCARLATTI DOMENICO/Sonata in C Major, K. 179.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "",
+  "duration": "2:12",
+  "duration_seconds": 132,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 498
+  },
+  "note_count": 1784,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

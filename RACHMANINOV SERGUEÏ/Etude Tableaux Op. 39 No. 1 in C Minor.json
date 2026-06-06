@@ -1,0 +1,18 @@
+{
+  "title": "Etude Tableaux Op. 39 No. 1 in C Minor",
+  "score_title": "Etude-Tableau in C Minor, Op. 39 No. 1",
+  "path": "RACHMANINOV SERGUEÏ/Etude Tableaux Op. 39 No. 1 in C Minor.mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1917",
+  "duration": "2:43",
+  "duration_seconds": 163,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2267
+  },
+  "note_count": 3154,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Der Mueller und der Bach2",
+  "score_title": "Der Müller und der Bach",
+  "path": "SCHUBERT FRANZ/Der Mueller und der Bach2.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1823",
+  "duration": "5:31",
+  "duration_seconds": 331,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3847
+  },
+  "note_count": 2048,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Lyric Piece in A Minor, Waltz, Op. 12 No. 2",
+  "score_title": "Lyric Piece in A Minor, Waltz, Op. 12 No. 2",
+  "path": "GRIEG EDVARD/Lyric Piece in A Minor, Waltz, Op. 12 No. 2.mid",
+  "composer": "Edvard Grieg",
+  "performer": "Edvard Grieg",
+  "date": "1867",
+  "duration": "1:51",
+  "duration_seconds": 111,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1117
+  },
+  "note_count": 624,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

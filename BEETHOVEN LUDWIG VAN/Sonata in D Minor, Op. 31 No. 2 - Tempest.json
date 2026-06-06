@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in D Minor, Op. 31 No. 2 - Tempest",
+  "score_title": "Sonata No. 17 in D Minor, Op. 31 No. 2 \"Tempest\"",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata in D Minor, Op. 31 No. 2 - Tempest.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1802",
+  "duration": "24:10",
+  "duration_seconds": 1450,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 26258
+  },
+  "note_count": 10111,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

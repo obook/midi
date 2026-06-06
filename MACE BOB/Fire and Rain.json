@@ -1,0 +1,18 @@
+{
+  "title": "Fire and Rain",
+  "score_title": "Fire and Rain",
+  "path": "MACE BOB/Fire and Rain.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1970",
+  "duration": "3:05",
+  "duration_seconds": 185,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 210
+  },
+  "note_count": 1150,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in B Minor, K. 87",
+  "score_title": "Sonata in B Minor, K. 87",
+  "path": "SCARLATTI DOMENICO/Sonata in B Minor, K. 87.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "",
+  "duration": "5:17",
+  "duration_seconds": 317,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4786
+  },
+  "note_count": 1693,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

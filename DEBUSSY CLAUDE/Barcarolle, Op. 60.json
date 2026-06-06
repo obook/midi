@@ -1,0 +1,18 @@
+{
+  "title": "Barcarolle, Op. 60",
+  "score_title": "Barcarolle in F-sharp Major, Op. 60",
+  "path": "DEBUSSY CLAUDE/Barcarolle, Op. 60.mid",
+  "composer": "Claude Debussy",
+  "performer": "Claude Debussy",
+  "date": "1846",
+  "duration": "8:02",
+  "duration_seconds": 482,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 6532
+  },
+  "note_count": 4788,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

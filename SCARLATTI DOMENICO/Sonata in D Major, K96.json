@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in D Major, K96",
+  "score_title": "Sonata in D Major, K. 96",
+  "path": "SCARLATTI DOMENICO/Sonata in D Major, K96.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "",
+  "duration": "2:19",
+  "duration_seconds": 139,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1234
+  },
+  "note_count": 1732,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

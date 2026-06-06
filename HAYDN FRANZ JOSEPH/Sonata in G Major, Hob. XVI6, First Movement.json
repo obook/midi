@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in G Major, Hob. XVI6, First Movement",
+  "score_title": "Sonata in G Major, Hob. XVI:6, First Movement",
+  "path": "HAYDN FRANZ JOSEPH/Sonata in G Major, Hob. XVI6, First Movement.mid",
+  "composer": "Franz Joseph Haydn",
+  "performer": "Franz Joseph Haydn",
+  "date": "1760",
+  "duration": "3:06",
+  "duration_seconds": 186,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1803
+  },
+  "note_count": 2254,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "We are the Champions",
+  "score_title": "We Are the Champions",
+  "path": "QUEEN/We are the Champions.mid",
+  "composer": "Queen",
+  "performer": "Queen",
+  "date": "1977",
+  "duration": "2:41",
+  "duration_seconds": 161,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 14
+  },
+  "note_count": 2255,
+  "tempo_bpm": 95,
+  "time_signature": "3/8"
+}

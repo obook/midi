@@ -1,0 +1,18 @@
+{
+  "title": "Ah vous dirais je Maman",
+  "score_title": "Ah ! vous dirai-je, Maman",
+  "path": "ENFANTS CHILD/Ah_vous_dirais_je_Maman.mid",
+  "composer": "Child Enfants",
+  "performer": "Child Enfants",
+  "date": "",
+  "duration": "2:35",
+  "duration_seconds": 155,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 694,
+  "tempo_bpm": 90,
+  "time_signature": "4/4"
+}

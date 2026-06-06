@@ -1,0 +1,18 @@
+{
+  "title": "Sonata E-Flat Major, Hob. XVI49, First Movement",
+  "score_title": "Piano Sonata in E-flat Major, Hob. XVI:49, First Movement",
+  "path": "HAYDN FRANZ JOSEPH/Sonata E-Flat Major, Hob. XVI49, First Movement.mid",
+  "composer": "Franz Joseph Haydn",
+  "performer": "Franz Joseph Haydn",
+  "date": "1790",
+  "duration": "4:58",
+  "duration_seconds": 298,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3763
+  },
+  "note_count": 2622,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

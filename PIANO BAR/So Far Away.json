@@ -1,0 +1,18 @@
+{
+  "title": "So Far Away",
+  "score_title": "So Far Away",
+  "path": "PIANO BAR/So Far Away.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1971",
+  "duration": "2:57",
+  "duration_seconds": 177,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 236
+  },
+  "note_count": 1063,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

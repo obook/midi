@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in D Major, K. 576, I - Allegro",
+  "score_title": "Piano Sonata No. 17 in D Major, K. 576: I. Allegro",
+  "path": "MOZART WOLFGANG AMADEUS/Sonata in D Major, K. 576, I - Allegro.mid",
+  "composer": "Wolfgang Amadeus Mozart",
+  "performer": "Wolfgang Amadeus Mozart",
+  "date": "1789",
+  "duration": "3:34",
+  "duration_seconds": 214,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1837
+  },
+  "note_count": 2097,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

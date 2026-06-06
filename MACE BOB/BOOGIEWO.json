@@ -1,0 +1,18 @@
+{
+  "title": "BOOGIEWO",
+  "score_title": "BOOGIEWO",
+  "path": "MACE BOB/BOOGIEWO.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "3:22",
+  "duration_seconds": 202,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 130
+  },
+  "note_count": 2558,
+  "tempo_bpm": 130,
+  "time_signature": "4/4"
+}

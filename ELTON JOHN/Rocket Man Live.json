@@ -1,0 +1,18 @@
+{
+  "title": "Rocket Man Live",
+  "score_title": "Rocket Man (Live)",
+  "path": "ELTON JOHN/Rocket Man Live.mid",
+  "composer": "John Elton",
+  "performer": "John Elton",
+  "date": "1972",
+  "duration": "9:23",
+  "duration_seconds": 563,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 3990,
+  "tempo_bpm": 70,
+  "time_signature": "2/4"
+}

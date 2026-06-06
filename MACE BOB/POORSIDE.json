@@ -1,0 +1,18 @@
+{
+  "title": "POORSIDE",
+  "score_title": "Poor Side of Town",
+  "path": "MACE BOB/POORSIDE.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1966",
+  "duration": "3:48",
+  "duration_seconds": 228,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 210
+  },
+  "note_count": 1485,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

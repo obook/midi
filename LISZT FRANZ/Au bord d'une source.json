@@ -1,0 +1,18 @@
+{
+  "title": "Au bord d'une source",
+  "score_title": "Au bord d'une source, S. 160 No. 4",
+  "path": "LISZT FRANZ/Au bord d'une source.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1848",
+  "duration": "3:32",
+  "duration_seconds": 212,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2601
+  },
+  "note_count": 2787,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

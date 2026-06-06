@@ -1,0 +1,18 @@
+{
+  "title": "Armando Manzanero - Adoro",
+  "score_title": "Adoro",
+  "path": "PIANO BAR/Armando Manzanero - Adoro.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1967",
+  "duration": "4:02",
+  "duration_seconds": 242,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 232
+  },
+  "note_count": 1736,
+  "tempo_bpm": 100,
+  "time_signature": "2/4"
+}

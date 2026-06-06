@@ -1,0 +1,18 @@
+{
+  "title": "Piano Sonata No. 7, Op. 83 in B-flat Major - II. Andante caloroso",
+  "score_title": "Piano Sonata No. 7 in B-flat Major, Op. 83 - II. Andante caloroso",
+  "path": "PROKOFIEFF SERGUEÏ/Piano Sonata No. 7, Op. 83 in B-flat Major - II. Andante caloroso.mid",
+  "composer": "Sergueï Prokofieff",
+  "performer": "Sergueï Prokofieff",
+  "date": "1942",
+  "duration": "6:46",
+  "duration_seconds": 406,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 576
+  },
+  "note_count": 2002,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "NATALIE",
+  "score_title": "NATALIE",
+  "path": "MACE BOB/NATALIE.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "4:20",
+  "duration_seconds": 260,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 296
+  },
+  "note_count": 2689,
+  "tempo_bpm": 120,
+  "time_signature": "12/8"
+}

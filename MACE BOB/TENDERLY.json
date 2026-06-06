@@ -1,0 +1,18 @@
+{
+  "title": "TENDERLY",
+  "score_title": "Tenderly",
+  "path": "MACE BOB/TENDERLY.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1946",
+  "duration": "2:53",
+  "duration_seconds": 173,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 138
+  },
+  "note_count": 1015,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Impromptu Op. 90 No. 2 E-flat Major",
+  "score_title": "Impromptu in E-flat Major, Op. 90 No. 2, D. 899",
+  "path": "SCHUBERT FRANZ/Impromptu Op. 90 No. 2 E-flat Major.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1827",
+  "duration": "4:25",
+  "duration_seconds": 265,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4159
+  },
+  "note_count": 3116,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

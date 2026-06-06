@@ -1,0 +1,18 @@
+{
+  "title": "Younhart",
+  "score_title": "Younhart",
+  "path": "MACE BOB/Younhart.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "3:07",
+  "duration_seconds": 187,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 205
+  },
+  "note_count": 1087,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

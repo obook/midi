@@ -1,0 +1,18 @@
+{
+  "title": "Humoresque",
+  "score_title": "Humoresque No. 7 in G-flat Major, Op. 101",
+  "path": "DVORAK ANTONIN/Humoresque.mid",
+  "composer": "Antonin Dvorak",
+  "performer": "Antonin Dvorak",
+  "date": "1894",
+  "duration": "3:04",
+  "duration_seconds": 184,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 306
+  },
+  "note_count": 1449,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

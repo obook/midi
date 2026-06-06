@@ -1,0 +1,18 @@
+{
+  "title": "Eroica Variations, Op. 35",
+  "score_title": "Eroica Variations, Op. 35",
+  "path": "BEETHOVEN LUDWIG VAN/Eroica Variations, Op. 35.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1802",
+  "duration": "21:52",
+  "duration_seconds": 1312,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 14547
+  },
+  "note_count": 12231,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

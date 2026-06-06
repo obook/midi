@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in C  Minor, D. 960",
+  "score_title": "Sonata in C  Minor, D. 960",
+  "path": "SCHUBERT FRANZ/Sonata in C  Minor, D. 960.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1828",
+  "duration": "3:23",
+  "duration_seconds": 203,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4936
+  },
+  "note_count": 1743,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

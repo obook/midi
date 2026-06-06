@@ -1,0 +1,18 @@
+{
+  "title": "Prelude from the English Suite No. 1 in A Major, BWV 806",
+  "score_title": "Prelude from English Suite No. 1 in A Major, BWV 806",
+  "path": "BACH JOHANN SEBASTIAN/Prelude from the English Suite No. 1 in A Major, BWV 806.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1715",
+  "duration": "4:05",
+  "duration_seconds": 245,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1762
+  },
+  "note_count": 3115,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

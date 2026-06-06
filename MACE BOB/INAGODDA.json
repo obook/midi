@@ -1,0 +1,18 @@
+{
+  "title": "INAGODDA",
+  "score_title": "In-A-Gadda-Da-Vida",
+  "path": "MACE BOB/INAGODDA.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1968",
+  "duration": "7:11",
+  "duration_seconds": 431,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 484
+  },
+  "note_count": 5930,
+  "tempo_bpm": 110,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Arabesque No.1",
+  "score_title": "Arabesque No. 1",
+  "path": "DEBUSSY CLAUDE/Arabesque No.1.mid",
+  "composer": "Claude Debussy",
+  "performer": "Claude Debussy",
+  "date": "1888",
+  "duration": "4:11",
+  "duration_seconds": 251,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1186
+  },
+  "note_count": 1450,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

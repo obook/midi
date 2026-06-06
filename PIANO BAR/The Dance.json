@@ -1,0 +1,18 @@
+{
+  "title": "The Dance",
+  "score_title": "The Dance",
+  "path": "PIANO BAR/The Dance.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1990",
+  "duration": "4:05",
+  "duration_seconds": 245,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 195
+  },
+  "note_count": 1414,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

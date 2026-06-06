@@ -1,0 +1,18 @@
+{
+  "title": "Yanni - Almost a Whisper",
+  "score_title": "Almost a Whisper",
+  "path": "PIANO BAR/Yanni - Almost_a_Whisper.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1992",
+  "duration": "3:18",
+  "duration_seconds": 198,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 1021,
+  "tempo_bpm": 110,
+  "time_signature": "4/4"
+}

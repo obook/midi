@@ -1,0 +1,18 @@
+{
+  "title": "JustBlues piano",
+  "score_title": "JustBlues piano",
+  "path": "HURTEBIS ERIC/JustBlues_piano.mid",
+  "composer": "Eric Hurtebis",
+  "performer": "Eric Hurtebis",
+  "date": "",
+  "duration": "3:24",
+  "duration_seconds": 204,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 73
+  },
+  "note_count": 2117,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

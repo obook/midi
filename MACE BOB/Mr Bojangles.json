@@ -1,0 +1,18 @@
+{
+  "title": "Mr Bojangles",
+  "score_title": "Mr. Bojangles",
+  "path": "MACE BOB/Mr Bojangles.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1968",
+  "duration": "2:53",
+  "duration_seconds": 173,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 230
+  },
+  "note_count": 1209,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "BEWITCHE",
+  "score_title": "Bewitched, Bothered and Bewildered",
+  "path": "MACE BOB/BEWITCHE.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1940",
+  "duration": "3:03",
+  "duration_seconds": 183,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 172
+  },
+  "note_count": 1018,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

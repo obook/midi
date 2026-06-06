@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 24 in F-Sharp Major, Op. 78",
+  "score_title": "Sonata No. 24 in F-sharp Major, Op. 78 \"A Therese\"",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 24 in F-Sharp Major, Op. 78.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1809",
+  "duration": "10:03",
+  "duration_seconds": 603,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 8056
+  },
+  "note_count": 5998,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

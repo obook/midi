@@ -1,0 +1,18 @@
+{
+  "title": "Bohemian Rhapsody piano-lead",
+  "score_title": "Bohemian Rhapsody",
+  "path": "QUEEN/Bohemian Rhapsody piano-lead.mid",
+  "composer": "Queen",
+  "performer": "Queen",
+  "date": "1975",
+  "duration": "5:23",
+  "duration_seconds": 323,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 2981,
+  "tempo_bpm": 78,
+  "time_signature": "2/4"
+}

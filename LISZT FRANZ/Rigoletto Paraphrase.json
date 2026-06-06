@@ -1,0 +1,18 @@
+{
+  "title": "Rigoletto Paraphrase",
+  "score_title": "Rigoletto Paraphrase, S. 434",
+  "path": "LISZT FRANZ/Rigoletto Paraphrase.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1859",
+  "duration": "6:29",
+  "duration_seconds": 389,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 8024
+  },
+  "note_count": 5464,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

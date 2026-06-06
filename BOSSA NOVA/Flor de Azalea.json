@@ -1,0 +1,18 @@
+{
+  "title": "Flor de Azalea",
+  "score_title": "Flor de Azalea",
+  "path": "BOSSA NOVA/Flor de Azalea.mid",
+  "composer": "Jorge Negrete",
+  "performer": "Jorge Negrete",
+  "date": "1948",
+  "duration": "2:23",
+  "duration_seconds": 143,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 154
+  },
+  "note_count": 1161,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

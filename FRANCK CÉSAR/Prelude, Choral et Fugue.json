@@ -1,0 +1,18 @@
+{
+  "title": "Prelude, Choral et Fugue",
+  "score_title": "Prélude, Choral et Fugue, M. 21",
+  "path": "FRANCK CÉSAR/Prelude, Choral et Fugue.mid",
+  "composer": "César Franck",
+  "performer": "César Franck",
+  "date": "1884",
+  "duration": "16:58",
+  "duration_seconds": 1018,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 16725
+  },
+  "note_count": 8209,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

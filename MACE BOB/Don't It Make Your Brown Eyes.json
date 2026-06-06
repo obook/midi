@@ -1,0 +1,18 @@
+{
+  "title": "Don't It Make Your Brown Eyes",
+  "score_title": "Don't It Make My Brown Eyes Blue",
+  "path": "MACE BOB/Don't It Make Your Brown Eyes.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1977",
+  "duration": "4:40",
+  "duration_seconds": 280,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 359
+  },
+  "note_count": 2553,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

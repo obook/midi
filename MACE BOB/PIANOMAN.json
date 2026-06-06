@@ -1,0 +1,18 @@
+{
+  "title": "PIANOMAN",
+  "score_title": "Piano Man",
+  "path": "MACE BOB/PIANOMAN.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1973",
+  "duration": "4:06",
+  "duration_seconds": 246,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 412
+  },
+  "note_count": 1850,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

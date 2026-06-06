@@ -1,0 +1,18 @@
+{
+  "title": "Oholynit",
+  "score_title": "O Holy Night",
+  "path": "MACE BOB/Oholynit.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1847",
+  "duration": "3:27",
+  "duration_seconds": 207,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 164
+  },
+  "note_count": 1140,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

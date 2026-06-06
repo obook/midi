@@ -1,0 +1,18 @@
+{
+  "title": "Son. Hob. XVI39",
+  "score_title": "Piano Sonata in G Major, Hob. XVI:39",
+  "path": "HAYDN FRANZ JOSEPH/Son. Hob. XVI39.mid",
+  "composer": "Franz Joseph Haydn",
+  "performer": "Franz Joseph Haydn",
+  "date": "1780",
+  "duration": "13:50",
+  "duration_seconds": 830,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 15204
+  },
+  "note_count": 7563,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

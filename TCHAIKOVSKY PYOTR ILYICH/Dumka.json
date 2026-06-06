@@ -1,0 +1,18 @@
+{
+  "title": "Dumka",
+  "score_title": "Dumka, Op. 59",
+  "path": "TCHAIKOVSKY PYOTR ILYICH/Dumka.mid",
+  "composer": "Pyotr Ilyich Tchaikovsky",
+  "performer": "Pyotr Ilyich Tchaikovsky",
+  "date": "1886",
+  "duration": "8:34",
+  "duration_seconds": 514,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 7914
+  },
+  "note_count": 4230,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

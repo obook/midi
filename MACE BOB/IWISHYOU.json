@@ -1,0 +1,18 @@
+{
+  "title": "IWISHYOU",
+  "score_title": "I Wish You Love",
+  "path": "MACE BOB/IWISHYOU.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1957",
+  "duration": "4:28",
+  "duration_seconds": 268,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 169
+  },
+  "note_count": 1298,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

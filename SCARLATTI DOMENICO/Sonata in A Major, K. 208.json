@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in A Major, K. 208",
+  "score_title": "Sonata in A Major, K. 208",
+  "path": "SCARLATTI DOMENICO/Sonata in A Major, K. 208.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "",
+  "duration": "2:23",
+  "duration_seconds": 143,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1945
+  },
+  "note_count": 505,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

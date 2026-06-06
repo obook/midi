@@ -1,0 +1,18 @@
+{
+  "title": "Bewitched, Bothered and Bew",
+  "score_title": "Bewitched, Bothered and Bewildered",
+  "path": "PIANO BAR/Bewitched, Bothered and Bew.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1940",
+  "duration": "3:03",
+  "duration_seconds": 183,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 172
+  },
+  "note_count": 1018,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Nutcracker Suite",
+  "score_title": "The Nutcracker Suite, Op. 71a",
+  "path": "TCHAIKOVSKY PYOTR ILYICH/Nutcracker Suite.mid",
+  "composer": "Pyotr Ilyich Tchaikovsky",
+  "performer": "Pyotr Ilyich Tchaikovsky",
+  "date": "1892",
+  "duration": "16:07",
+  "duration_seconds": 967,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4949
+  },
+  "note_count": 12940,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

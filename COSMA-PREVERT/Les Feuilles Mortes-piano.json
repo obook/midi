@@ -1,0 +1,18 @@
+{
+  "title": "Les Feuilles Mortes-piano",
+  "score_title": "Les Feuilles mortes",
+  "path": "COSMA-PREVERT/Les Feuilles Mortes-piano.mid",
+  "composer": "Cosma-Prevert",
+  "performer": "Cosma-Prevert",
+  "date": "1945",
+  "duration": "2:38",
+  "duration_seconds": 158,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 865,
+  "tempo_bpm": 160,
+  "time_signature": "4/4"
+}

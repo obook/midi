@@ -1,0 +1,18 @@
+{
+  "title": "LOSTINTH",
+  "score_title": "LOSTINTH",
+  "path": "MACE BOB/LOSTINTH.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "3:26",
+  "duration_seconds": 206,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 140
+  },
+  "note_count": 1047,
+  "tempo_bpm": 110,
+  "time_signature": "4/4"
+}

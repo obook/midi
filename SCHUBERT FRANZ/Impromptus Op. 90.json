@@ -1,0 +1,18 @@
+{
+  "title": "Impromptus Op. 90",
+  "score_title": "Impromptus, Op. 90, D. 899",
+  "path": "SCHUBERT FRANZ/Impromptus Op. 90.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1827",
+  "duration": "10:39",
+  "duration_seconds": 639,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 15185
+  },
+  "note_count": 5722,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

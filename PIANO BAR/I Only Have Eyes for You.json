@@ -1,0 +1,18 @@
+{
+  "title": "I Only Have Eyes for You",
+  "score_title": "I Only Have Eyes for You",
+  "path": "PIANO BAR/I Only Have Eyes for You.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1934",
+  "duration": "3:35",
+  "duration_seconds": 215,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 121
+  },
+  "note_count": 1091,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

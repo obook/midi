@@ -1,0 +1,18 @@
+{
+  "title": "Andante Maestoso from Nutcracker Suite",
+  "score_title": "Andante Maestoso from \"The Nutcracker\" Suite",
+  "path": "TCHAIKOVSKY PYOTR ILYICH/Andante Maestoso from Nutcracker Suite.mid",
+  "composer": "Pyotr Ilyich Tchaikovsky",
+  "performer": "Pyotr Ilyich Tchaikovsky",
+  "date": "1892",
+  "duration": "4:28",
+  "duration_seconds": 268,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1460
+  },
+  "note_count": 3734,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

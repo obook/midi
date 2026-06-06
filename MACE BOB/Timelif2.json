@@ -1,0 +1,18 @@
+{
+  "title": "Timelif2",
+  "score_title": "Timelif2",
+  "path": "MACE BOB/Timelif2.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "5:55",
+  "duration_seconds": 355,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 735
+  },
+  "note_count": 4266,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

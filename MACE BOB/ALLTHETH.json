@@ -1,0 +1,18 @@
+{
+  "title": "ALLTHETH",
+  "score_title": "ALLTHETH",
+  "path": "MACE BOB/ALLTHETH.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "2:43",
+  "duration_seconds": 163,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 130
+  },
+  "note_count": 886,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Le Jardin de Dolly No.3",
+  "score_title": "Dolly Suite, Op. 56: No. 3, Le Jardin de Dolly",
+  "path": "FAURÉ GABRIEL/Le Jardin de Dolly No.3.mid",
+  "composer": "Gabriel Fauré",
+  "performer": "Gabriel Fauré",
+  "date": "1895",
+  "duration": "2:38",
+  "duration_seconds": 158,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1084
+  },
+  "note_count": 1125,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

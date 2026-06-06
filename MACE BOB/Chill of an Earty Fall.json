@@ -1,0 +1,18 @@
+{
+  "title": "Chill of an Earty Fall",
+  "score_title": "The Chill of an Early Fall",
+  "path": "MACE BOB/Chill of an Earty Fall.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "3:03",
+  "duration_seconds": 183,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 206
+  },
+  "note_count": 1018,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

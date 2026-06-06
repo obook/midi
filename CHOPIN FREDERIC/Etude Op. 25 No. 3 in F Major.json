@@ -1,0 +1,18 @@
+{
+  "title": "Etude Op. 25 No. 3 in F Major",
+  "score_title": "Etude in F Major, Op. 25 No. 3",
+  "path": "CHOPIN FREDERIC/Etude Op. 25 No. 3 in F Major.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1836",
+  "duration": "1:37",
+  "duration_seconds": 97,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 351
+  },
+  "note_count": 1693,
+  "tempo_bpm": 145,
+  "time_signature": "3/4"
+}

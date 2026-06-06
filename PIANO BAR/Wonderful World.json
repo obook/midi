@@ -1,0 +1,18 @@
+{
+  "title": "Wonderful World",
+  "score_title": "What a Wonderful World",
+  "path": "PIANO BAR/Wonderful World.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1967",
+  "duration": "1:55",
+  "duration_seconds": 115,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 122
+  },
+  "note_count": 1101,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

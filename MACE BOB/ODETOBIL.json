@@ -1,0 +1,18 @@
+{
+  "title": "ODETOBIL",
+  "score_title": "Ode to Billie Joe",
+  "path": "MACE BOB/ODETOBIL.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1967",
+  "duration": "6:30",
+  "duration_seconds": 390,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 450
+  },
+  "note_count": 3000,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

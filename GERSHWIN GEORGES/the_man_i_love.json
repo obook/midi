@@ -1,0 +1,18 @@
+{
+  "title": "the man i love",
+  "score_title": "The Man I Love",
+  "path": "GERSHWIN GEORGES/the_man_i_love.mid",
+  "composer": "Georges Gershwin",
+  "performer": "Georges Gershwin",
+  "date": "1924",
+  "duration": "4:42",
+  "duration_seconds": 282,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 594
+  },
+  "note_count": 1913,
+  "tempo_bpm": 125,
+  "time_signature": "4/4"
+}

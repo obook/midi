@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in A Minor, D845",
+  "score_title": "Sonata in A Minor, D. 845",
+  "path": "SCHUBERT FRANZ/Sonata in A Minor, D845.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1825",
+  "duration": "30:46",
+  "duration_seconds": 1846,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 32956
+  },
+  "note_count": 18352,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

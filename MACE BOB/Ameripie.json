@@ -1,0 +1,18 @@
+{
+  "title": "Ameripie",
+  "score_title": "American Pie",
+  "path": "MACE BOB/Ameripie.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1971",
+  "duration": "7:37",
+  "duration_seconds": 457,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 852
+  },
+  "note_count": 9783,
+  "tempo_bpm": 143,
+  "time_signature": "4/4"
+}

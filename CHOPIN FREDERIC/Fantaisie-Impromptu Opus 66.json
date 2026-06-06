@@ -1,0 +1,18 @@
+{
+  "title": "Fantaisie-Impromptu Opus 66",
+  "score_title": "Fantaisie-Impromptu in C-sharp Minor, Op. 66",
+  "path": "CHOPIN FREDERIC/Fantaisie-Impromptu Opus 66.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1834",
+  "duration": "4:27",
+  "duration_seconds": 267,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 503
+  },
+  "note_count": 3050,
+  "tempo_bpm": 176,
+  "time_signature": "4/4"
+}

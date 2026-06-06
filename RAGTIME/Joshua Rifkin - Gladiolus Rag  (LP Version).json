@@ -1,0 +1,18 @@
+{
+  "title": "Joshua Rifkin - Gladiolus Rag  (LP Version)",
+  "score_title": "Gladiolus Rag",
+  "path": "RAGTIME/Joshua Rifkin - Gladiolus Rag  (LP Version).mid",
+  "composer": "Ragtime",
+  "performer": "Ragtime",
+  "date": "1907",
+  "duration": "4:14",
+  "duration_seconds": 254,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 630
+  },
+  "note_count": 2892,
+  "tempo_bpm": 75,
+  "time_signature": "2/4"
+}

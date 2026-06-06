@@ -1,0 +1,18 @@
+{
+  "title": "Place des grands hommes piano",
+  "score_title": "Place des grands hommes",
+  "path": "BRUEL PATRICK/Place des grands hommes piano.mid",
+  "composer": "Patrick Bruel",
+  "performer": "Patrick Bruel",
+  "date": "1989",
+  "duration": "4:26",
+  "duration_seconds": 266,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 3519,
+  "tempo_bpm": 128,
+  "time_signature": "4/4"
+}

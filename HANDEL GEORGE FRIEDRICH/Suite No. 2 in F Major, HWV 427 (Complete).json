@@ -1,0 +1,18 @@
+{
+  "title": "Suite No. 2 in F Major, HWV 427 (Complete)",
+  "score_title": "Suite No. 2 in F Major, HWV 427",
+  "path": "HANDEL GEORGE FRIEDRICH/Suite No. 2 in F Major, HWV 427 (Complete).mid",
+  "composer": "George Friedrich Handel",
+  "performer": "George Friedrich Handel",
+  "date": "1720",
+  "duration": "7:30",
+  "duration_seconds": 450,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3228
+  },
+  "note_count": 2973,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in G Major, K. 455",
+  "score_title": "Sonata in G Major, K. 455",
+  "path": "SCARLATTI DOMENICO/Sonata in G Major, K. 455.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "",
+  "duration": "1:34",
+  "duration_seconds": 94,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 628
+  },
+  "note_count": 1293,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 4 in E-flat Major, Op. 7, I. Allegro molto e con brio",
+  "score_title": "Sonata No. 4 in E-flat Major, Op. 7, I. Allegro molto e con brio",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 4 in E-flat Major, Op. 7, I. Allegro molto e con brio.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1797",
+  "duration": "5:33",
+  "duration_seconds": 333,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5440
+  },
+  "note_count": 3947,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

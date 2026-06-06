@@ -1,0 +1,18 @@
+{
+  "title": "Nocturne in Db",
+  "score_title": "Nocturne in D-flat Major, Op. 27 No. 2",
+  "path": "CHOPIN FREDERIC/Nocturne in Db.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1836",
+  "duration": "5:55",
+  "duration_seconds": 355,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4635
+  },
+  "note_count": 5127,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

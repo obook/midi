@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in B-Moll, No. 22 WTKII",
+  "score_title": "Prelude and Fugue in B-flat Minor, WTC II, No. 22, BWV 891",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in B-Moll, No. 22 WTKII.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1742",
+  "duration": "6:58",
+  "duration_seconds": 418,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3954
+  },
+  "note_count": 2809,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

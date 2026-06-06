@@ -1,0 +1,18 @@
+{
+  "title": "Piano Sonata No. 11 in A major, KV 331 2 Minuetto",
+  "score_title": "Piano Sonata No. 11 in A Major, K. 331 - II. Menuetto",
+  "path": "MOZART WOLFGANG AMADEUS/Piano Sonata No. 11 in A major, KV 331_2_Minuetto.mid",
+  "composer": "Wolfgang Amadeus Mozart",
+  "performer": "Wolfgang Amadeus Mozart",
+  "date": "1783",
+  "duration": "3:32",
+  "duration_seconds": 212,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1001
+  },
+  "note_count": 1575,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

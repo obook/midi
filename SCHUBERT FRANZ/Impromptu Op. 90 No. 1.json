@@ -1,0 +1,18 @@
+{
+  "title": "Impromptu Op. 90 No. 1",
+  "score_title": "Impromptu in C Minor, Op. 90 No. 1, D. 899",
+  "path": "SCHUBERT FRANZ/Impromptu Op. 90 No. 1.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1827",
+  "duration": "9:19",
+  "duration_seconds": 559,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 13544
+  },
+  "note_count": 4867,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

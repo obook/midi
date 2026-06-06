@@ -1,0 +1,18 @@
+{
+  "title": "Lullaby Op. 16, No. 1",
+  "score_title": "Berceuse, Op. 16 No. 1",
+  "path": "TCHAIKOVSKY PYOTR ILYICH/Lullaby Op. 16, No. 1.mid",
+  "composer": "Pyotr Ilyich Tchaikovsky",
+  "performer": "Pyotr Ilyich Tchaikovsky",
+  "date": "1873",
+  "duration": "4:55",
+  "duration_seconds": 295,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2418
+  },
+  "note_count": 1620,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

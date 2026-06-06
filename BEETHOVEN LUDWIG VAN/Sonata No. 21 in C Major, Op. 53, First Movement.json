@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 21 in C Major, Op. 53, First Movement",
+  "score_title": "Sonata No. 21 in C Major, Op. 53 \"Waldstein\", First Movement",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 21 in C Major, Op. 53, First Movement.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1804",
+  "duration": "8:02",
+  "duration_seconds": 482,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 7554
+  },
+  "note_count": 6536,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

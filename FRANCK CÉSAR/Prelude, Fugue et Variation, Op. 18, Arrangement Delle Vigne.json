@@ -1,0 +1,18 @@
+{
+  "title": "Prelude, Fugue et Variation, Op. 18, Arrangement Delle Vigne",
+  "score_title": "Prélude, Fugue et Variation, Op. 18 (Arr. Delle Vigne)",
+  "path": "FRANCK CÉSAR/Prelude, Fugue et Variation, Op. 18, Arrangement Delle Vigne.mid",
+  "composer": "César Franck",
+  "performer": "César Franck",
+  "date": "1862",
+  "duration": "10:27",
+  "duration_seconds": 627,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 10556
+  },
+  "note_count": 4203,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Symphonic Etudes, Op. 13 (with Posthumous Etudes)",
+  "score_title": "Symphonic Etudes, Op. 13 (with Posthumous Etudes)",
+  "path": "SCHUMANN ROBERT/Symphonic Etudes, Op. 13 (with Posthumous Etudes).mid",
+  "composer": "Robert Schumann",
+  "performer": "Robert Schumann",
+  "date": "1834",
+  "duration": "27:12",
+  "duration_seconds": 1632,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 14074
+  },
+  "note_count": 17912,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

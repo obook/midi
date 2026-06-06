@@ -1,0 +1,18 @@
+{
+  "title": "Scott Joplin - Entertainer",
+  "score_title": "The Entertainer",
+  "path": "RAGTIME/Scott Joplin - Entertainer.mid",
+  "composer": "Ragtime",
+  "performer": "Ragtime",
+  "date": "1902",
+  "duration": "3:35",
+  "duration_seconds": 215,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2
+  },
+  "note_count": 2615,
+  "tempo_bpm": 87,
+  "time_signature": "2/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Etude in A Minor",
+  "score_title": "Etude in A Minor",
+  "path": "MENDELSSOHN FELIX/Etude in A Minor.mid",
+  "composer": "Felix Mendelssohn",
+  "performer": "Felix Mendelssohn",
+  "date": "1838",
+  "duration": "1:16",
+  "duration_seconds": 76,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 273
+  },
+  "note_count": 1618,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

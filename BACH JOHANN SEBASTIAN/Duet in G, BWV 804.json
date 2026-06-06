@@ -1,0 +1,18 @@
+{
+  "title": "Duet in G, BWV 804",
+  "score_title": "Duet in G Major, BWV 804",
+  "path": "BACH JOHANN SEBASTIAN/Duet in G, BWV 804.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1739",
+  "duration": "2:02",
+  "duration_seconds": 122,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1
+  },
+  "note_count": 1383,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

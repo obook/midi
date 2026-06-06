@@ -1,0 +1,18 @@
+{
+  "title": "LADYRED",
+  "score_title": "The Lady in Red",
+  "path": "MACE BOB/LADYRED.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1986",
+  "duration": "3:15",
+  "duration_seconds": 195,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 174
+  },
+  "note_count": 1179,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

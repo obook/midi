@@ -1,0 +1,18 @@
+{
+  "title": "Barcarolle in F-sharp Major, Op. 60",
+  "score_title": "Barcarolle in F-sharp Major, Op. 60",
+  "path": "CHOPIN FREDERIC/Barcarolle in F-sharp Major, Op. 60.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1846",
+  "duration": "8:17",
+  "duration_seconds": 497,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5728
+  },
+  "note_count": 4634,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

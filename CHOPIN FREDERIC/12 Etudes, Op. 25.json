@@ -1,0 +1,18 @@
+{
+  "title": "12 Etudes, Op. 25",
+  "score_title": "Twelve Etudes, Op. 25",
+  "path": "CHOPIN FREDERIC/12 Etudes, Op. 25.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1837",
+  "duration": "5:23",
+  "duration_seconds": 323,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2729
+  },
+  "note_count": 5938,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

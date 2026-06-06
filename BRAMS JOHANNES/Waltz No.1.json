@@ -1,0 +1,18 @@
+{
+  "title": "Waltz No.1",
+  "score_title": "Waltz No. 1 in B Major, Op. 39 No. 1",
+  "path": "BRAMS JOHANNES/Waltz No.1.mid",
+  "composer": "Johannes Brams",
+  "performer": "Johannes Brams",
+  "date": "1865",
+  "duration": "0:47",
+  "duration_seconds": 47,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 509,
+  "tempo_bpm": 190,
+  "time_signature": "3/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in E Major, Op. 14, No. 1",
+  "score_title": "Sonata No. 9 in E Major, Op. 14 No. 1",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata in E Major, Op. 14, No. 1.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1798",
+  "duration": "12:34",
+  "duration_seconds": 754,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 14956
+  },
+  "note_count": 5752,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

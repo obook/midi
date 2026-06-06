@@ -1,0 +1,18 @@
+{
+  "title": "Etude Op. 25 No. 5 in E Minor",
+  "score_title": "Etude in E Minor, Op. 25 No. 5",
+  "path": "CHOPIN FREDERIC/Etude Op. 25 No. 5 in E Minor.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1837",
+  "duration": "3:01",
+  "duration_seconds": 181,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2535
+  },
+  "note_count": 2169,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "COLOURMY",
+  "score_title": "Colour My World",
+  "path": "MACE BOB/COLOURMY.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1970",
+  "duration": "2:37",
+  "duration_seconds": 157,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 82
+  },
+  "note_count": 720,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

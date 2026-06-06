@@ -1,0 +1,18 @@
+{
+  "title": "Etude Op. 10 No. 2 in A Minor",
+  "score_title": "Etude in A Minor, Op. 10 No. 2",
+  "path": "CHOPIN FREDERIC/Etude Op. 10 No. 2 in A Minor.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1830",
+  "duration": "1:16",
+  "duration_seconds": 76,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 559
+  },
+  "note_count": 1419,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "24 Preludes, Op. 28",
+  "score_title": "24 Preludes, Op. 28",
+  "path": "CHOPIN FREDERIC/24 Preludes, Op. 28.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1839",
+  "duration": "39:55",
+  "duration_seconds": 2395,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 31270
+  },
+  "note_count": 18833,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

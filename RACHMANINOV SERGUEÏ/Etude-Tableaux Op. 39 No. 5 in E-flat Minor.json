@@ -1,0 +1,18 @@
+{
+  "title": "Etude-Tableaux Op. 39 No. 5 in E-flat Minor",
+  "score_title": "Etude-Tableau in E-flat Minor, Op. 39 No. 5",
+  "path": "RACHMANINOV SERGUEÏ/Etude-Tableaux Op. 39 No. 5 in E-flat Minor.mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1917",
+  "duration": "4:32",
+  "duration_seconds": 272,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1216
+  },
+  "note_count": 3944,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

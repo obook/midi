@@ -1,0 +1,18 @@
+{
+  "title": "6103d moonlight sonata 27-2 3 (nc)smythe",
+  "score_title": "Piano Sonata No. 14 in C-sharp Minor, Op. 27 No. 2 \"Moonlight\" - Movement 3",
+  "path": "BEETHOVEN LUDWIG VAN/6103d_moonlight_sonata_27-2_3_(nc)smythe.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1801",
+  "duration": "7:51",
+  "duration_seconds": 471,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 608
+  },
+  "note_count": 6550,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

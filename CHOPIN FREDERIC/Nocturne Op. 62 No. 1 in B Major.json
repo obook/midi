@@ -1,0 +1,18 @@
+{
+  "title": "Nocturne Op. 62 No. 1 in B Major",
+  "score_title": "Nocturne in B Major, Op. 62 No. 1",
+  "path": "CHOPIN FREDERIC/Nocturne Op. 62 No. 1 in B Major.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1846",
+  "duration": "6:40",
+  "duration_seconds": 400,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5859
+  },
+  "note_count": 2128,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

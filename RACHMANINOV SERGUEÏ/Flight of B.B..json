@@ -1,0 +1,18 @@
+{
+  "title": "Flight of B.B.",
+  "score_title": "Flight of the Bumblebee",
+  "path": "RACHMANINOV SERGUEÏ/Flight of B.B..mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1900",
+  "duration": "1:55",
+  "duration_seconds": 115,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2880
+  },
+  "note_count": 2423,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

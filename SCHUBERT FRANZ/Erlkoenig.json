@@ -1,0 +1,18 @@
+{
+  "title": "Erlkoenig",
+  "score_title": "Erlkönig",
+  "path": "SCHUBERT FRANZ/Erlkoenig.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1815",
+  "duration": "4:35",
+  "duration_seconds": 275,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3783
+  },
+  "note_count": 5000,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

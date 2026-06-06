@@ -1,0 +1,18 @@
+{
+  "title": "Prelude from the English Suite No. 6",
+  "score_title": "Prelude from English Suite No. 6 in D Minor, BWV 811",
+  "path": "BACH JOHANN SEBASTIAN/Prelude from the English Suite No. 6.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1715",
+  "duration": "7:45",
+  "duration_seconds": 465,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1827
+  },
+  "note_count": 4637,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

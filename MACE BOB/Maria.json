@@ -1,0 +1,18 @@
+{
+  "title": "Maria",
+  "score_title": "Maria",
+  "path": "MACE BOB/Maria.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "2:00",
+  "duration_seconds": 120,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 170
+  },
+  "note_count": 701,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

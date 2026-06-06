@@ -1,0 +1,18 @@
+{
+  "title": "Candle In The Wind",
+  "score_title": "Candle in the Wind",
+  "path": "ELTON JOHN/Candle In The Wind.mid",
+  "composer": "John Elton",
+  "performer": "John Elton",
+  "date": "1973",
+  "duration": "3:52",
+  "duration_seconds": 232,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 4126,
+  "tempo_bpm": 60,
+  "time_signature": "2/4"
+}

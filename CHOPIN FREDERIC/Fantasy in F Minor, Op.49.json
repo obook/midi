@@ -1,0 +1,18 @@
+{
+  "title": "Fantasy in F Minor, Op.49",
+  "score_title": "Fantaisie in F Minor, Op. 49",
+  "path": "CHOPIN FREDERIC/Fantasy in F Minor, Op.49.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1841",
+  "duration": "12:43",
+  "duration_seconds": 763,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 6196
+  },
+  "note_count": 6446,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

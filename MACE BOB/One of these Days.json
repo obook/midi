@@ -1,0 +1,18 @@
+{
+  "title": "One of these Days",
+  "score_title": "One of These Days",
+  "path": "MACE BOB/One of these Days.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "3:07",
+  "duration_seconds": 187,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 150
+  },
+  "note_count": 1076,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

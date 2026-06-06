@@ -1,0 +1,18 @@
+{
+  "title": "Si Maman si - France Gall - piano seul",
+  "score_title": "Si maman si (France Gall) - piano seul",
+  "path": "BERGER MICHEL/Si Maman si - France Gall - piano seul.mid",
+  "composer": "Michel Berger",
+  "performer": "Michel Berger",
+  "date": "1977",
+  "duration": "2:39",
+  "duration_seconds": 159,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 677,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

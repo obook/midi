@@ -1,0 +1,18 @@
+{
+  "title": "Scott Joplin - Swipesy",
+  "score_title": "Swipesy Cakewalk",
+  "path": "RAGTIME/Scott Joplin - Swipesy.mid",
+  "composer": "Ragtime",
+  "performer": "Ragtime",
+  "date": "1900",
+  "duration": "3:07",
+  "duration_seconds": 187,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 252
+  },
+  "note_count": 2793,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

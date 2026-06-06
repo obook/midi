@@ -1,0 +1,18 @@
+{
+  "title": "Impromptu Op. 142 No. 3 in B-flat Major",
+  "score_title": "Impromptu in B-flat Major, Op. 142 No. 3, D. 935",
+  "path": "SCHUBERT FRANZ/Impromptu Op. 142 No. 3 in B-flat Major.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1827",
+  "duration": "7:51",
+  "duration_seconds": 471,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5762
+  },
+  "note_count": 3752,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

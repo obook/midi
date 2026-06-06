@@ -1,0 +1,18 @@
+{
+  "title": "LISTENTO",
+  "score_title": "LISTENTO",
+  "path": "MACE BOB/LISTENTO.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "4:21",
+  "duration_seconds": 261,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1048
+  },
+  "note_count": 8981,
+  "tempo_bpm": 125,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in F-sharp minor, op. 25 no. 5, 1st mov.",
+  "score_title": "Sonata in F-sharp Minor, Op. 25 No. 5, First Movement",
+  "path": "CLEMENTI MUZIO/Sonata in F-sharp minor, op. 25 no. 5, 1st mov..mid",
+  "composer": "Muzio Clementi",
+  "performer": "Muzio Clementi",
+  "date": "1790",
+  "duration": "4:30",
+  "duration_seconds": 270,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5639
+  },
+  "note_count": 1979,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

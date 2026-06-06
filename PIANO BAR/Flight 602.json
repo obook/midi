@@ -1,0 +1,18 @@
+{
+  "title": "Flight 602",
+  "score_title": "Flight 602",
+  "path": "PIANO BAR/Flight 602.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1971",
+  "duration": "2:37",
+  "duration_seconds": 157,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 214
+  },
+  "note_count": 1673,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

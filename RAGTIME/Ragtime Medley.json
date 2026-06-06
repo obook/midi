@@ -1,0 +1,18 @@
+{
+  "title": "Ragtime Medley",
+  "score_title": "Ragtime Medley",
+  "path": "RAGTIME/Ragtime Medley.mid",
+  "composer": "Ragtime",
+  "performer": "Ragtime",
+  "date": "",
+  "duration": "3:32",
+  "duration_seconds": 212,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2
+  },
+  "note_count": 3413,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

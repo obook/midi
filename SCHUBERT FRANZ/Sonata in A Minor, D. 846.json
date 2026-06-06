@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in A Minor, D. 846",
+  "score_title": "Sonata in A Minor, D. 846",
+  "path": "SCHUBERT FRANZ/Sonata in A Minor, D. 846.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1825",
+  "duration": "6:34",
+  "duration_seconds": 394,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 8186
+  },
+  "note_count": 3953,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Take 5-piano",
+  "score_title": "Take Five",
+  "path": "DESMOND PAUL/Take 5-piano.mid",
+  "composer": "Paul Desmond",
+  "performer": "Paul Desmond",
+  "date": "1959",
+  "duration": "3:18",
+  "duration_seconds": 198,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 6
+  },
+  "note_count": 2491,
+  "tempo_bpm": 180,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "ENDLESSL",
+  "score_title": "Endless Love",
+  "path": "MACE BOB/ENDLESSL.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1981",
+  "duration": "3:25",
+  "duration_seconds": 205,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 212
+  },
+  "note_count": 1303,
+  "tempo_bpm": 90,
+  "time_signature": "4/4"
+}

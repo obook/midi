@@ -1,0 +1,18 @@
+{
+  "title": "Children's Corner",
+  "score_title": "Children's Corner",
+  "path": "DEBUSSY CLAUDE/Children's Corner.mid",
+  "composer": "Claude Debussy",
+  "performer": "Claude Debussy",
+  "date": "1908",
+  "duration": "2:16",
+  "duration_seconds": 136,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 473
+  },
+  "note_count": 1112,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

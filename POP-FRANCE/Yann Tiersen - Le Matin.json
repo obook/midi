@@ -1,0 +1,18 @@
+{
+  "title": "Yann Tiersen - Le Matin",
+  "score_title": "Yann Tiersen - Le Matin",
+  "path": "POP-FRANCE/Yann Tiersen - Le Matin.mid",
+  "composer": "Pop-France",
+  "performer": "Pop-France",
+  "date": "1998",
+  "duration": "1:54",
+  "duration_seconds": 114,
+  "humanized": true,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 546,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

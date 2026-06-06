@@ -1,0 +1,18 @@
+{
+  "title": "Sonata K. 466",
+  "score_title": "Sonata in F Minor, K. 466",
+  "path": "SCARLATTI DOMENICO/Sonata K. 466.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "",
+  "duration": "2:00",
+  "duration_seconds": 120,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2648
+  },
+  "note_count": 1234,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

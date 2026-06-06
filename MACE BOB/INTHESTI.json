@@ -1,0 +1,18 @@
+{
+  "title": "INTHESTI",
+  "score_title": "In the Still of the Night",
+  "path": "MACE BOB/INTHESTI.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1937",
+  "duration": "4:28",
+  "duration_seconds": 268,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 176
+  },
+  "note_count": 1698,
+  "tempo_bpm": 110,
+  "time_signature": "4/4"
+}

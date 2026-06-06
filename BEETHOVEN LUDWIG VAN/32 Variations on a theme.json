@@ -1,0 +1,18 @@
+{
+  "title": "32 Variations on a theme",
+  "score_title": "32 Variations in C Minor on an Original Theme, WoO 80",
+  "path": "BEETHOVEN LUDWIG VAN/32 Variations on a theme.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1806",
+  "duration": "10:19",
+  "duration_seconds": 619,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 17
+  },
+  "note_count": 7318,
+  "tempo_bpm": 120,
+  "time_signature": "3/4"
+}

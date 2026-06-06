@@ -1,0 +1,18 @@
+{
+  "title": "piano concerto 1 2 piano",
+  "score_title": "Piano Concerto No. 1 in F-sharp Minor, Op. 1 - II. Andante",
+  "path": "RACHMANINOV SERGUEÏ/piano_concerto_1_2 piano.mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1891",
+  "duration": "4:58",
+  "duration_seconds": 298,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1047
+  },
+  "note_count": 2417,
+  "tempo_bpm": 132,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Ain t Misbehavin  (Piano Solo)",
+  "score_title": "Ain't Misbehavin' (Piano Solo)",
+  "path": "PIANO BAR/Ain_t Misbehavin_ (Piano Solo).mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1929",
+  "duration": "2:54",
+  "duration_seconds": 174,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 242
+  },
+  "note_count": 3132,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Etude Op. 8, No. 13",
+  "score_title": "Etude, Op. 8 No. 13",
+  "path": "SCRIABINE ALEXANDER/Etude Op. 8, No. 13.mid",
+  "composer": "Alexander Scriabine",
+  "performer": "Alexander Scriabine",
+  "date": "1894",
+  "duration": "2:43",
+  "duration_seconds": 163,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2445
+  },
+  "note_count": 2828,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

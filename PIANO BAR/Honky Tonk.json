@@ -1,0 +1,18 @@
+{
+  "title": "Honky Tonk",
+  "score_title": "Honky Tonk",
+  "path": "PIANO BAR/Honky Tonk.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1956",
+  "duration": "2:44",
+  "duration_seconds": 164,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 352
+  },
+  "note_count": 2198,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

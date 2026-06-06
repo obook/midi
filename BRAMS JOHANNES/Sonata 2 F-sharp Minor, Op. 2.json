@@ -1,0 +1,18 @@
+{
+  "title": "Sonata 2 F-sharp Minor, Op. 2",
+  "score_title": "Piano Sonata No. 2 in F-sharp Minor, Op. 2",
+  "path": "BRAMS JOHANNES/Sonata 2 F-sharp Minor, Op. 2.mid",
+  "composer": "Johannes Brams",
+  "performer": "Johannes Brams",
+  "date": "1852",
+  "duration": "24:01",
+  "duration_seconds": 1441,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 28364
+  },
+  "note_count": 13316,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

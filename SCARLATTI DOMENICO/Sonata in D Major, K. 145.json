@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in D Major, K. 145",
+  "score_title": "Sonata in D Major, K. 145",
+  "path": "SCARLATTI DOMENICO/Sonata in D Major, K. 145.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "",
+  "duration": "3:24",
+  "duration_seconds": 204,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1373
+  },
+  "note_count": 1862,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

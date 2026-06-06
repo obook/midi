@@ -1,0 +1,18 @@
+{
+  "title": "WALKNITE",
+  "score_title": "WALKNITE",
+  "path": "MACE BOB/WALKNITE.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "2:11",
+  "duration_seconds": 131,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 222
+  },
+  "note_count": 1376,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

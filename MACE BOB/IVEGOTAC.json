@@ -1,0 +1,18 @@
+{
+  "title": "IVEGOTAC",
+  "score_title": "I've Got a Crush on You",
+  "path": "MACE BOB/IVEGOTAC.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1928",
+  "duration": "2:21",
+  "duration_seconds": 141,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 142
+  },
+  "note_count": 818,
+  "tempo_bpm": 115,
+  "time_signature": "4/4"
+}

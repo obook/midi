@@ -1,0 +1,18 @@
+{
+  "title": "Polonaise-Fantasie, Op. 61",
+  "score_title": "Polonaise-Fantaisie in A-flat Major, Op. 61",
+  "path": "CHOPIN FREDERIC/Polonaise-Fantasie, Op. 61.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1846",
+  "duration": "12:54",
+  "duration_seconds": 774,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5191
+  },
+  "note_count": 6392,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

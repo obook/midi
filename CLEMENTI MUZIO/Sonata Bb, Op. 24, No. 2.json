@@ -1,0 +1,18 @@
+{
+  "title": "Sonata Bb, Op. 24, No. 2",
+  "score_title": "Sonata in B-flat Major, Op. 24 No. 2",
+  "path": "CLEMENTI MUZIO/Sonata Bb, Op. 24, No. 2.mid",
+  "composer": "Muzio Clementi",
+  "performer": "Muzio Clementi",
+  "date": "1790",
+  "duration": "11:08",
+  "duration_seconds": 668,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 7234
+  },
+  "note_count": 5983,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

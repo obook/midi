@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in E Major, Hob. XVI31, First Movement",
+  "score_title": "Sonata in E Major, Hob. XVI:31, First Movement",
+  "path": "HAYDN FRANZ JOSEPH/Sonata in E Major, Hob. XVI31, First Movement.mid",
+  "composer": "Franz Joseph Haydn",
+  "performer": "Franz Joseph Haydn",
+  "date": "1776",
+  "duration": "3:09",
+  "duration_seconds": 189,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2077
+  },
+  "note_count": 1609,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

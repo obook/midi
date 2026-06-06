@@ -1,0 +1,18 @@
+{
+  "title": "La Campanella",
+  "score_title": "La Campanella, S. 141 No. 3",
+  "path": "LISZT FRANZ/La Campanella.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1851",
+  "duration": "4:27",
+  "duration_seconds": 267,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1780
+  },
+  "note_count": 4533,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

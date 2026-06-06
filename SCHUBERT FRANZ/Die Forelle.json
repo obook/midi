@@ -1,0 +1,18 @@
+{
+  "title": "Die Forelle",
+  "score_title": "Die Forelle",
+  "path": "SCHUBERT FRANZ/Die Forelle.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1817",
+  "duration": "3:27",
+  "duration_seconds": 207,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3732
+  },
+  "note_count": 2284,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

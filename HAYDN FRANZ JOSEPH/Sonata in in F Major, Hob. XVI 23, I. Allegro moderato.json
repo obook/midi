@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in in F Major, Hob. XVI 23, I. Allegro moderato",
+  "score_title": "Sonata in F Major, Hob. XVI:23, I. Allegro moderato",
+  "path": "HAYDN FRANZ JOSEPH/Sonata in in F Major, Hob. XVI 23, I. Allegro moderato.mid",
+  "composer": "Franz Joseph Haydn",
+  "performer": "Franz Joseph Haydn",
+  "date": "1773",
+  "duration": "3:27",
+  "duration_seconds": 207,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 381
+  },
+  "note_count": 2090,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

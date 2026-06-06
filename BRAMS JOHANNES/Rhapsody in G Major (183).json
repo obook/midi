@@ -1,0 +1,18 @@
+{
+  "title": "Rhapsody in G Major (183)",
+  "score_title": "Rhapsody in G Minor, Op. 79 No. 2",
+  "path": "BRAMS JOHANNES/Rhapsody in G Major (183).mid",
+  "composer": "Johannes Brams",
+  "performer": "Johannes Brams",
+  "date": "1879",
+  "duration": "4:47",
+  "duration_seconds": 287,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 535
+  },
+  "note_count": 2745,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

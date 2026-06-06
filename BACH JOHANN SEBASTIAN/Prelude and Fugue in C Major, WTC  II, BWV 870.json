@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in C Major, WTC  II, BWV 870",
+  "score_title": "Prelude and Fugue in C Major, WTC II, BWV 870",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in C Major, WTC  II, BWV 870.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1742",
+  "duration": "3:51",
+  "duration_seconds": 231,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2007
+  },
+  "note_count": 1883,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

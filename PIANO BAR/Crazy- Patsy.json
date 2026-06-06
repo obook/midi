@@ -1,0 +1,18 @@
+{
+  "title": "Crazy- Patsy",
+  "score_title": "Crazy",
+  "path": "PIANO BAR/Crazy- Patsy.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1961",
+  "duration": "3:04",
+  "duration_seconds": 184,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 232
+  },
+  "note_count": 1106,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Chaconne BWV1004",
+  "score_title": "Chaconne in D Minor, from Partita No. 2, BWV 1004",
+  "path": "BACH JOHANN SEBASTIAN/Chaconne BWV1004.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1720",
+  "duration": "13:55",
+  "duration_seconds": 835,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 8664
+  },
+  "note_count": 8130,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

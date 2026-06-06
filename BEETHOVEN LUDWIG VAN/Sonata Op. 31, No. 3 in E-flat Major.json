@@ -1,0 +1,18 @@
+{
+  "title": "Sonata Op. 31, No. 3 in E-flat Major",
+  "score_title": "Sonata No. 18 in E-flat Major, Op. 31 No. 3 \"The Hunt\"",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata Op. 31, No. 3 in E-flat Major.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1802",
+  "duration": "18:39",
+  "duration_seconds": 1119,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 9848
+  },
+  "note_count": 10263,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in C Major, Hob. XVI50, First Movement",
+  "score_title": "Piano Sonata in C Major, Hob. XVI:50, First Movement",
+  "path": "HAYDN FRANZ JOSEPH/Sonata in C Major, Hob. XVI50, First Movement.mid",
+  "composer": "Franz Joseph Haydn",
+  "performer": "Franz Joseph Haydn",
+  "date": "1794",
+  "duration": "5:26",
+  "duration_seconds": 326,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2642
+  },
+  "note_count": 3516,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

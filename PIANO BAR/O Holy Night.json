@@ -1,0 +1,18 @@
+{
+  "title": "O Holy Night",
+  "score_title": "O Holy Night",
+  "path": "PIANO BAR/O Holy Night.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1847",
+  "duration": "3:27",
+  "duration_seconds": 207,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 164
+  },
+  "note_count": 1140,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

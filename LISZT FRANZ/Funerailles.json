@@ -1,0 +1,18 @@
+{
+  "title": "Funerailles",
+  "score_title": "Funerailles, S. 173 No. 7",
+  "path": "LISZT FRANZ/Funerailles.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1849",
+  "duration": "10:30",
+  "duration_seconds": 630,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 8724
+  },
+  "note_count": 4905,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in C major BWV 846",
+  "score_title": "Prelude and Fugue in C Major, WTC I, BWV 846",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in C major BWV 846.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1722",
+  "duration": "3:41",
+  "duration_seconds": 221,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 70
+  },
+  "note_count": 1284,
+  "tempo_bpm": 74,
+  "time_signature": "4/4"
+}

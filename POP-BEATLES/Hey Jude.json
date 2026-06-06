@@ -1,0 +1,18 @@
+{
+  "title": "Hey Jude",
+  "score_title": "Hey Jude",
+  "path": "POP-BEATLES/Hey Jude.mid",
+  "composer": "Pop-Beatles",
+  "performer": "Pop-Beatles",
+  "date": "1968",
+  "duration": "3:43",
+  "duration_seconds": 223,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 224
+  },
+  "note_count": 1531,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

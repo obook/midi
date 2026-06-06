@@ -1,0 +1,18 @@
+{
+  "title": "Nocturne in C-sharp Minor, Op. 27 No. 1",
+  "score_title": "Nocturne in C-sharp Minor, Op. 27 No. 1",
+  "path": "CHOPIN FREDERIC/Nocturne in C-sharp Minor, Op. 27 No. 1.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1836",
+  "duration": "4:54",
+  "duration_seconds": 294,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1625
+  },
+  "note_count": 1592,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

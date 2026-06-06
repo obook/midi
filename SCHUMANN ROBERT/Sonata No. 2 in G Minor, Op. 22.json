@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 2 in G Minor, Op. 22",
+  "score_title": "Piano Sonata No. 2 in G Minor, Op. 22",
+  "path": "SCHUMANN ROBERT/Sonata No. 2 in G Minor, Op. 22.mid",
+  "composer": "Robert Schumann",
+  "performer": "Robert Schumann",
+  "date": "1838",
+  "duration": "16:15",
+  "duration_seconds": 975,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 18067
+  },
+  "note_count": 11094,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

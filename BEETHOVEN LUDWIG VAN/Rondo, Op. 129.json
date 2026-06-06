@@ -1,0 +1,18 @@
+{
+  "title": "Rondo, Op. 129",
+  "score_title": "Rondo a capriccio in G Major, Op. 129 (\"Rage Over a Lost Penny\")",
+  "path": "BEETHOVEN LUDWIG VAN/Rondo, Op. 129.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1795",
+  "duration": "5:38",
+  "duration_seconds": 338,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1755
+  },
+  "note_count": 5636,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

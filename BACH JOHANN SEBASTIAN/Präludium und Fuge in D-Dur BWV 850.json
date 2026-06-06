@@ -1,0 +1,18 @@
+{
+  "title": "Präludium und Fuge in D-Dur BWV 850",
+  "score_title": "Prelude and Fugue in D Major, WTC I, BWV 850",
+  "path": "BACH JOHANN SEBASTIAN/Präludium und Fuge in D-Dur BWV 850.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1722",
+  "duration": "2:48",
+  "duration_seconds": 168,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1
+  },
+  "note_count": 1503,
+  "tempo_bpm": 139,
+  "time_signature": "4/4"
+}

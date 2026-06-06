@@ -1,0 +1,18 @@
+{
+  "title": "Hungarian Rhapsody",
+  "score_title": "Hungarian Rhapsody",
+  "path": "LISZT FRANZ/Hungarian Rhapsody.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "",
+  "duration": "10:08",
+  "duration_seconds": 608,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4568
+  },
+  "note_count": 7539,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in D Minor, K. 9 L. 413",
+  "score_title": "Sonata in D Minor, K. 9 (L. 413)",
+  "path": "SCARLATTI DOMENICO/Sonata in D Minor, K. 9 L. 413.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "1738",
+  "duration": "1:33",
+  "duration_seconds": 93,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 466
+  },
+  "note_count": 860,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

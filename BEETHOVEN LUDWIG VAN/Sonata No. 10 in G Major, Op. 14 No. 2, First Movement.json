@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 10 in G Major, Op. 14 No. 2, First Movement",
+  "score_title": "Sonata No. 10 in G Major, Op. 14 No. 2 - I. Allegro",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 10 in G Major, Op. 14 No. 2, First Movement.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1799",
+  "duration": "4:38",
+  "duration_seconds": 278,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4740
+  },
+  "note_count": 2609,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

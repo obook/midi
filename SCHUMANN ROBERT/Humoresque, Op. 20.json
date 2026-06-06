@@ -1,0 +1,18 @@
+{
+  "title": "Humoresque, Op. 20",
+  "score_title": "Humoreske in B-flat Major, Op. 20",
+  "path": "SCHUMANN ROBERT/Humoresque, Op. 20.mid",
+  "composer": "Robert Schumann",
+  "performer": "Robert Schumann",
+  "date": "1839",
+  "duration": "27:09",
+  "duration_seconds": 1629,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 14860
+  },
+  "note_count": 12406,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

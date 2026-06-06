@@ -1,0 +1,18 @@
+{
+  "title": "Thisboy",
+  "score_title": "This Boy",
+  "path": "MACE BOB/Thisboy.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1963",
+  "duration": "2:52",
+  "duration_seconds": 172,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 191
+  },
+  "note_count": 1038,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

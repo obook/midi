@@ -1,0 +1,18 @@
+{
+  "title": "MACARTHU",
+  "score_title": "MacArthur Park",
+  "path": "MACE BOB/MACARTHU.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1968",
+  "duration": "4:44",
+  "duration_seconds": 284,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 400
+  },
+  "note_count": 3003,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

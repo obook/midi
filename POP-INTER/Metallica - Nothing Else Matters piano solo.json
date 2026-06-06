@@ -1,0 +1,18 @@
+{
+  "title": "Metallica - Nothing Else Matters piano solo",
+  "score_title": "Nothing Else Matters",
+  "path": "POP-INTER/Metallica - Nothing Else Matters piano solo.mid",
+  "composer": "Pop-Inter",
+  "performer": "Pop-Inter",
+  "date": "1991",
+  "duration": "6:19",
+  "duration_seconds": 379,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 570
+  },
+  "note_count": 1761,
+  "tempo_bpm": 70,
+  "time_signature": "6/8"
+}

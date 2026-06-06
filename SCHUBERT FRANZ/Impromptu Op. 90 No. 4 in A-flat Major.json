@@ -1,0 +1,18 @@
+{
+  "title": "Impromptu Op. 90 No. 4 in A-flat Major",
+  "score_title": "Impromptu in A-flat Major, Op. 90 No. 4, D. 899",
+  "path": "SCHUBERT FRANZ/Impromptu Op. 90 No. 4 in A-flat Major.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1827",
+  "duration": "6:06",
+  "duration_seconds": 366,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 6477
+  },
+  "note_count": 4425,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

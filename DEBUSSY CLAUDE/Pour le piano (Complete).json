@@ -1,0 +1,18 @@
+{
+  "title": "Pour le piano (Complete)",
+  "score_title": "Pour le piano, L. 95 (Complete)",
+  "path": "DEBUSSY CLAUDE/Pour le piano (Complete).mid",
+  "composer": "Claude Debussy",
+  "performer": "Claude Debussy",
+  "date": "1901",
+  "duration": "12:16",
+  "duration_seconds": 736,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 8062
+  },
+  "note_count": 8335,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

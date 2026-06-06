@@ -1,0 +1,18 @@
+{
+  "title": "Brook",
+  "score_title": "To the Brook, Op. 62 No. 4",
+  "path": "GRIEG EDVARD/Brook.mid",
+  "composer": "Edvard Grieg",
+  "performer": "Edvard Grieg",
+  "date": "1893",
+  "duration": "0:53",
+  "duration_seconds": 53,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 264
+  },
+  "note_count": 689,
+  "tempo_bpm": 185,
+  "time_signature": "3/4"
+}

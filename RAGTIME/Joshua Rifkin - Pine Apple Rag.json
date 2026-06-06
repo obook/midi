@@ -1,0 +1,18 @@
+{
+  "title": "Joshua Rifkin - Pine Apple Rag",
+  "score_title": "Pine Apple Rag",
+  "path": "RAGTIME/Joshua Rifkin - Pine Apple Rag.mid",
+  "composer": "Ragtime",
+  "performer": "Ragtime",
+  "date": "1908",
+  "duration": "4:09",
+  "duration_seconds": 249,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 730
+  },
+  "note_count": 3567,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

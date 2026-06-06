@@ -1,0 +1,18 @@
+{
+  "title": "FOOLINAR",
+  "score_title": "FOOLINAR",
+  "path": "MACE BOB/FOOLINAR.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "3:17",
+  "duration_seconds": 197,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 56
+  },
+  "note_count": 1563,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

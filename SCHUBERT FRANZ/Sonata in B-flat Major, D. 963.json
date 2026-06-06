@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in B-flat Major, D. 963",
+  "score_title": "Sonata in B-flat Major, D. 963",
+  "path": "SCHUBERT FRANZ/Sonata in B-flat Major, D. 963.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1828",
+  "duration": "8:36",
+  "duration_seconds": 516,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 11517
+  },
+  "note_count": 5551,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

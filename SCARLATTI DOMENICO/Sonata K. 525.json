@@ -1,0 +1,18 @@
+{
+  "title": "Sonata K. 525",
+  "score_title": "Sonata in F Major, K. 525",
+  "path": "SCARLATTI DOMENICO/Sonata K. 525.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "",
+  "duration": "1:05",
+  "duration_seconds": 65,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 395
+  },
+  "note_count": 882,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

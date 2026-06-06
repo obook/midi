@@ -1,0 +1,18 @@
+{
+  "title": "Polonaise in E Major",
+  "score_title": "Polonaise No. 2 in E Major, S. 223 No. 2",
+  "path": "LISZT FRANZ/Polonaise in E Major.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1851",
+  "duration": "7:46",
+  "duration_seconds": 466,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 6252
+  },
+  "note_count": 7062,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

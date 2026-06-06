@@ -1,0 +1,18 @@
+{
+  "title": "Happy Birthday",
+  "score_title": "Happy Birthday",
+  "path": "MACE BOB/Happy Birthday.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "0:31",
+  "duration_seconds": 31,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 28
+  },
+  "note_count": 150,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

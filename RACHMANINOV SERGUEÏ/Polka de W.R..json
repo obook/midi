@@ -1,0 +1,18 @@
+{
+  "title": "Polka de W.R.",
+  "score_title": "Polka de W.R.",
+  "path": "RACHMANINOV SERGUEÏ/Polka de W.R..mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1911",
+  "duration": "4:02",
+  "duration_seconds": 242,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4120
+  },
+  "note_count": 2872,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

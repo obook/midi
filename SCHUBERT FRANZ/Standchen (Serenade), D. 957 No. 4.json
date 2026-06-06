@@ -1,0 +1,18 @@
+{
+  "title": "Standchen (Serenade), D. 957 No. 4",
+  "score_title": "Ständchen (Serenade), D. 957 No. 4",
+  "path": "SCHUBERT FRANZ/Standchen (Serenade), D. 957 No. 4.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1828",
+  "duration": "3:30",
+  "duration_seconds": 210,
+  "humanized": true,
+  "pedal": {
+    "present": true,
+    "events": 393
+  },
+  "note_count": 1525,
+  "tempo_bpm": 70,
+  "time_signature": "3/4"
+}

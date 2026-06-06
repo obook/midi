@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 3 in C Major, Op. 2 No. 3, I. Allegro con brio",
+  "score_title": "Sonata No. 3 in C Major, Op. 2 No. 3, I. Allegro con brio",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 3 in C Major, Op. 2 No. 3, I. Allegro con brio.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1795",
+  "duration": "7:26",
+  "duration_seconds": 446,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 6820
+  },
+  "note_count": 4347,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

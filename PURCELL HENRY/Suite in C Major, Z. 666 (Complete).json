@@ -1,0 +1,18 @@
+{
+  "title": "Suite in C Major, Z. 666 (Complete)",
+  "score_title": "Suite in C Major, Z. 666",
+  "path": "PURCELL HENRY/Suite in C Major, Z. 666 (Complete).mid",
+  "composer": "Henry Purcell",
+  "performer": "Henry Purcell",
+  "date": "1696",
+  "duration": "8:57",
+  "duration_seconds": 537,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5139
+  },
+  "note_count": 2350,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

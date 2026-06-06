@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 28 in A Major, Op. 101 (Complete)",
+  "score_title": "Sonata No. 28 in A Major, Op. 101",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 28 in A Major, Op. 101 (Complete).mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1816",
+  "duration": "18:19",
+  "duration_seconds": 1099,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 10151
+  },
+  "note_count": 8476,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

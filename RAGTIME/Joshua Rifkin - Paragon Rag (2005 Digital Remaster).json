@@ -1,0 +1,18 @@
+{
+  "title": "Joshua Rifkin - Paragon Rag (2005 Digital Remaster)",
+  "score_title": "Paragon Rag",
+  "path": "RAGTIME/Joshua Rifkin - Paragon Rag (2005 Digital Remaster).mid",
+  "composer": "Ragtime",
+  "performer": "Ragtime",
+  "date": "1909",
+  "duration": "4:04",
+  "duration_seconds": 244,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 809
+  },
+  "note_count": 2891,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

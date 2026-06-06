@@ -1,0 +1,18 @@
+{
+  "title": "Partita No. 4 in D Major, BWV 828",
+  "score_title": "Partita No. 4 in D Major, BWV 828",
+  "path": "BACH JOHANN SEBASTIAN/Partita No. 4 in D Major, BWV 828.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1728",
+  "duration": "18:10",
+  "duration_seconds": 1090,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 16355
+  },
+  "note_count": 8038,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

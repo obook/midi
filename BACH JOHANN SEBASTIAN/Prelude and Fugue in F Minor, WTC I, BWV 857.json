@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in F Minor, WTC I, BWV 857",
+  "score_title": "Prelude and Fugue in F Minor, WTC I, BWV 857",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in F Minor, WTC I, BWV 857.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1722",
+  "duration": "5:43",
+  "duration_seconds": 343,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 9096
+  },
+  "note_count": 1918,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

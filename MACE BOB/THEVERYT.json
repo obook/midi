@@ -1,0 +1,18 @@
+{
+  "title": "THEVERYT",
+  "score_title": "The Very Thought of You",
+  "path": "MACE BOB/THEVERYT.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1934",
+  "duration": "5:13",
+  "duration_seconds": 313,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 299
+  },
+  "note_count": 1924,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

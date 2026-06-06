@@ -1,0 +1,18 @@
+{
+  "title": "Tango",
+  "score_title": "Tango in D Major, Op. 165 No. 2",
+  "path": "ALBÉNIZ ISAAC/Tango.mid",
+  "composer": "Isaac Albéniz",
+  "performer": "Isaac Albéniz",
+  "date": "1890",
+  "duration": "2:51",
+  "duration_seconds": 171,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1499
+  },
+  "note_count": 1107,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

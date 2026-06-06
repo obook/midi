@@ -1,0 +1,18 @@
+{
+  "title": "S'il suffisait d'aimer-piano",
+  "score_title": "S'il suffisait d'aimer",
+  "path": "DION CELINE/S'il suffisait d'aimer-piano.mid",
+  "composer": "Celine Dion",
+  "performer": "Celine Dion",
+  "date": "1998",
+  "duration": "3:06",
+  "duration_seconds": 186,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 240
+  },
+  "note_count": 783,
+  "tempo_bpm": 61,
+  "time_signature": "4/4"
+}

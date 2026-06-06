@@ -1,0 +1,18 @@
+{
+  "title": "Il jouait du piano debout Michel Berger clean",
+  "score_title": "Il jouait du piano debout",
+  "path": "BERGER MICHEL/Il_jouait_du piano_debout_Michel_Berger_clean.mid",
+  "composer": "Michel Berger",
+  "performer": "Michel Berger",
+  "date": "1980",
+  "duration": "4:34",
+  "duration_seconds": 274,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 438
+  },
+  "note_count": 11305,
+  "tempo_bpm": 105,
+  "time_signature": "4/4"
+}

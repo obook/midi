@@ -1,0 +1,18 @@
+{
+  "title": "Alan Walker Faded",
+  "score_title": "Alan Walker - Faded",
+  "path": "POP-INTER/Alan_Walker_Faded.mid",
+  "composer": "Pop-Inter",
+  "performer": "Pop-Inter",
+  "date": "2015",
+  "duration": "3:23",
+  "duration_seconds": 203,
+  "humanized": true,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 1612,
+  "tempo_bpm": 90,
+  "time_signature": "4/4"
+}

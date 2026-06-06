@@ -1,0 +1,18 @@
+{
+  "title": "Chaconne in F Minor",
+  "score_title": "Chaconne in F Minor",
+  "path": "PACHELBEL JOHANN/Chaconne in F Minor.mid",
+  "composer": "Johann Pachelbel",
+  "performer": "Johann Pachelbel",
+  "date": "",
+  "duration": "2:49",
+  "duration_seconds": 169,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2710
+  },
+  "note_count": 563,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Scherzo No. 4  in E Major, Op. 54",
+  "score_title": "Scherzo No. 4 in E Major, Op. 54",
+  "path": "CHOPIN FREDERIC/Scherzo No. 4  in E Major, Op. 54.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1843",
+  "duration": "11:25",
+  "duration_seconds": 685,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 13726
+  },
+  "note_count": 5995,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Etude Op. 10 No. 3 - Tristesse",
+  "score_title": "Etude in E Major, Op. 10 No. 3 \"Tristesse\"",
+  "path": "CHOPIN FREDERIC/Etude Op. 10 No. 3 - Tristesse.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1832",
+  "duration": "4:07",
+  "duration_seconds": 247,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 350
+  },
+  "note_count": 1884,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

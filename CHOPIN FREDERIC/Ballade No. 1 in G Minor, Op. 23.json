@@ -1,0 +1,18 @@
+{
+  "title": "Ballade No. 1 in G Minor, Op. 23",
+  "score_title": "Ballade No. 1 in G Minor, Op. 23",
+  "path": "CHOPIN FREDERIC/Ballade No. 1 in G Minor, Op. 23.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1835",
+  "duration": "9:13",
+  "duration_seconds": 553,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 8721
+  },
+  "note_count": 5049,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "COULDIHA",
+  "score_title": "Could I Have This Dance",
+  "path": "MACE BOB/COULDIHA.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1980",
+  "duration": "5:09",
+  "duration_seconds": 309,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 388
+  },
+  "note_count": 1754,
+  "tempo_bpm": 110,
+  "time_signature": "4/4"
+}

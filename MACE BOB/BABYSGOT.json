@@ -1,0 +1,18 @@
+{
+  "title": "BABYSGOT",
+  "score_title": "BABYSGOT",
+  "path": "MACE BOB/BABYSGOT.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "3:28",
+  "duration_seconds": 208,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 124
+  },
+  "note_count": 926,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

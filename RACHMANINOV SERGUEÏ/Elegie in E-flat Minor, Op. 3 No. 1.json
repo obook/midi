@@ -1,0 +1,18 @@
+{
+  "title": "Elegie in E-flat Minor, Op. 3 No. 1",
+  "score_title": "Elegie in E-flat Minor, Op. 3 No. 1",
+  "path": "RACHMANINOV SERGUEÏ/Elegie in E-flat Minor, Op. 3 No. 1.mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1892",
+  "duration": "4:56",
+  "duration_seconds": 296,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2510
+  },
+  "note_count": 1751,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

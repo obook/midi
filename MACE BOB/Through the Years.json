@@ -1,0 +1,18 @@
+{
+  "title": "Through the Years",
+  "score_title": "Through the Years",
+  "path": "MACE BOB/Through the Years.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1981",
+  "duration": "3:36",
+  "duration_seconds": 216,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 226
+  },
+  "note_count": 1344,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

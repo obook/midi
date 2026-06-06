@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in A Minor, D784",
+  "score_title": "Piano Sonata No. 14 in A Minor, Op. 143, D. 784",
+  "path": "SCHUBERT FRANZ/Sonata in A Minor, D784.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1823",
+  "duration": "22:51",
+  "duration_seconds": 1371,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 25982
+  },
+  "note_count": 9786,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

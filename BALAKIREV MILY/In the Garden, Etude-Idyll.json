@@ -1,0 +1,18 @@
+{
+  "title": "In the Garden, Etude-Idyll",
+  "score_title": "In the Garden (Etude-Idyll)",
+  "path": "BALAKIREV MILY/In the Garden, Etude-Idyll.mid",
+  "composer": "Mily Balakirev",
+  "performer": "Mily Balakirev",
+  "date": "1884",
+  "duration": "4:12",
+  "duration_seconds": 252,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4996
+  },
+  "note_count": 2041,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

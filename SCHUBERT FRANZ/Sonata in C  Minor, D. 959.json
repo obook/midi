@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in C  Minor, D. 959",
+  "score_title": "Sonata in C  Minor, D. 959",
+  "path": "SCHUBERT FRANZ/Sonata in C  Minor, D. 959.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1828",
+  "duration": "8:06",
+  "duration_seconds": 486,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 11285
+  },
+  "note_count": 2830,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

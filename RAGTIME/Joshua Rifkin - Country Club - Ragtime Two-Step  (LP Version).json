@@ -1,0 +1,18 @@
+{
+  "title": "Joshua Rifkin - Country Club - Ragtime Two-Step  (LP Version)",
+  "score_title": "Country Club - A Ragtime Two-Step",
+  "path": "RAGTIME/Joshua Rifkin - Country Club - Ragtime Two-Step  (LP Version).mid",
+  "composer": "Ragtime",
+  "performer": "Ragtime",
+  "date": "1909",
+  "duration": "4:30",
+  "duration_seconds": 270,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 916
+  },
+  "note_count": 2862,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Suite Bergamasque",
+  "score_title": "Suite bergamasque, L. 75",
+  "path": "DEBUSSY CLAUDE/Suite Bergamasque.mid",
+  "composer": "Claude Debussy",
+  "performer": "Claude Debussy",
+  "date": "1890",
+  "duration": "15:43",
+  "duration_seconds": 943,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 15411
+  },
+  "note_count": 7716,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

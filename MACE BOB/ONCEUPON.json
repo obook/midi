@@ -1,0 +1,18 @@
+{
+  "title": "ONCEUPON",
+  "score_title": "ONCEUPON",
+  "path": "MACE BOB/ONCEUPON.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "2:25",
+  "duration_seconds": 145,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 205
+  },
+  "note_count": 1008,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

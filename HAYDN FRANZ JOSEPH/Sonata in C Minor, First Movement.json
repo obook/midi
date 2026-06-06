@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in C Minor, First Movement",
+  "score_title": "Piano Sonata in C Minor, Hob. XVI:20, First Movement",
+  "path": "HAYDN FRANZ JOSEPH/Sonata in C Minor, First Movement.mid",
+  "composer": "Franz Joseph Haydn",
+  "performer": "Franz Joseph Haydn",
+  "date": "1771",
+  "duration": "5:00",
+  "duration_seconds": 300,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5264
+  },
+  "note_count": 2244,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Lettre à France - Michel Polnareff",
+  "score_title": "Michel Polnareff - Lettre a France",
+  "path": "POP-FRANCE/Lettre à France - Michel Polnareff.mid",
+  "composer": "Pop-France",
+  "performer": "Pop-France",
+  "date": "1977",
+  "duration": "3:52",
+  "duration_seconds": 232,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 261
+  },
+  "note_count": 1065,
+  "tempo_bpm": 128,
+  "time_signature": "2/4"
+}

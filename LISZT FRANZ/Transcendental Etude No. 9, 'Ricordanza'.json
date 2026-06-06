@@ -1,0 +1,18 @@
+{
+  "title": "Transcendental Etude No. 9, 'Ricordanza'",
+  "score_title": "Transcendental Etude No. 9 in A-flat Major, S. 139 \"Ricordanza\"",
+  "path": "LISZT FRANZ/Transcendental Etude No. 9, 'Ricordanza'.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1852",
+  "duration": "8:29",
+  "duration_seconds": 509,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4663
+  },
+  "note_count": 5141,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

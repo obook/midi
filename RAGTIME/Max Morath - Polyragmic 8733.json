@@ -1,0 +1,18 @@
+{
+  "title": "Max Morath - Polyragmic 8733",
+  "score_title": "Polyragmic",
+  "path": "RAGTIME/Max Morath - Polyragmic 8733.mid",
+  "composer": "Ragtime",
+  "performer": "Ragtime",
+  "date": "1974",
+  "duration": "2:54",
+  "duration_seconds": 174,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 472
+  },
+  "note_count": 3047,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

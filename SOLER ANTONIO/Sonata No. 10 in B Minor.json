@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 10 in B Minor",
+  "score_title": "Sonata No. 10 in B Minor",
+  "path": "SOLER ANTONIO/Sonata No. 10 in B Minor.mid",
+  "composer": "Antonio Soler",
+  "performer": "Antonio Soler",
+  "date": "",
+  "duration": "3:52",
+  "duration_seconds": 232,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 624
+  },
+  "note_count": 3483,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Image (Book II)",
+  "score_title": "Images, Book II",
+  "path": "DEBUSSY CLAUDE/Image (Book II).mid",
+  "composer": "Claude Debussy",
+  "performer": "Claude Debussy",
+  "date": "1907",
+  "duration": "11:39",
+  "duration_seconds": 699,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 6175
+  },
+  "note_count": 5789,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

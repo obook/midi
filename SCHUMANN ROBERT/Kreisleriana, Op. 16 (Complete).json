@@ -1,0 +1,18 @@
+{
+  "title": "Kreisleriana, Op. 16 (Complete)",
+  "score_title": "Kreisleriana, Op. 16",
+  "path": "SCHUMANN ROBERT/Kreisleriana, Op. 16 (Complete).mid",
+  "composer": "Robert Schumann",
+  "performer": "Robert Schumann",
+  "date": "1838",
+  "duration": "33:35",
+  "duration_seconds": 2015,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 15915
+  },
+  "note_count": 14034,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

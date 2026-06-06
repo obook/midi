@@ -1,0 +1,18 @@
+{
+  "title": "Piano Sonata No. 11 in A major, KV 331 1 Andante grazioso (con variazioni)",
+  "score_title": "Piano Sonata No. 11 in A Major, K. 331 - I. Andante grazioso (con variazioni)",
+  "path": "MOZART WOLFGANG AMADEUS/Piano Sonata No. 11 in A major, KV 331_1_Andante grazioso (con variazioni).mid",
+  "composer": "Wolfgang Amadeus Mozart",
+  "performer": "Wolfgang Amadeus Mozart",
+  "date": "1783",
+  "duration": "7:20",
+  "duration_seconds": 440,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1629
+  },
+  "note_count": 3184,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

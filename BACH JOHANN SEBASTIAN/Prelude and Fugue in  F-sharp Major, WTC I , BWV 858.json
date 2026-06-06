@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in  F-sharp Major, WTC I , BWV 858",
+  "score_title": "Prelude and Fugue in F-sharp Major, WTC I, BWV 858",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in  F-sharp Major, WTC I , BWV 858.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1722",
+  "duration": "3:42",
+  "duration_seconds": 222,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1090
+  },
+  "note_count": 1314,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

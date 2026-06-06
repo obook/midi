@@ -1,0 +1,18 @@
+{
+  "title": "All The Things You Are",
+  "score_title": "All the Things You Are",
+  "path": "MACE BOB/All The Things You Are.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1939",
+  "duration": "1:53",
+  "duration_seconds": 113,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 112
+  },
+  "note_count": 717,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

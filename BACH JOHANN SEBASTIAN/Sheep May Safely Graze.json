@@ -1,0 +1,18 @@
+{
+  "title": "Sheep May Safely Graze",
+  "score_title": "Sheep May Safely Graze, BWV 208",
+  "path": "BACH JOHANN SEBASTIAN/Sheep May Safely Graze.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1713",
+  "duration": "4:16",
+  "duration_seconds": 256,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3469
+  },
+  "note_count": 2314,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

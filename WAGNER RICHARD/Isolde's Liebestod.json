@@ -1,0 +1,18 @@
+{
+  "title": "Isolde's Liebestod",
+  "score_title": "Isolde's Liebestod",
+  "path": "WAGNER RICHARD/Isolde's Liebestod.mid",
+  "composer": "Richard Wagner",
+  "performer": "Richard Wagner",
+  "date": "1859",
+  "duration": "7:09",
+  "duration_seconds": 429,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3149
+  },
+  "note_count": 4403,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

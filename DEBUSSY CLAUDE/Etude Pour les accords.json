@@ -1,0 +1,18 @@
+{
+  "title": "Etude Pour les accords",
+  "score_title": "Etude No. 12 \"Pour les accords\", L. 136",
+  "path": "DEBUSSY CLAUDE/Etude Pour les accords.mid",
+  "composer": "Claude Debussy",
+  "performer": "Claude Debussy",
+  "date": "1915",
+  "duration": "4:31",
+  "duration_seconds": 271,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3567
+  },
+  "note_count": 2884,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

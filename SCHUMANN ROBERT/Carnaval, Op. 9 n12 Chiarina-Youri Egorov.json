@@ -1,0 +1,18 @@
+{
+  "title": "Carnaval, Op. 9 n12 Chiarina-Youri Egorov",
+  "score_title": "Carnaval, Op. 9 No. 12 \"Chiarina\"",
+  "path": "SCHUMANN ROBERT/Carnaval, Op. 9 n12 Chiarina-Youri Egorov.mid",
+  "composer": "Robert Schumann",
+  "performer": "Robert Schumann",
+  "date": "1835",
+  "duration": "1:38",
+  "duration_seconds": 98,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 137
+  },
+  "note_count": 643,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "English Suite in A Minor, BWV 807",
+  "score_title": "English Suite No. 2 in A Minor, BWV 807",
+  "path": "BACH JOHANN SEBASTIAN/English Suite in A Minor, BWV 807.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1715",
+  "duration": "13:40",
+  "duration_seconds": 820,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4715
+  },
+  "note_count": 7720,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "HAPPYBIR",
+  "score_title": "Happy Birthday",
+  "path": "MACE BOB/HAPPYBIR.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "0:36",
+  "duration_seconds": 36,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 28
+  },
+  "note_count": 150,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

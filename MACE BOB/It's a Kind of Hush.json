@@ -1,0 +1,18 @@
+{
+  "title": "It's a Kind of Hush",
+  "score_title": "There's a Kind of Hush",
+  "path": "MACE BOB/It's a Kind of Hush.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1967",
+  "duration": "2:39",
+  "duration_seconds": 159,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 306
+  },
+  "note_count": 1191,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

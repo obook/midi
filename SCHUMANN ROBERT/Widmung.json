@@ -1,0 +1,18 @@
+{
+  "title": "Widmung",
+  "score_title": "Widmung (from Myrthen, Op. 25)",
+  "path": "SCHUMANN ROBERT/Widmung.mid",
+  "composer": "Robert Schumann",
+  "performer": "Robert Schumann",
+  "date": "1840",
+  "duration": "3:22",
+  "duration_seconds": 202,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3198
+  },
+  "note_count": 2168,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

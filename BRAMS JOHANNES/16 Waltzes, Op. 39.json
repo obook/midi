@@ -1,0 +1,18 @@
+{
+  "title": "16 Waltzes, Op. 39",
+  "score_title": "16 Waltzes, Op. 39",
+  "path": "BRAMS JOHANNES/16 Waltzes, Op. 39.mid",
+  "composer": "Johannes Brams",
+  "performer": "Johannes Brams",
+  "date": "1865",
+  "duration": "17:42",
+  "duration_seconds": 1062,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 15491
+  },
+  "note_count": 10607,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

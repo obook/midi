@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 3 in F-sharp Minor, Op. 23",
+  "score_title": "Piano Sonata No. 3 in F-sharp Minor, Op. 23",
+  "path": "SCRIABINE ALEXANDER/Sonata No. 3 in F-sharp Minor, Op. 23.mid",
+  "composer": "Alexander Scriabine",
+  "performer": "Alexander Scriabine",
+  "date": "1898",
+  "duration": "18:38",
+  "duration_seconds": 1118,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 21116
+  },
+  "note_count": 9727,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

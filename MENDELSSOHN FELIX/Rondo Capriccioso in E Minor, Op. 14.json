@@ -1,0 +1,18 @@
+{
+  "title": "Rondo Capriccioso in E Minor, Op. 14",
+  "score_title": "Rondo Capriccioso in E Major, Op. 14",
+  "path": "MENDELSSOHN FELIX/Rondo Capriccioso in E Minor, Op. 14.mid",
+  "composer": "Felix Mendelssohn",
+  "performer": "Felix Mendelssohn",
+  "date": "1830",
+  "duration": "5:58",
+  "duration_seconds": 358,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4832
+  },
+  "note_count": 4914,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in B-flat Major D. 960",
+  "score_title": "Sonata in B-flat Major D. 960",
+  "path": "SCHUBERT FRANZ/Sonata in B-flat Major D. 960.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1828",
+  "duration": "15:01",
+  "duration_seconds": 901,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 19798
+  },
+  "note_count": 7899,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

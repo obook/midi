@@ -1,0 +1,18 @@
+{
+  "title": "Paraphrase de concert sur Rigoletto, S.434",
+  "score_title": "Paraphrase de concert sur Rigoletto, S. 434",
+  "path": "LISZT FRANZ/Paraphrase de concert sur Rigoletto, S.434.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1859",
+  "duration": "6:59",
+  "duration_seconds": 419,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4737
+  },
+  "note_count": 5204,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

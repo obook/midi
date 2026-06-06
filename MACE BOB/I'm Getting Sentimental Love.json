@@ -1,0 +1,18 @@
+{
+  "title": "I'm Getting Sentimental Love",
+  "score_title": "I'm Getting Sentimental Over You",
+  "path": "MACE BOB/I'm Getting Sentimental Love.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1932",
+  "duration": "3:30",
+  "duration_seconds": 210,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 202
+  },
+  "note_count": 1208,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Twelve Variations, K179 (189a)",
+  "score_title": "Twelve Variations in C Major on a Minuet by J. C. Fischer, K. 179 (189a)",
+  "path": "MOZART WOLFGANG AMADEUS/Twelve Variations, K179 (189a).mid",
+  "composer": "Wolfgang Amadeus Mozart",
+  "performer": "Wolfgang Amadeus Mozart",
+  "date": "1774",
+  "duration": "10:29",
+  "duration_seconds": 629,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 12105
+  },
+  "note_count": 5426,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

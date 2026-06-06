@@ -1,0 +1,18 @@
+{
+  "title": "Mazurka opus.24 No.4",
+  "score_title": "Mazurka opus.24 No.4",
+  "path": "SCRIABINE ALEXANDER/Mazurka opus.24 No.4.mid",
+  "composer": "Alexander Scriabine",
+  "performer": "Alexander Scriabine",
+  "date": "1899",
+  "duration": "4:18",
+  "duration_seconds": 258,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 530
+  },
+  "note_count": 2124,
+  "tempo_bpm": 132,
+  "time_signature": "3/4"
+}

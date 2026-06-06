@@ -1,0 +1,18 @@
+{
+  "title": "Valse de l'opera Faust de Charles Gounod, S.407",
+  "score_title": "Valse de l'opera Faust de Charles Gounod, S. 407",
+  "path": "LISZT FRANZ/Valse de l'opera Faust de Charles Gounod, S.407.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1861",
+  "duration": "9:09",
+  "duration_seconds": 549,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5567
+  },
+  "note_count": 7650,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

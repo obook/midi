@@ -1,0 +1,18 @@
+{
+  "title": "Then Again",
+  "score_title": "Then Again",
+  "path": "MACE BOB/Then Again.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "3:37",
+  "duration_seconds": 217,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 163
+  },
+  "note_count": 1113,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

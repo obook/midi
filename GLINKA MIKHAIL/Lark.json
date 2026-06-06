@@ -1,0 +1,18 @@
+{
+  "title": "Lark",
+  "score_title": "The Lark",
+  "path": "GLINKA MIKHAIL/Lark.mid",
+  "composer": "Mikhail Glinka",
+  "performer": "Mikhail Glinka",
+  "date": "1840",
+  "duration": "4:50",
+  "duration_seconds": 290,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4295
+  },
+  "note_count": 2207,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

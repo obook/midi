@@ -1,0 +1,18 @@
+{
+  "title": "Etude Pour le arpeges composes",
+  "score_title": "Etude No. 11 \"Pour les arpeges composes\", L. 136",
+  "path": "DEBUSSY CLAUDE/Etude Pour le arpeges composes.mid",
+  "composer": "Claude Debussy",
+  "performer": "Claude Debussy",
+  "date": "1915",
+  "duration": "4:26",
+  "duration_seconds": 266,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2792
+  },
+  "note_count": 1902,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

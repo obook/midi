@@ -1,0 +1,18 @@
+{
+  "title": "Sonata Op. 1",
+  "score_title": "Piano Sonata, Op. 1",
+  "path": "BERG ALBAN MARIA JOHANNES/Sonata Op. 1.mid",
+  "composer": "Alban Maria Johannes Berg",
+  "performer": "Alban Maria Johannes Berg",
+  "date": "1908",
+  "duration": "7:39",
+  "duration_seconds": 459,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 9432
+  },
+  "note_count": 3326,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

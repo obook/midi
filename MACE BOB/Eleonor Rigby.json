@@ -1,0 +1,18 @@
+{
+  "title": "Eleonor Rigby",
+  "score_title": "Eleanor Rigby",
+  "path": "MACE BOB/Eleonor Rigby.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1966",
+  "duration": "2:22",
+  "duration_seconds": 142,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 183
+  },
+  "note_count": 1870,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

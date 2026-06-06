@@ -1,0 +1,18 @@
+{
+  "title": "TAXICHPN",
+  "score_title": "TAXICHPN",
+  "path": "MACE BOB/TAXICHPN.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "6:32",
+  "duration_seconds": 392,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 482
+  },
+  "note_count": 2376,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

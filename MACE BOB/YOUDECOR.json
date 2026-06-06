@@ -1,0 +1,18 @@
+{
+  "title": "YOUDECOR",
+  "score_title": "You Decorated My Life",
+  "path": "MACE BOB/YOUDECOR.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "3:15",
+  "duration_seconds": 195,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 190
+  },
+  "note_count": 933,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

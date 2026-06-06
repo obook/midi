@@ -1,0 +1,18 @@
+{
+  "title": "Partita in C Minor, BWV 826",
+  "score_title": "Partita No. 2 in C Minor, BWV 826",
+  "path": "BACH JOHANN SEBASTIAN/Partita in C Minor, BWV 826.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1727",
+  "duration": "18:53",
+  "duration_seconds": 1133,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 472
+  },
+  "note_count": 8930,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

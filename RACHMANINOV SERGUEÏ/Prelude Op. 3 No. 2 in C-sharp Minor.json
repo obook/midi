@@ -1,0 +1,18 @@
+{
+  "title": "Prelude Op. 3 No. 2 in C-sharp Minor",
+  "score_title": "Prelude in C-sharp Minor, Op. 3 No. 2",
+  "path": "RACHMANINOV SERGUEÏ/Prelude Op. 3 No. 2 in C-sharp Minor.mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1892",
+  "duration": "3:54",
+  "duration_seconds": 234,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2327
+  },
+  "note_count": 1787,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

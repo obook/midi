@@ -1,0 +1,18 @@
+{
+  "title": "Tarantella from Annees de Pelerinage 2eme Annee",
+  "score_title": "Tarantella from Annees de Pelerinage, 2eme Annee",
+  "path": "LISZT FRANZ/Tarantella from Annees de Pelerinage 2eme Annee.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1859",
+  "duration": "8:53",
+  "duration_seconds": 533,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 7853
+  },
+  "note_count": 7751,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

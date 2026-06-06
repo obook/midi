@@ -1,0 +1,18 @@
+{
+  "title": "Ne pleure pas Jeannette",
+  "score_title": "Ne pleure pas, Jeannette",
+  "path": "ENFANTS CHILD/Ne_pleure_pas_Jeannette.mid",
+  "composer": "Child Enfants",
+  "performer": "Child Enfants",
+  "date": "",
+  "duration": "2:34",
+  "duration_seconds": 154,
+  "humanized": true,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 680,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

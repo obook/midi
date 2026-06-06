@@ -1,0 +1,18 @@
+{
+  "title": "Partita No. 1 in B-Flat Major, BWV 825 (Complete)",
+  "score_title": "Partita No. 1 in B-Flat Major, BWV 825 (Complete)",
+  "path": "BACH JOHANN SEBASTIAN/Partita No. 1 in B-Flat Major, BWV 825 (Complete).mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1726",
+  "duration": "15:50",
+  "duration_seconds": 950,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 16553
+  },
+  "note_count": 6163,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

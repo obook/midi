@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in G Major, D. 895",
+  "score_title": "Sonata in G Major, D. 895",
+  "path": "SCHUBERT FRANZ/Sonata in G Major, D. 895.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1826",
+  "duration": "7:36",
+  "duration_seconds": 456,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 8640
+  },
+  "note_count": 3288,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

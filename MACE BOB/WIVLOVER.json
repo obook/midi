@@ -1,0 +1,18 @@
+{
+  "title": "WIVLOVER",
+  "score_title": "WIVLOVER",
+  "path": "MACE BOB/WIVLOVER.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1963",
+  "duration": "1:59",
+  "duration_seconds": 119,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 272
+  },
+  "note_count": 1229,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

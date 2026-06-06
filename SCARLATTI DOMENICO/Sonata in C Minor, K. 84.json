@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in C Minor, K. 84",
+  "score_title": "Sonata in C Minor, K. 84",
+  "path": "SCARLATTI DOMENICO/Sonata in C Minor, K. 84.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "",
+  "duration": "1:18",
+  "duration_seconds": 78,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 577
+  },
+  "note_count": 877,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

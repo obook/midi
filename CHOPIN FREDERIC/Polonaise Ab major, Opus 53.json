@@ -1,0 +1,18 @@
+{
+  "title": "Polonaise Ab major, Opus 53",
+  "score_title": "Polonaise in A-flat Major, Op. 53 \"Heroique\"",
+  "path": "CHOPIN FREDERIC/Polonaise Ab major, Opus 53.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1842",
+  "duration": "5:52",
+  "duration_seconds": 352,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 574
+  },
+  "note_count": 6052,
+  "tempo_bpm": 110,
+  "time_signature": "3/4"
+}

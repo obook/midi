@@ -1,0 +1,18 @@
+{
+  "title": "Etude In C Minor",
+  "score_title": "Etude In C Minor",
+  "path": "CHOPIN FREDERIC/Etude In C Minor.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "",
+  "duration": "2:32",
+  "duration_seconds": 152,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 173
+  },
+  "note_count": 2082,
+  "tempo_bpm": 132,
+  "time_signature": "4/4"
+}

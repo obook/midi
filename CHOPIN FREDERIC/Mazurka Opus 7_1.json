@@ -1,0 +1,18 @@
+{
+  "title": "Mazurka Opus 7 1",
+  "score_title": "Mazurka in B-flat Major, Op. 7 No. 1",
+  "path": "CHOPIN FREDERIC/Mazurka Opus 7_1.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1831",
+  "duration": "2:15",
+  "duration_seconds": 135,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 190
+  },
+  "note_count": 1229,
+  "tempo_bpm": 144,
+  "time_signature": "3/4"
+}

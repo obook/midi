@@ -1,0 +1,18 @@
+{
+  "title": "Etude Op. 10 No. 4 in C-Sharp Minor",
+  "score_title": "Etude in C-sharp Minor, Op. 10 No. 4",
+  "path": "CHOPIN FREDERIC/Etude Op. 10 No. 4 in C-Sharp Minor.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1832",
+  "duration": "2:03",
+  "duration_seconds": 123,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1608
+  },
+  "note_count": 2235,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

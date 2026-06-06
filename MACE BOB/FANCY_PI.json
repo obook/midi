@@ -1,0 +1,18 @@
+{
+  "title": "FANCY PI",
+  "score_title": "FANCY PI",
+  "path": "MACE BOB/FANCY_PI.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "6:19",
+  "duration_seconds": 379,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 476
+  },
+  "note_count": 3395,
+  "tempo_bpm": 95,
+  "time_signature": "4/4"
+}

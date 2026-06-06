@@ -1,0 +1,18 @@
+{
+  "title": "English Suite no. 3 in G Minor, Prelude",
+  "score_title": "English Suite No. 3 in G Minor, BWV 808, Prelude",
+  "path": "BACH JOHANN SEBASTIAN/English Suite no. 3 in G Minor, Prelude.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1715",
+  "duration": "2:47",
+  "duration_seconds": 167,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 246
+  },
+  "note_count": 2343,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

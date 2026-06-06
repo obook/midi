@@ -1,0 +1,18 @@
+{
+  "title": "The Winner Takes It All",
+  "score_title": "The Winner Takes It All",
+  "path": "ABBA/The_Winner_Takes_It_All.mid",
+  "composer": "Abba",
+  "performer": "Abba",
+  "date": "1980",
+  "duration": "4:47",
+  "duration_seconds": 287,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 6154,
+  "tempo_bpm": 123,
+  "time_signature": "4/4"
+}

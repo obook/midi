@@ -1,0 +1,18 @@
+{
+  "title": "CATSINTH",
+  "score_title": "Cats in the Cradle",
+  "path": "MACE BOB/CATSINTH.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1974",
+  "duration": "3:40",
+  "duration_seconds": 220,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 283
+  },
+  "note_count": 1487,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

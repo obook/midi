@@ -1,0 +1,18 @@
+{
+  "title": "Intermezzos Op. 119",
+  "score_title": "Four Pieces for Piano, Op. 119",
+  "path": "BRAMS JOHANNES/Intermezzos Op. 119.mid",
+  "composer": "Johannes Brams",
+  "performer": "Johannes Brams",
+  "date": "1893",
+  "duration": "13:51",
+  "duration_seconds": 831,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 16712
+  },
+  "note_count": 7592,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

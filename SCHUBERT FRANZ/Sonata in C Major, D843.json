@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in C Major, D843",
+  "score_title": "Sonata in C Major, D843",
+  "path": "SCHUBERT FRANZ/Sonata in C Major, D843.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1825",
+  "duration": "8:46",
+  "duration_seconds": 526,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4780
+  },
+  "note_count": 7273,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in A Minor, WTC II,  BWV 889",
+  "score_title": "Prelude and Fugue in A Minor, WTC II, BWV 889",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in A Minor, WTC II,  BWV 889.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1742",
+  "duration": "3:59",
+  "duration_seconds": 239,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1061
+  },
+  "note_count": 1626,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

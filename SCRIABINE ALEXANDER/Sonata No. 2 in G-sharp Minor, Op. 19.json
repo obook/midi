@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 2 in G-sharp Minor, Op. 19",
+  "score_title": "Piano Sonata No. 2 in G-sharp Minor, Op. 19",
+  "path": "SCRIABINE ALEXANDER/Sonata No. 2 in G-sharp Minor, Op. 19.mid",
+  "composer": "Alexander Scriabine",
+  "performer": "Alexander Scriabine",
+  "date": "1897",
+  "duration": "11:23",
+  "duration_seconds": 683,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 11893
+  },
+  "note_count": 6220,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

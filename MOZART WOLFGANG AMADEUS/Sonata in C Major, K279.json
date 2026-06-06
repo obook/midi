@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in C Major, K279",
+  "score_title": "Piano Sonata No. 1 in C Major, K. 279",
+  "path": "MOZART WOLFGANG AMADEUS/Sonata in C Major, K279.mid",
+  "composer": "Wolfgang Amadeus Mozart",
+  "performer": "Wolfgang Amadeus Mozart",
+  "date": "1775",
+  "duration": "9:59",
+  "duration_seconds": 599,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 8368
+  },
+  "note_count": 4947,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

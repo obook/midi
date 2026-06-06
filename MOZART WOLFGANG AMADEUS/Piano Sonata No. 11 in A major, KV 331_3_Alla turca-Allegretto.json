@@ -1,0 +1,18 @@
+{
+  "title": "Piano Sonata No. 11 in A major, KV 331 3 Alla turca-Allegretto",
+  "score_title": "Piano Sonata No. 11 in A Major, K. 331 - III. Alla turca (Allegretto)",
+  "path": "MOZART WOLFGANG AMADEUS/Piano Sonata No. 11 in A major, KV 331_3_Alla turca-Allegretto.mid",
+  "composer": "Wolfgang Amadeus Mozart",
+  "performer": "Wolfgang Amadeus Mozart",
+  "date": "1783",
+  "duration": "3:28",
+  "duration_seconds": 208,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 682
+  },
+  "note_count": 2837,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

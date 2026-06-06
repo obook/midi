@@ -1,0 +1,18 @@
+{
+  "title": "Prelude in G-Sharp Minor,Op. 32 No. 12",
+  "score_title": "Prelude in G-sharp Minor, Op. 32 No. 12",
+  "path": "RACHMANINOV SERGUEÏ/Prelude in G-Sharp Minor,Op. 32 No. 12.mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1910",
+  "duration": "2:08",
+  "duration_seconds": 128,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2047
+  },
+  "note_count": 1628,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Russian Scherzo Op. 1",
+  "score_title": "Scherzo a la russe, Op. 1 No. 1",
+  "path": "TCHAIKOVSKY PYOTR ILYICH/Russian Scherzo Op. 1.mid",
+  "composer": "Pyotr Ilyich Tchaikovsky",
+  "performer": "Pyotr Ilyich Tchaikovsky",
+  "date": "1867",
+  "duration": "6:07",
+  "duration_seconds": 367,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 6126
+  },
+  "note_count": 5357,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

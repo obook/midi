@@ -1,0 +1,18 @@
+{
+  "title": "Iberia, Evocation, Triana",
+  "score_title": "Triana, from Iberia, Book 2",
+  "path": "ALBÉNIZ ISAAC/Iberia, Evocation, Triana.mid",
+  "composer": "Isaac Albéniz",
+  "performer": "Isaac Albéniz",
+  "date": "1906",
+  "duration": "4:52",
+  "duration_seconds": 292,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3246
+  },
+  "note_count": 3678,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

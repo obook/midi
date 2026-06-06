@@ -1,0 +1,18 @@
+{
+  "title": "Sonatina Opus.36, No.1",
+  "score_title": "Sonatina in C Major, Op. 36 No. 1",
+  "path": "CLEMENTI MUZIO/Sonatina Opus.36, No.1.mid",
+  "composer": "Muzio Clementi",
+  "performer": "Muzio Clementi",
+  "date": "1797",
+  "duration": "3:13",
+  "duration_seconds": 193,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2
+  },
+  "note_count": 1493,
+  "tempo_bpm": 240,
+  "time_signature": "2/2"
+}

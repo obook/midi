@@ -1,0 +1,18 @@
+{
+  "title": "Quintette en la majeur D.667 - La truite - piano",
+  "score_title": "Quintette \"La Truite\" en la majeur, D. 667",
+  "path": "SCHUBERT FRANZ/Quintette en la majeur D.667 - La truite - piano.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1819",
+  "duration": "3:06",
+  "duration_seconds": 186,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 499
+  },
+  "note_count": 2375,
+  "tempo_bpm": 73,
+  "time_signature": "4/4"
+}

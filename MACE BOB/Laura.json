@@ -1,0 +1,18 @@
+{
+  "title": "Laura",
+  "score_title": "Laura",
+  "path": "MACE BOB/Laura.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1944",
+  "duration": "2:08",
+  "duration_seconds": 128,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 153
+  },
+  "note_count": 845,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

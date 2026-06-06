@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in F Major, K 332 (Complete)",
+  "score_title": "Piano Sonata No. 12 in F Major, K. 332 (Complete)",
+  "path": "MOZART WOLFGANG AMADEUS/Sonata in F Major, K 332 (Complete).mid",
+  "composer": "Wolfgang Amadeus Mozart",
+  "performer": "Wolfgang Amadeus Mozart",
+  "date": "1783",
+  "duration": "13:51",
+  "duration_seconds": 831,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 13394
+  },
+  "note_count": 6847,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

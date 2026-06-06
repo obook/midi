@@ -1,0 +1,18 @@
+{
+  "title": "SOUSAMAR",
+  "score_title": "SOUSAMAR",
+  "path": "MACE BOB/SOUSAMAR.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "5:59",
+  "duration_seconds": 359,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 522
+  },
+  "note_count": 7344,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in D Major, K. 576",
+  "score_title": "Sonata in D Major, K. 576",
+  "path": "SCARLATTI DOMENICO/Sonata in D Major, K. 576.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "",
+  "duration": "13:08",
+  "duration_seconds": 788,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 15821
+  },
+  "note_count": 6736,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

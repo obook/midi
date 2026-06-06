@@ -1,0 +1,18 @@
+{
+  "title": "Mamma Mia",
+  "score_title": "Mamma Mia",
+  "path": "ABBA/MammaMia.mid",
+  "composer": "Abba",
+  "performer": "Abba",
+  "date": "1975",
+  "duration": "3:28",
+  "duration_seconds": 208,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 2907,
+  "tempo_bpm": 140,
+  "time_signature": "4/4"
+}

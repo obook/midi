@@ -1,0 +1,18 @@
+{
+  "title": "La Groupie Du Pianiste Michel Berger-simple",
+  "score_title": "La groupie du pianiste",
+  "path": "BERGER MICHEL/La_Groupie_Du_Pianiste_Michel_Berger-simple.mid",
+  "composer": "Michel Berger",
+  "performer": "Michel Berger",
+  "date": "1980",
+  "duration": "4:38",
+  "duration_seconds": 278,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 484
+  },
+  "note_count": 2437,
+  "tempo_bpm": 102,
+  "time_signature": "4/4"
+}

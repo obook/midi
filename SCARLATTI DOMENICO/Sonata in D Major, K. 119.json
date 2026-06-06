@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in D Major, K. 119",
+  "score_title": "Sonata in D Major, K. 119",
+  "path": "SCARLATTI DOMENICO/Sonata in D Major, K. 119.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "",
+  "duration": "2:15",
+  "duration_seconds": 135,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 732
+  },
+  "note_count": 2196,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

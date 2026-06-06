@@ -1,0 +1,18 @@
+{
+  "title": "Fantasy in C Min",
+  "score_title": "Fantasy in C Minor, K. 475",
+  "path": "MOZART WOLFGANG AMADEUS/Fantasy in C Min.mid",
+  "composer": "Wolfgang Amadeus Mozart",
+  "performer": "Wolfgang Amadeus Mozart",
+  "date": "1785",
+  "duration": "11:30",
+  "duration_seconds": 690,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 11926
+  },
+  "note_count": 3975,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

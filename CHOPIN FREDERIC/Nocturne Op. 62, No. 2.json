@@ -1,0 +1,18 @@
+{
+  "title": "Nocturne Op. 62, No. 2",
+  "score_title": "Nocturne in E Major, Op. 62 No. 2",
+  "path": "CHOPIN FREDERIC/Nocturne Op. 62, No. 2.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1846",
+  "duration": "6:02",
+  "duration_seconds": 362,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4186
+  },
+  "note_count": 1756,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

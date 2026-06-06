@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in E-flat Major, Hob. XVI 52, I. Allegro",
+  "score_title": "Sonata in E-flat Major, Hob. XVI:52, I. Allegro",
+  "path": "HAYDN FRANZ JOSEPH/Sonata in E-flat Major, Hob. XVI 52, I. Allegro.mid",
+  "composer": "Franz Joseph Haydn",
+  "performer": "Franz Joseph Haydn",
+  "date": "1794",
+  "duration": "5:38",
+  "duration_seconds": 338,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5789
+  },
+  "note_count": 3324,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

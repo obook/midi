@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in F-sharp Minor, WTC II",
+  "score_title": "Prelude and Fugue in F-sharp Minor, WTC II, BWV 883",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in F-sharp Minor, WTC II.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1742",
+  "duration": "7:13",
+  "duration_seconds": 433,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 12
+  },
+  "note_count": 2328,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

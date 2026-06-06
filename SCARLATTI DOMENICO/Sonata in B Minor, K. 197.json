@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in B Minor, K. 197",
+  "score_title": "Sonata in B Minor, K. 197",
+  "path": "SCARLATTI DOMENICO/Sonata in B Minor, K. 197.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "",
+  "duration": "4:56",
+  "duration_seconds": 296,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 7019
+  },
+  "note_count": 1587,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Transcendental Etude No. 4, Mazeppa",
+  "score_title": "Transcendental Etude No. 4 in D Minor, S. 139 \"Mazeppa\"",
+  "path": "LISZT FRANZ/Transcendental Etude No. 4, Mazeppa.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1852",
+  "duration": "6:54",
+  "duration_seconds": 414,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3374
+  },
+  "note_count": 6933,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

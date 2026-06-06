@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in G-sharp Minor, WTC II, BWV 887",
+  "score_title": "Prelude and Fugue in G-sharp Minor, WTC II, BWV 887",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in G-sharp Minor, WTC II, BWV 887.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1742",
+  "duration": "7:47",
+  "duration_seconds": 467,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 6214
+  },
+  "note_count": 2893,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

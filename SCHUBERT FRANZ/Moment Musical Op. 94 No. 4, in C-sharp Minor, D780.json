@@ -1,0 +1,18 @@
+{
+  "title": "Moment Musical Op. 94 No. 4, in C-sharp Minor, D780",
+  "score_title": "Moment Musical in C-sharp Minor, Op. 94 No. 4, D. 780",
+  "path": "SCHUBERT FRANZ/Moment Musical Op. 94 No. 4, in C-sharp Minor, D780.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1828",
+  "duration": "5:15",
+  "duration_seconds": 315,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 7703
+  },
+  "note_count": 2625,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

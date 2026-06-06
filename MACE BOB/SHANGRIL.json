@@ -1,0 +1,18 @@
+{
+  "title": "SHANGRIL",
+  "score_title": "Shangri-La",
+  "path": "MACE BOB/SHANGRIL.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "2:11",
+  "duration_seconds": 131,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 124
+  },
+  "note_count": 769,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

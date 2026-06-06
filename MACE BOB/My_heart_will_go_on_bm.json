@@ -1,0 +1,18 @@
+{
+  "title": "My heart will go on bm",
+  "score_title": "My Heart Will Go On",
+  "path": "MACE BOB/My_heart_will_go_on_bm.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1997",
+  "duration": "4:01",
+  "duration_seconds": 241,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 220
+  },
+  "note_count": 1417,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

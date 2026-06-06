@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 4 in E-flat Major, Op. 7, 1st mov.",
+  "score_title": "Sonata No. 4 in E-flat Major, Op. 7, First Movement",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 4 in E-flat Major, Op. 7, 1st mov..mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1797",
+  "duration": "5:25",
+  "duration_seconds": 325,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3068
+  },
+  "note_count": 3993,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

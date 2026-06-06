@@ -1,0 +1,18 @@
+{
+  "title": "Etude Op. 25 No. 11",
+  "score_title": "Etude in A Minor, Op. 25 No. 11 \"Winter Wind\"",
+  "path": "CHOPIN FREDERIC/Etude Op. 25 No. 11.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1834",
+  "duration": "3:14",
+  "duration_seconds": 194,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1901
+  },
+  "note_count": 3259,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

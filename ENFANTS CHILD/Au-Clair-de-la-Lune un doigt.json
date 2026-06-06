@@ -1,0 +1,18 @@
+{
+  "title": "Au-Clair-de-la-Lune un doigt",
+  "score_title": "Au clair de la lune",
+  "path": "ENFANTS CHILD/Au-Clair-de-la-Lune un doigt.mid",
+  "composer": "Child Enfants",
+  "performer": "Child Enfants",
+  "date": "",
+  "duration": "0:31",
+  "duration_seconds": 31,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2
+  },
+  "note_count": 44,
+  "tempo_bpm": 116,
+  "time_signature": "4/4"
+}

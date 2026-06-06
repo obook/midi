@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in A Minor, WTC I, BWV 865",
+  "score_title": "Prelude and Fugue in A Minor, WTC I, BWV 865",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in A Minor, WTC I, BWV 865.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1722",
+  "duration": "5:06",
+  "duration_seconds": 306,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1494
+  },
+  "note_count": 3012,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

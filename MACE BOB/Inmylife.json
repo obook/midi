@@ -1,0 +1,18 @@
+{
+  "title": "Inmylife",
+  "score_title": "In My Life",
+  "path": "MACE BOB/Inmylife.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1965",
+  "duration": "1:30",
+  "duration_seconds": 90,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 74
+  },
+  "note_count": 384,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

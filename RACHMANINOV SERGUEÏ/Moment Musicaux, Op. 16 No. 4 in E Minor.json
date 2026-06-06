@@ -1,0 +1,18 @@
+{
+  "title": "Moment Musicaux, Op. 16 No. 4 in E Minor",
+  "score_title": "Moment musical, Op. 16 No. 4 in E Minor",
+  "path": "RACHMANINOV SERGUEÏ/Moment Musicaux, Op. 16 No. 4 in E Minor.mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1896",
+  "duration": "2:44",
+  "duration_seconds": 164,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1279
+  },
+  "note_count": 2731,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

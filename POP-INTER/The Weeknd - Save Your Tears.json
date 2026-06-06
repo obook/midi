@@ -1,0 +1,18 @@
+{
+  "title": "The Weeknd - Save Your Tears",
+  "score_title": "The Weeknd - Save Your Tears",
+  "path": "POP-INTER/The Weeknd - Save Your Tears.mid",
+  "composer": "Pop-Inter",
+  "performer": "Pop-Inter",
+  "date": "2020",
+  "duration": "3:19",
+  "duration_seconds": 199,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 480
+  },
+  "note_count": 1726,
+  "tempo_bpm": 126,
+  "time_signature": "4/4"
+}

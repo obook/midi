@@ -1,0 +1,18 @@
+{
+  "title": "Romances Op. 28, Nos. 2 and 3",
+  "score_title": "Romances, Op. 28, Nos. 2 and 3",
+  "path": "SCHUMANN ROBERT/Romances Op. 28, Nos. 2 and 3.mid",
+  "composer": "Robert Schumann",
+  "performer": "Robert Schumann",
+  "date": "1839",
+  "duration": "7:15",
+  "duration_seconds": 435,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 7305
+  },
+  "note_count": 4368,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 1 in C Major, Op. 1",
+  "score_title": "Piano Sonata No. 1 in C Major, Op. 1",
+  "path": "BRAMS JOHANNES/Sonata No. 1 in C Major, Op. 1.mid",
+  "composer": "Johannes Brams",
+  "performer": "Johannes Brams",
+  "date": "1853",
+  "duration": "26:15",
+  "duration_seconds": 1575,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 21192
+  },
+  "note_count": 16174,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in D Minor, K. 1",
+  "score_title": "Sonata in D Minor, K. 1",
+  "path": "SCARLATTI DOMENICO/Sonata in D Minor, K. 1.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "1738",
+  "duration": "2:18",
+  "duration_seconds": 138,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 776
+  },
+  "note_count": 1650,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

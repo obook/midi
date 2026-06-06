@@ -1,0 +1,18 @@
+{
+  "title": "Rossignol de mes amours",
+  "score_title": "Rossignol de mes amours",
+  "path": "MARIANO LOUIS/Rossignol de mes amours.mid",
+  "composer": "Louis Mariano",
+  "performer": "Louis Mariano",
+  "date": "1951",
+  "duration": "3:29",
+  "duration_seconds": 209,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 1236,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

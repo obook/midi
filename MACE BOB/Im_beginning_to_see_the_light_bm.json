@@ -1,0 +1,18 @@
+{
+  "title": "Im beginning to see the light bm",
+  "score_title": "I'm Beginning to See the Light",
+  "path": "MACE BOB/Im_beginning_to_see_the_light_bm.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1944",
+  "duration": "1:53",
+  "duration_seconds": 113,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 98
+  },
+  "note_count": 1563,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

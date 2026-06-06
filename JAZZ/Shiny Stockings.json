@@ -1,0 +1,18 @@
+{
+  "title": "Shiny Stockings",
+  "score_title": "Shiny Stockings",
+  "path": "JAZZ/Shiny Stockings.mid",
+  "composer": "Jazz",
+  "performer": "Jazz",
+  "date": "1955",
+  "duration": "3:58",
+  "duration_seconds": 238,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 440
+  },
+  "note_count": 2876,
+  "tempo_bpm": 130,
+  "time_signature": "4/4"
+}

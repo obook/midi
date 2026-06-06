@@ -1,0 +1,18 @@
+{
+  "title": "SOMETIME",
+  "score_title": "SOMETIME",
+  "path": "MACE BOB/SOMETIME.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "2:53",
+  "duration_seconds": 173,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 210
+  },
+  "note_count": 1048,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

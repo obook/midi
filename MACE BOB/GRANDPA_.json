@@ -1,0 +1,18 @@
+{
+  "title": "GRANDPA ",
+  "score_title": "GRANDPA ",
+  "path": "MACE BOB/GRANDPA_.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "4:07",
+  "duration_seconds": 247,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 212
+  },
+  "note_count": 1370,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 5 in C Minor, Op. 10 No. 1, I. Allegro molto e con brio",
+  "score_title": "Sonata No. 5 in C Minor, Op. 10 No. 1, I. Allegro molto e con brio",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 5 in C Minor, Op. 10 No. 1, I. Allegro molto e con brio.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1796",
+  "duration": "3:56",
+  "duration_seconds": 236,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4055
+  },
+  "note_count": 2113,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

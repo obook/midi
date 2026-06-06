@@ -1,0 +1,18 @@
+{
+  "title": "Sorry Seems To Be the hardest word piano",
+  "score_title": "Sorry Seems to Be the Hardest Word",
+  "path": "ELTON JOHN/Sorry Seems To Be the hardest word piano.mid",
+  "composer": "John Elton",
+  "performer": "John Elton",
+  "date": "1976",
+  "duration": "3:29",
+  "duration_seconds": 209,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 1137,
+  "tempo_bpm": 66,
+  "time_signature": "4/4"
+}

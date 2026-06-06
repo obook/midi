@@ -1,0 +1,18 @@
+{
+  "title": "Tarantelle di Bravura, S. 386",
+  "score_title": "Tarantelle di Bravura, S. 386",
+  "path": "LISZT FRANZ/Tarantelle di Bravura, S. 386.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1846",
+  "duration": "10:26",
+  "duration_seconds": 626,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4443
+  },
+  "note_count": 11083,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in D Minor, WTC I, BWV 851",
+  "score_title": "Prelude and Fugue in D Minor, WTC I, BWV 851",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in D Minor, WTC I, BWV 851.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1722",
+  "duration": "3:37",
+  "duration_seconds": 217,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4036
+  },
+  "note_count": 1645,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

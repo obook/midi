@@ -1,0 +1,18 @@
+{
+  "title": "Killsoft",
+  "score_title": "Killing Me Softly with His Song",
+  "path": "MACE BOB/Killsoft.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1973",
+  "duration": "4:21",
+  "duration_seconds": 261,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 241
+  },
+  "note_count": 1511,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

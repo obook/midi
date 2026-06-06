@@ -1,0 +1,18 @@
+{
+  "title": "YOUVELOS",
+  "score_title": "YOUVELOS",
+  "path": "MACE BOB/YOUVELOS.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "3:30",
+  "duration_seconds": 210,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 288
+  },
+  "note_count": 1282,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

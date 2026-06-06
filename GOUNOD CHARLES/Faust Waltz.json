@@ -1,0 +1,18 @@
+{
+  "title": "Faust Waltz",
+  "score_title": "Faust Waltz",
+  "path": "GOUNOD CHARLES/Faust Waltz.mid",
+  "composer": "Charles Gounod",
+  "performer": "Charles Gounod",
+  "date": "1859",
+  "duration": "9:17",
+  "duration_seconds": 557,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 7158
+  },
+  "note_count": 7662,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

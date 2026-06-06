@@ -1,0 +1,18 @@
+{
+  "title": "IONLYHAV",
+  "score_title": "I Only Have Eyes for You",
+  "path": "MACE BOB/IONLYHAV.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1934",
+  "duration": "3:42",
+  "duration_seconds": 222,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 121
+  },
+  "note_count": 1086,
+  "tempo_bpm": 115,
+  "time_signature": "4/4"
+}

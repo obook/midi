@@ -1,0 +1,18 @@
+{
+  "title": "Variations serieuses, Op. 54",
+  "score_title": "Variations sérieuses, Op. 54",
+  "path": "MENDELSSOHN FELIX/Variations serieuses, Op. 54.mid",
+  "composer": "Felix Mendelssohn",
+  "performer": "Felix Mendelssohn",
+  "date": "1841",
+  "duration": "11:27",
+  "duration_seconds": 687,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 9304
+  },
+  "note_count": 7728,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 26 in 3-flat Major, Op. 81a (2nd & 3rd Movements)",
+  "score_title": "Sonata No. 26 in E-flat Major, Op. 81a \"Les Adieux\" (2nd & 3rd Movements)",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 26 in 3-flat Major, Op. 81a (2nd & 3rd Movements).mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1810",
+  "duration": "7:33",
+  "duration_seconds": 453,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5888
+  },
+  "note_count": 4741,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

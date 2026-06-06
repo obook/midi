@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in D Minor, K. 9",
+  "score_title": "Sonata in D Minor, K. 9",
+  "path": "SCARLATTI DOMENICO/Sonata in D Minor, K. 9.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "1738",
+  "duration": "3:33",
+  "duration_seconds": 213,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2687
+  },
+  "note_count": 1701,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

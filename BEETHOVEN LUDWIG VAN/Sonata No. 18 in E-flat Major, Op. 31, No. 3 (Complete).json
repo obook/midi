@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 18 in E-flat Major, Op. 31, No. 3 (Complete)",
+  "score_title": "Sonata No. 18 in E-flat Major, Op. 31 No. 3 (Complete)",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 18 in E-flat Major, Op. 31, No. 3 (Complete).mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1802",
+  "duration": "20:06",
+  "duration_seconds": 1206,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 11445
+  },
+  "note_count": 11207,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

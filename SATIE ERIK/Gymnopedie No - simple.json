@@ -1,0 +1,18 @@
+{
+  "title": "Gymnopedie No - simple",
+  "score_title": "Gymnopédie No. 1",
+  "path": "SATIE ERIK/Gymnopedie No - simple.mid",
+  "composer": "Erik Satie",
+  "performer": "Erik Satie",
+  "date": "1888",
+  "duration": "2:32",
+  "duration_seconds": 152,
+  "humanized": true,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 447,
+  "tempo_bpm": 91,
+  "time_signature": "3/4"
+}

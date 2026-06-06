@@ -1,0 +1,18 @@
+{
+  "title": "Tarantella",
+  "score_title": "Tarantella, S. 162 No. 3, from Venezia e Napoli",
+  "path": "LISZT FRANZ/Tarantella.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1859",
+  "duration": "9:05",
+  "duration_seconds": 545,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5097
+  },
+  "note_count": 7757,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

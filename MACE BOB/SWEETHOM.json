@@ -1,0 +1,18 @@
+{
+  "title": "SWEETHOM",
+  "score_title": "Sweet Home Alabama",
+  "path": "MACE BOB/SWEETHOM.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1974",
+  "duration": "5:52",
+  "duration_seconds": 352,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 554
+  },
+  "note_count": 6952,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

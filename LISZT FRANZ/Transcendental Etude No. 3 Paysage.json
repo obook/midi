@@ -1,0 +1,18 @@
+{
+  "title": "Transcendental Etude No. 3 Paysage",
+  "score_title": "Transcendental Etude No. 3 in F Major, S. 139 \"Paysage\"",
+  "path": "LISZT FRANZ/Transcendental Etude No. 3 Paysage.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1852",
+  "duration": "4:12",
+  "duration_seconds": 252,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 6897
+  },
+  "note_count": 1911,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

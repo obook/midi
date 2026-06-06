@@ -1,0 +1,18 @@
+{
+  "title": "Calirro Op.37 No.4",
+  "score_title": "Callirhoe, Op. 37 No. 4",
+  "path": "CHAMINADE CÉCILE/Calirro Op.37 No.4.mid",
+  "composer": "Cécile Chaminade",
+  "performer": "Cécile Chaminade",
+  "date": "1888",
+  "duration": "1:31",
+  "duration_seconds": 91,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 115
+  },
+  "note_count": 1383,
+  "tempo_bpm": 104,
+  "time_signature": "2/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 16 in G Major, Op. 31 No. 1, First movement",
+  "score_title": "Sonata No. 16 in G Major, Op. 31 No. 1, First Movement",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 16 in G Major, Op. 31 No. 1, First movement.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1802",
+  "duration": "4:38",
+  "duration_seconds": 278,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1126
+  },
+  "note_count": 3306,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

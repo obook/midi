@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 12 in A-flat Major, Op. 26, First Movement",
+  "score_title": "Sonata No. 12 in A-flat Major, Op. 26, First Movement",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 12 in A-flat Major, Op. 26, First Movement.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1801",
+  "duration": "6:42",
+  "duration_seconds": 402,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 7860
+  },
+  "note_count": 3194,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

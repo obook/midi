@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in D Minor, K. 213",
+  "score_title": "Sonata in D Minor, K. 213",
+  "path": "SCARLATTI DOMENICO/Sonata in D Minor, K. 213.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "",
+  "duration": "3:33",
+  "duration_seconds": 213,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5417
+  },
+  "note_count": 1095,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 5 in C Minor, Op. 10 No. 1, First Movement",
+  "score_title": "Sonata No. 5 in C Minor, Op. 10 No. 1, First Movement",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 5 in C Minor, Op. 10 No. 1, First Movement.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1796",
+  "duration": "4:31",
+  "duration_seconds": 271,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 7039
+  },
+  "note_count": 2111,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

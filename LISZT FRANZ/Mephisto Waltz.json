@@ -1,0 +1,18 @@
+{
+  "title": "Mephisto Waltz",
+  "score_title": "Mephisto Waltz No. 1, S. 514 \"The Dance in the Village Inn\"",
+  "path": "LISZT FRANZ/Mephisto Waltz.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1859",
+  "duration": "11:10",
+  "duration_seconds": 670,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 6838
+  },
+  "note_count": 9728,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

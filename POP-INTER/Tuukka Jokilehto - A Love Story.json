@@ -1,0 +1,18 @@
+{
+  "title": "Tuukka Jokilehto - A Love Story",
+  "score_title": "Tuukka Jokilehto - A Love Story",
+  "path": "POP-INTER/Tuukka Jokilehto - A Love Story.mid",
+  "composer": "Pop-Inter",
+  "performer": "Pop-Inter",
+  "date": "",
+  "duration": "2:03",
+  "duration_seconds": 123,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 140
+  },
+  "note_count": 392,
+  "tempo_bpm": 128,
+  "time_signature": "4/4"
+}

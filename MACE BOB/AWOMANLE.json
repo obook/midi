@@ -1,0 +1,18 @@
+{
+  "title": "AWOMANLE",
+  "score_title": "AWOMANLE",
+  "path": "MACE BOB/AWOMANLE.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "4:01",
+  "duration_seconds": 241,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 246
+  },
+  "note_count": 1238,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

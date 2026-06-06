@@ -1,0 +1,18 @@
+{
+  "title": "From -chansons villegeoiges- Le retour du sergeant",
+  "score_title": "Le retour du sergent (Chansons villageoises)",
+  "path": "POULENC FRANÇIS/From -chansons villegeoiges- Le retour du sergeant.mid",
+  "composer": "Françis Poulenc",
+  "performer": "Françis Poulenc",
+  "date": "1942",
+  "duration": "1:21",
+  "duration_seconds": 81,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 138
+  },
+  "note_count": 1065,
+  "tempo_bpm": 138,
+  "time_signature": "4/4"
+}

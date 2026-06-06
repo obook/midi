@@ -1,0 +1,18 @@
+{
+  "title": "Etude No. 6 in D major",
+  "score_title": "Etude No. 6 in D Major",
+  "path": "CLEMENTI MUZIO/Etude No. 6 in D major.mid",
+  "composer": "Muzio Clementi",
+  "performer": "Muzio Clementi",
+  "date": "1817",
+  "duration": "1:25",
+  "duration_seconds": 85,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 1311,
+  "tempo_bpm": 147,
+  "time_signature": "4/4"
+}

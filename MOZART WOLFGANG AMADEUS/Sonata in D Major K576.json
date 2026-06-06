@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in D Major K576",
+  "score_title": "Piano Sonata No. 18 in D Major, K. 576",
+  "path": "MOZART WOLFGANG AMADEUS/Sonata in D Major K576.mid",
+  "composer": "Wolfgang Amadeus Mozart",
+  "performer": "Wolfgang Amadeus Mozart",
+  "date": "1789",
+  "duration": "13:21",
+  "duration_seconds": 801,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 9220
+  },
+  "note_count": 5919,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

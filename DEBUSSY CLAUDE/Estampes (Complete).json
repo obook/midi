@@ -1,0 +1,18 @@
+{
+  "title": "Estampes (Complete)",
+  "score_title": "Estampes (Complete)",
+  "path": "DEBUSSY CLAUDE/Estampes (Complete).mid",
+  "composer": "Claude Debussy",
+  "performer": "Claude Debussy",
+  "date": "1903",
+  "duration": "14:09",
+  "duration_seconds": 849,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 8132
+  },
+  "note_count": 7732,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

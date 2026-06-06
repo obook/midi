@@ -1,0 +1,18 @@
+{
+  "title": "Scorpion - Still loving you Piano",
+  "score_title": "Scorpions - Still Loving You",
+  "path": "POP-INTER/Scorpion - Still loving you Piano.mid",
+  "composer": "Pop-Inter",
+  "performer": "Pop-Inter",
+  "date": "1984",
+  "duration": "5:00",
+  "duration_seconds": 300,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 806,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

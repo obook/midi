@@ -1,0 +1,18 @@
+{
+  "title": "Scherzo No. 1 in B minor, Op. 20",
+  "score_title": "Scherzo No. 1 in B Minor, Op. 20",
+  "path": "CHOPIN FREDERIC/Scherzo No. 1 in B minor, Op. 20.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1835",
+  "duration": "9:12",
+  "duration_seconds": 552,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4223
+  },
+  "note_count": 4965,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

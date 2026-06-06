@@ -1,0 +1,18 @@
+{
+  "title": "Preludes Op. 23, Nos. 2, 4 and 5",
+  "score_title": "Preludes, Op. 23, Nos. 2, 4 and 5",
+  "path": "RACHMANINOV SERGUEÏ/Preludes Op. 23, Nos. 2, 4 and 5.mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1903",
+  "duration": "11:40",
+  "duration_seconds": 700,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5759
+  },
+  "note_count": 8327,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

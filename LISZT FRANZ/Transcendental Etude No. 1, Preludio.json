@@ -1,0 +1,18 @@
+{
+  "title": "Transcendental Etude No. 1, Preludio",
+  "score_title": "Transcendental Etude No. 1 \"Preludio\", S. 139",
+  "path": "LISZT FRANZ/Transcendental Etude No. 1, Preludio.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1852",
+  "duration": "0:43",
+  "duration_seconds": 43,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 517
+  },
+  "note_count": 629,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

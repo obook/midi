@@ -1,0 +1,18 @@
+{
+  "title": "Moment Musical Op. 94 No. 1 in C Major",
+  "score_title": "Moment Musical in C Major, Op. 94 No. 1, D. 780",
+  "path": "SCHUBERT FRANZ/Moment Musical Op. 94 No. 1 in C Major.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1828",
+  "duration": "5:48",
+  "duration_seconds": 348,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 6659
+  },
+  "note_count": 2634,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Waltz No.5",
+  "score_title": "Waltz No. 5 in E Major, Op. 39 No. 5",
+  "path": "BRAMS JOHANNES/Waltz No.5.mid",
+  "composer": "Johannes Brams",
+  "performer": "Johannes Brams",
+  "date": "1865",
+  "duration": "1:36",
+  "duration_seconds": 96,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 476,
+  "tempo_bpm": 58,
+  "time_signature": "3/4"
+}

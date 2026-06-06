@@ -1,0 +1,18 @@
+{
+  "title": "Le roi Dagobert",
+  "score_title": "Le bon roi Dagobert",
+  "path": "ENFANTS CHILD/Le_roi_Dagobert.mid",
+  "composer": "Child Enfants",
+  "performer": "Child Enfants",
+  "date": "",
+  "duration": "1:23",
+  "duration_seconds": 83,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 1910,
+  "tempo_bpm": 130,
+  "time_signature": "6/8"
+}

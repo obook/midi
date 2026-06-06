@@ -1,0 +1,18 @@
+{
+  "title": "Etude Op. 25 No. 6",
+  "score_title": "Etude in G-sharp Minor, Op. 25 No. 6 \"Thirds\"",
+  "path": "CHOPIN FREDERIC/Etude Op. 25 No. 6.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1837",
+  "duration": "1:56",
+  "duration_seconds": 116,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1185
+  },
+  "note_count": 2473,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

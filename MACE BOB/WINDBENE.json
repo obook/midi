@@ -1,0 +1,18 @@
+{
+  "title": "WINDBENE",
+  "score_title": "The Wind Beneath My Wings",
+  "path": "MACE BOB/WINDBENE.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1982",
+  "duration": "3:45",
+  "duration_seconds": 225,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 168
+  },
+  "note_count": 1335,
+  "tempo_bpm": 130,
+  "time_signature": "4/4"
+}

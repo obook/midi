@@ -1,0 +1,18 @@
+{
+  "title": "Hungarian Rhapsody No. 15 (Horowitz edition)",
+  "score_title": "Hungarian Rhapsody No. 15 (Horowitz Edition)",
+  "path": "LISZT FRANZ/Hungarian Rhapsody No. 15 (Horowitz edition).mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1853",
+  "duration": "5:08",
+  "duration_seconds": 308,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5189
+  },
+  "note_count": 5589,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

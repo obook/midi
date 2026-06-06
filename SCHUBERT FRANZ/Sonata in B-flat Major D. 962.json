@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in B-flat Major D. 962",
+  "score_title": "Sonata in B-flat Major D. 962",
+  "path": "SCHUBERT FRANZ/Sonata in B-flat Major D. 962.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1828",
+  "duration": "3:33",
+  "duration_seconds": 213,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 860
+  },
+  "note_count": 3141,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

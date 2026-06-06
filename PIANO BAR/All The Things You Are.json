@@ -1,0 +1,18 @@
+{
+  "title": "All The Things You Are",
+  "score_title": "All the Things You Are",
+  "path": "PIANO BAR/All The Things You Are.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1939",
+  "duration": "4:09",
+  "duration_seconds": 249,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 528
+  },
+  "note_count": 3224,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

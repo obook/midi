@@ -1,0 +1,18 @@
+{
+  "title": "Fantasien Op.116",
+  "score_title": "Fantasien, Op. 116",
+  "path": "BRAMS JOHANNES/Fantasien Op.116.mid",
+  "composer": "Johannes Brams",
+  "performer": "Johannes Brams",
+  "date": "1892",
+  "duration": "22:34",
+  "duration_seconds": 1354,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 19501
+  },
+  "note_count": 8521,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

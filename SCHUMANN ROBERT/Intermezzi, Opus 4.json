@@ -1,0 +1,18 @@
+{
+  "title": "Intermezzi, Opus 4",
+  "score_title": "Intermezzi, Op. 4",
+  "path": "SCHUMANN ROBERT/Intermezzi, Opus 4.mid",
+  "composer": "Robert Schumann",
+  "performer": "Robert Schumann",
+  "date": "1832",
+  "duration": "21:43",
+  "duration_seconds": 1303,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 20963
+  },
+  "note_count": 11310,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

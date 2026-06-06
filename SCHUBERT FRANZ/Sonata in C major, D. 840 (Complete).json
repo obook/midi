@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in C major, D. 840 (Complete)",
+  "score_title": "Piano Sonata in C Major, D. 840 (Complete)",
+  "path": "SCHUBERT FRANZ/Sonata in C major, D. 840 (Complete).mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1825",
+  "duration": "26:17",
+  "duration_seconds": 1577,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 18515
+  },
+  "note_count": 10874,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

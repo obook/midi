@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in F Major, K533",
+  "score_title": "Piano Sonata No. 15 in F Major, K. 533/494",
+  "path": "MOZART WOLFGANG AMADEUS/Sonata in F Major, K533.mid",
+  "composer": "Wolfgang Amadeus Mozart",
+  "performer": "Wolfgang Amadeus Mozart",
+  "date": "1788",
+  "duration": "18:55",
+  "duration_seconds": 1135,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 10231
+  },
+  "note_count": 7557,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

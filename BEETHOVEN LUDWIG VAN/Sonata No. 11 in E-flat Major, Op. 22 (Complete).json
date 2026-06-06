@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 11 in E-flat Major, Op. 22 (Complete)",
+  "score_title": "Sonata No. 11 in B-flat Major, Op. 22 (Complete)",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 11 in E-flat Major, Op. 22 (Complete).mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1800",
+  "duration": "22:00",
+  "duration_seconds": 1320,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 8771
+  },
+  "note_count": 11586,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "BRIGOVER",
+  "score_title": "Bridge over Troubled Water",
+  "path": "MACE BOB/BRIGOVER.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1970",
+  "duration": "4:22",
+  "duration_seconds": 262,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 294
+  },
+  "note_count": 1752,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

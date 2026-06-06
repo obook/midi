@@ -1,0 +1,18 @@
+{
+  "title": "Italian Concerto, BWV 971 (Complete)",
+  "score_title": "Italian Concerto in F Major, BWV 971 (Complete)",
+  "path": "BACH JOHANN SEBASTIAN/Italian Concerto, BWV 971 (Complete).mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1735",
+  "duration": "12:48",
+  "duration_seconds": 768,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 7656
+  },
+  "note_count": 6370,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

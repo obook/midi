@@ -1,0 +1,18 @@
+{
+  "title": "Carpenters-Close to you",
+  "score_title": "(They Long to Be) Close to You",
+  "path": "POP-70/Carpenters-Close_to_you.mid",
+  "composer": "Pop-70",
+  "performer": "Pop-70",
+  "date": "1970",
+  "duration": "3:49",
+  "duration_seconds": 229,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 1356,
+  "tempo_bpm": 87,
+  "time_signature": "4/4"
+}

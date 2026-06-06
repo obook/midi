@@ -1,0 +1,18 @@
+{
+  "title": "SUNSHINE",
+  "score_title": "SUNSHINE",
+  "path": "MACE BOB/SUNSHINE.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "4:31",
+  "duration_seconds": 271,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 40
+  },
+  "note_count": 3869,
+  "tempo_bpm": 128,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in G Minor, WTC II",
+  "score_title": "Prelude and Fugue in G Minor, WTC II, BWV 885",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in G Minor, WTC II.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1742",
+  "duration": "5:47",
+  "duration_seconds": 347,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5032
+  },
+  "note_count": 2176,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

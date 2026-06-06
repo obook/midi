@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in D Major, Hob. XVI24",
+  "score_title": "Sonata in D Major, Hob. XVI:24",
+  "path": "HAYDN FRANZ JOSEPH/Sonata in D Major, Hob. XVI24.mid",
+  "composer": "Franz Joseph Haydn",
+  "performer": "Franz Joseph Haydn",
+  "date": "1773",
+  "duration": "4:32",
+  "duration_seconds": 272,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4286
+  },
+  "note_count": 1601,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

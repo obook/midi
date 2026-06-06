@@ -1,0 +1,18 @@
+{
+  "title": "Lyric Piece in E Minor, Waltz, Op. 38 No. 7",
+  "score_title": "Lyric Piece in E Minor, Waltz, Op. 38 No. 7",
+  "path": "GRIEG EDVARD/Lyric Piece in E Minor, Waltz, Op. 38 No. 7.mid",
+  "composer": "Edvard Grieg",
+  "performer": "Edvard Grieg",
+  "date": "1883",
+  "duration": "1:14",
+  "duration_seconds": 74,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 798
+  },
+  "note_count": 405,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

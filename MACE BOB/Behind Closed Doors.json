@@ -1,0 +1,18 @@
+{
+  "title": "Behind Closed Doors",
+  "score_title": "Behind Closed Doors",
+  "path": "MACE BOB/Behind Closed Doors.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1973",
+  "duration": "4:25",
+  "duration_seconds": 265,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 346
+  },
+  "note_count": 1681,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

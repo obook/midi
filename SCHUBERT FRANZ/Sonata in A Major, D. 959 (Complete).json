@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in A Major, D. 959 (Complete)",
+  "score_title": "Piano Sonata No. 20 in A Major, D. 959 (Complete)",
+  "path": "SCHUBERT FRANZ/Sonata in A Major, D. 959 (Complete).mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1828",
+  "duration": "40:49",
+  "duration_seconds": 2449,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 40153
+  },
+  "note_count": 20290,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

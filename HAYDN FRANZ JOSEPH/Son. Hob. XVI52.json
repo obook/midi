@@ -1,0 +1,18 @@
+{
+  "title": "Son. Hob. XVI52",
+  "score_title": "Piano Sonata in E-flat Major, Hob. XVI:52",
+  "path": "HAYDN FRANZ JOSEPH/Son. Hob. XVI52.mid",
+  "composer": "Franz Joseph Haydn",
+  "performer": "Franz Joseph Haydn",
+  "date": "1794",
+  "duration": "17:10",
+  "duration_seconds": 1030,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 10856
+  },
+  "note_count": 7042,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

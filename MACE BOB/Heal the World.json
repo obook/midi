@@ -1,0 +1,18 @@
+{
+  "title": "Heal the World",
+  "score_title": "Heal the World",
+  "path": "MACE BOB/Heal the World.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1991",
+  "duration": "4:35",
+  "duration_seconds": 275,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 406
+  },
+  "note_count": 3438,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

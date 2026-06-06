@@ -1,0 +1,18 @@
+{
+  "title": "Frere Jacques",
+  "score_title": "Frere Jacques",
+  "path": "ENFANTS CHILD/Frere_Jacques.mid",
+  "composer": "Child Enfants",
+  "performer": "Child Enfants",
+  "date": "",
+  "duration": "1:29",
+  "duration_seconds": 89,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 895,
+  "tempo_bpm": 104,
+  "time_signature": "4/4"
+}

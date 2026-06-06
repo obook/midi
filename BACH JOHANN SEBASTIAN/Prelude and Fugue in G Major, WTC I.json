@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in G Major, WTC I",
+  "score_title": "Prelude and Fugue in G Major, WTC I, BWV 860",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in G Major, WTC I.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1722",
+  "duration": "3:34",
+  "duration_seconds": 214,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 2352,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Two Sonatas",
+  "score_title": "Two Sonatas",
+  "path": "SCARLATTI DOMENICO/Two Sonatas.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "",
+  "duration": "6:13",
+  "duration_seconds": 373,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4136
+  },
+  "note_count": 4154,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

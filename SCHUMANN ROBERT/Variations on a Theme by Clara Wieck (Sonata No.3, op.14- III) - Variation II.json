@@ -1,0 +1,18 @@
+{
+  "title": "Variations on a Theme by Clara Wieck (Sonata No.3, op.14- III) - Variation II",
+  "score_title": "Variations on a Theme by Clara Wieck (Sonata No. 3, Op. 14 - III), Variation II",
+  "path": "SCHUMANN ROBERT/Variations on a Theme by Clara Wieck (Sonata No.3, op.14- III) - Variation II.mid",
+  "composer": "Robert Schumann",
+  "performer": "Robert Schumann",
+  "date": "1836",
+  "duration": "1:31",
+  "duration_seconds": 91,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 171
+  },
+  "note_count": 831,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

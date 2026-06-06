@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 32 in C minor, Op. 111",
+  "score_title": "Sonata No. 32 in C Minor, Op. 111",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 32 in C minor, Op. 111.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1822",
+  "duration": "26:28",
+  "duration_seconds": 1588,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 33271
+  },
+  "note_count": 12957,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

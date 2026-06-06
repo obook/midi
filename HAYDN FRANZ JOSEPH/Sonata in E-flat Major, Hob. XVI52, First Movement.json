@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in E-flat Major, Hob. XVI52, First Movement",
+  "score_title": "Sonata in E-flat Major, Hob. XVI:52, First Movement",
+  "path": "HAYDN FRANZ JOSEPH/Sonata in E-flat Major, Hob. XVI52, First Movement.mid",
+  "composer": "Franz Joseph Haydn",
+  "performer": "Franz Joseph Haydn",
+  "date": "1794",
+  "duration": "5:29",
+  "duration_seconds": 329,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3296
+  },
+  "note_count": 3311,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

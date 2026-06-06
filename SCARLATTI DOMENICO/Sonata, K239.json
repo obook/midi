@@ -1,0 +1,18 @@
+{
+  "title": "Sonata, K239",
+  "score_title": "Sonata in A Major, K. 239",
+  "path": "SCARLATTI DOMENICO/Sonata, K239.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "",
+  "duration": "3:15",
+  "duration_seconds": 195,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2833
+  },
+  "note_count": 1820,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

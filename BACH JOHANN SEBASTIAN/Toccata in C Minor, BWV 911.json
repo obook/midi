@@ -1,0 +1,18 @@
+{
+  "title": "Toccata in C Minor, BWV 911",
+  "score_title": "Toccata in C Minor, BWV 911",
+  "path": "BACH JOHANN SEBASTIAN/Toccata in C Minor, BWV 911.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "",
+  "duration": "10:01",
+  "duration_seconds": 601,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5255
+  },
+  "note_count": 4749,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

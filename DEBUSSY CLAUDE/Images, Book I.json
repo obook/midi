@@ -1,0 +1,18 @@
+{
+  "title": "Images, Book I",
+  "score_title": "Images, Book I",
+  "path": "DEBUSSY CLAUDE/Images, Book I.mid",
+  "composer": "Claude Debussy",
+  "performer": "Claude Debussy",
+  "date": "1905",
+  "duration": "15:24",
+  "duration_seconds": 924,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 15130
+  },
+  "note_count": 7270,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

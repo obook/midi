@@ -1,0 +1,18 @@
+{
+  "title": "Spanish Rhapsody",
+  "score_title": "Spanish Rhapsody, S. 254",
+  "path": "LISZT FRANZ/Spanish Rhapsody.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1863",
+  "duration": "13:23",
+  "duration_seconds": 803,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 10788
+  },
+  "note_count": 12537,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

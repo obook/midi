@@ -1,0 +1,18 @@
+{
+  "title": "Coeur de femme",
+  "score_title": "Coeur de femme",
+  "path": "MARIANO LOUIS/Coeur de femme.mid",
+  "composer": "Louis Mariano",
+  "performer": "Louis Mariano",
+  "date": "1949",
+  "duration": "2:31",
+  "duration_seconds": 151,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 96
+  },
+  "note_count": 1195,
+  "tempo_bpm": 149,
+  "time_signature": "4/4"
+}

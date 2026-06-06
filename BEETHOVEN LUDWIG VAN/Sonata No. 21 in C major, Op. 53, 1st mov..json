@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 21 in C major, Op. 53, 1st mov.",
+  "score_title": "Sonata No. 21 in C Major, Op. 53 \"Waldstein\", I. Allegro con brio",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 21 in C major, Op. 53, 1st mov..mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1804",
+  "duration": "8:27",
+  "duration_seconds": 507,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4848
+  },
+  "note_count": 6632,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

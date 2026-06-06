@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in A D959",
+  "score_title": "Piano Sonata No. 20 in A Major, D. 959",
+  "path": "SCHUBERT FRANZ/Sonata in A D959.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1828",
+  "duration": "11:15",
+  "duration_seconds": 675,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 13532
+  },
+  "note_count": 6234,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

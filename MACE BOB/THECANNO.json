@@ -1,0 +1,18 @@
+{
+  "title": "THECANNO",
+  "score_title": "The Cannonball",
+  "path": "MACE BOB/THECANNO.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "2:09",
+  "duration_seconds": 129,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 317
+  },
+  "note_count": 2053,
+  "tempo_bpm": 155,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Ludovico Einaudi - Experience",
+  "score_title": "Ludovico Einaudi - Experience",
+  "path": "POP-INTER/Ludovico Einaudi - Experience.mid",
+  "composer": "Pop-Inter",
+  "performer": "Pop-Inter",
+  "date": "2013",
+  "duration": "4:54",
+  "duration_seconds": 294,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 452
+  },
+  "note_count": 2805,
+  "tempo_bpm": 92,
+  "time_signature": "4/4"
+}

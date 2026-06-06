@@ -1,0 +1,18 @@
+{
+  "title": "Grandes Etudes de Paganini, S. 141",
+  "score_title": "Grandes Etudes de Paganini, S. 141",
+  "path": "LISZT FRANZ/Grandes Etudes de Paganini, S. 141.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1851",
+  "duration": "26:51",
+  "duration_seconds": 1611,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 31447
+  },
+  "note_count": 18867,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

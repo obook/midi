@@ -1,0 +1,18 @@
+{
+  "title": "Carpenters-Yesterday-Once-More",
+  "score_title": "Yesterday Once More",
+  "path": "POP-70/Carpenters-Yesterday-Once-More.mid",
+  "composer": "Pop-70",
+  "performer": "Pop-70",
+  "date": "1973",
+  "duration": "3:47",
+  "duration_seconds": 227,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 234
+  },
+  "note_count": 1498,
+  "tempo_bpm": 84,
+  "time_signature": "4/4"
+}

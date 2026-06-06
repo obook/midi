@@ -1,0 +1,18 @@
+{
+  "title": "Piano Sonata 1. X. 1905-From the Street",
+  "score_title": "Piano Sonata \"1.X.1905\" (From the Street)",
+  "path": "JANÁČEK LEOŠ/Piano Sonata 1. X. 1905-From the Street.mid",
+  "composer": "Leoš Janáček",
+  "performer": "Leoš Janáček",
+  "date": "1905",
+  "duration": "13:53",
+  "duration_seconds": 833,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 8317
+  },
+  "note_count": 4472,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

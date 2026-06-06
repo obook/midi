@@ -1,0 +1,18 @@
+{
+  "title": "I Wish You Love",
+  "score_title": "I Wish You Love",
+  "path": "PIANO BAR/I Wish You Love.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1955",
+  "duration": "3:48",
+  "duration_seconds": 228,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 169
+  },
+  "note_count": 1298,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

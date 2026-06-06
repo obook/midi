@@ -1,0 +1,18 @@
+{
+  "title": "DOYOUKNO",
+  "score_title": "Do You Know the Way to San Jose",
+  "path": "MACE BOB/DOYOUKNO.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "4:59",
+  "duration_seconds": 299,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 436
+  },
+  "note_count": 1695,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

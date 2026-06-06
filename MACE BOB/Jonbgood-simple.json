@@ -1,0 +1,18 @@
+{
+  "title": "Jonbgood-simple",
+  "score_title": "Johnny B. Goode",
+  "path": "MACE BOB/Jonbgood-simple.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1958",
+  "duration": "7:29",
+  "duration_seconds": 449,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 19
+  },
+  "note_count": 14321,
+  "tempo_bpm": 162,
+  "time_signature": "4/4"
+}

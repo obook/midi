@@ -1,0 +1,18 @@
+{
+  "title": "FANCY WI",
+  "score_title": "FANCY WI",
+  "path": "MACE BOB/FANCY_WI.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "6:25",
+  "duration_seconds": 385,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 476
+  },
+  "note_count": 6401,
+  "tempo_bpm": 95,
+  "time_signature": "4/4"
+}

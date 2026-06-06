@@ -1,0 +1,18 @@
+{
+  "title": "CHILLOFA",
+  "score_title": "The Chill of an Early Fall",
+  "path": "MACE BOB/CHILLOFA.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1991",
+  "duration": "3:40",
+  "duration_seconds": 220,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 206
+  },
+  "note_count": 1018,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

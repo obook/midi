@@ -1,0 +1,18 @@
+{
+  "title": "12barpno",
+  "score_title": "12barpno",
+  "path": "HURTEBIS ERIC/12barpno.mid",
+  "composer": "Eric Hurtebis",
+  "performer": "Eric Hurtebis",
+  "date": "",
+  "duration": "4:41",
+  "duration_seconds": 281,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 250
+  },
+  "note_count": 3488,
+  "tempo_bpm": 80,
+  "time_signature": "4/4"
+}

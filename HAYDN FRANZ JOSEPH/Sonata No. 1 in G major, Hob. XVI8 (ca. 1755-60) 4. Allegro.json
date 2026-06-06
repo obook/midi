@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 1 in G major, Hob. XVI8 (ca. 1755-60) 4. Allegro",
+  "score_title": "Piano Sonata No. 1 in G Major, Hob. XVI:8, IV. Allegro",
+  "path": "HAYDN FRANZ JOSEPH/Sonata No. 1 in G major, Hob. XVI8 (ca. 1755-60) 4. Allegro.mid",
+  "composer": "Franz Joseph Haydn",
+  "performer": "Franz Joseph Haydn",
+  "date": "1755",
+  "duration": "0:33",
+  "duration_seconds": 33,
+  "humanized": true,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 400,
+  "tempo_bpm": 130,
+  "time_signature": "3/8"
+}

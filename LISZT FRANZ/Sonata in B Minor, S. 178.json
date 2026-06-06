@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in B Minor, S. 178",
+  "score_title": "Piano Sonata in B Minor, S. 178",
+  "path": "LISZT FRANZ/Sonata in B Minor, S. 178.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1853",
+  "duration": "24:40",
+  "duration_seconds": 1480,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 11744
+  },
+  "note_count": 16658,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

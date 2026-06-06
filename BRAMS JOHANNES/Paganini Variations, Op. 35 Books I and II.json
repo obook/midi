@@ -1,0 +1,18 @@
+{
+  "title": "Paganini Variations, Op. 35 Books I and II",
+  "score_title": "Variations on a Theme by Paganini, Op. 35, Books 1 and 2",
+  "path": "BRAMS JOHANNES/Paganini Variations, Op. 35 Books I and II.mid",
+  "composer": "Johannes Brams",
+  "performer": "Johannes Brams",
+  "date": "1863",
+  "duration": "21:14",
+  "duration_seconds": 1274,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 24228
+  },
+  "note_count": 17756,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

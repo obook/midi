@@ -1,0 +1,18 @@
+{
+  "title": "SUITE JU",
+  "score_title": "Suite: Judy Blue Eyes",
+  "path": "MACE BOB/SUITE_JU.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1969",
+  "duration": "7:18",
+  "duration_seconds": 438,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 990
+  },
+  "note_count": 3541,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

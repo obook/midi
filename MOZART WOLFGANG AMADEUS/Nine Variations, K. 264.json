@@ -1,0 +1,18 @@
+{
+  "title": "Nine Variations, K. 264",
+  "score_title": "Nine Variations in C Major, K. 264",
+  "path": "MOZART WOLFGANG AMADEUS/Nine Variations, K. 264.mid",
+  "composer": "Wolfgang Amadeus Mozart",
+  "performer": "Wolfgang Amadeus Mozart",
+  "date": "1778",
+  "duration": "12:15",
+  "duration_seconds": 735,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 11318
+  },
+  "note_count": 6939,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

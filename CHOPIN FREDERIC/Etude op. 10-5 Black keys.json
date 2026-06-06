@@ -1,0 +1,18 @@
+{
+  "title": "Etude op. 10-5 Black keys",
+  "score_title": "Etude in G-flat Major, Op. 10 No. 5 \"Black Keys\"",
+  "path": "CHOPIN FREDERIC/Etude op. 10-5 Black keys.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1830",
+  "duration": "1:32",
+  "duration_seconds": 92,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 146
+  },
+  "note_count": 1629,
+  "tempo_bpm": 110,
+  "time_signature": "2/4"
+}

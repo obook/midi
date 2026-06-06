@@ -1,0 +1,18 @@
+{
+  "title": "Valse brillante No. 1 in A-flat Major, Op. 34",
+  "score_title": "Valse brillante No. 1 in A-flat Major, Op. 34",
+  "path": "CHOPIN FREDERIC/Valse brillante No. 1 in A-flat Major, Op. 34.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1835",
+  "duration": "5:01",
+  "duration_seconds": 301,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3194
+  },
+  "note_count": 3601,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

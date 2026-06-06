@@ -1,0 +1,18 @@
+{
+  "title": "Concert Etude Gnomenreigen",
+  "score_title": "Concert Etude \"Gnomenreigen\", S. 145 No. 2",
+  "path": "LISZT FRANZ/Concert Etude Gnomenreigen.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1863",
+  "duration": "2:48",
+  "duration_seconds": 168,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3428
+  },
+  "note_count": 3097,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

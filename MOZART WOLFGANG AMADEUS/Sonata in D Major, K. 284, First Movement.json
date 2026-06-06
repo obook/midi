@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in D Major, K. 284, First Movement",
+  "score_title": "Piano Sonata No. 6 in D Major, K. 284, I. Allegro",
+  "path": "MOZART WOLFGANG AMADEUS/Sonata in D Major, K. 284, First Movement.mid",
+  "composer": "Wolfgang Amadeus Mozart",
+  "performer": "Wolfgang Amadeus Mozart",
+  "date": "1775",
+  "duration": "3:25",
+  "duration_seconds": 205,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2438
+  },
+  "note_count": 2690,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

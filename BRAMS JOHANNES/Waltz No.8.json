@@ -1,0 +1,18 @@
+{
+  "title": "Waltz No.8",
+  "score_title": "Waltz No. 8 in B-flat Major, Op. 39 No. 8",
+  "path": "BRAMS JOHANNES/Waltz No.8.mid",
+  "composer": "Johannes Brams",
+  "performer": "Johannes Brams",
+  "date": "1865",
+  "duration": "1:13",
+  "duration_seconds": 73,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 520,
+  "tempo_bpm": 152,
+  "time_signature": "3/4"
+}

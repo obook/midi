@@ -1,0 +1,18 @@
+{
+  "title": "The Most Beautiful Girl",
+  "score_title": "The Most Beautiful Girl",
+  "path": "MACE BOB/The Most Beautiful Girl.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1973",
+  "duration": "3:47",
+  "duration_seconds": 227,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 207
+  },
+  "note_count": 1446,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

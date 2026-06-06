@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in A Minor, D. 848",
+  "score_title": "Sonata in A Minor, D. 848",
+  "path": "SCHUBERT FRANZ/Sonata in A Minor, D. 848.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1825",
+  "duration": "4:53",
+  "duration_seconds": 293,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4240
+  },
+  "note_count": 3869,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

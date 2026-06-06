@@ -1,0 +1,18 @@
+{
+  "title": "Etude Op. 25 No. 10 in B Minor",
+  "score_title": "Etude in B Minor, Op. 25 No. 10",
+  "path": "CHOPIN FREDERIC/Etude Op. 25 No. 10 in B Minor.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1832",
+  "duration": "3:53",
+  "duration_seconds": 233,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3698
+  },
+  "note_count": 3386,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

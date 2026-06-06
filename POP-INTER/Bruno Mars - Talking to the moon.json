@@ -1,0 +1,18 @@
+{
+  "title": "Bruno Mars - Talking to the moon",
+  "score_title": "Bruno Mars - Talking to the Moon",
+  "path": "POP-INTER/Bruno Mars - Talking to the moon.mid",
+  "composer": "Pop-Inter",
+  "performer": "Pop-Inter",
+  "date": "2010",
+  "duration": "3:34",
+  "duration_seconds": 214,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 622
+  },
+  "note_count": 1515,
+  "tempo_bpm": 73,
+  "time_signature": "4/4"
+}

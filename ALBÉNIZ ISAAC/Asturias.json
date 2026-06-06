@@ -1,0 +1,18 @@
+{
+  "title": "Asturias",
+  "score_title": "Asturias (Leyenda), from Suite espanola No. 1, Op. 47",
+  "path": "ALBÉNIZ ISAAC/Asturias.mid",
+  "composer": "Isaac Albéniz",
+  "performer": "Isaac Albéniz",
+  "date": "1892",
+  "duration": "5:07",
+  "duration_seconds": 307,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1961
+  },
+  "note_count": 2725,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

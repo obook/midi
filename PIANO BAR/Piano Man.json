@@ -1,0 +1,18 @@
+{
+  "title": "Piano Man",
+  "score_title": "Piano Man",
+  "path": "PIANO BAR/Piano Man.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1973",
+  "duration": "4:06",
+  "duration_seconds": 246,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 412
+  },
+  "note_count": 1850,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

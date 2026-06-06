@@ -1,0 +1,18 @@
+{
+  "title": "My-Heart-Will-Go-On-(From-'Titanic')-piano",
+  "score_title": "My Heart Will Go On (From \"Titanic\")",
+  "path": "FILMS/My-Heart-Will-Go-On-(From-'Titanic')-piano.mid",
+  "composer": "Films",
+  "performer": "Films",
+  "date": "1997",
+  "duration": "4:04",
+  "duration_seconds": 244,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 331
+  },
+  "note_count": 1334,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

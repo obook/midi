@@ -1,0 +1,18 @@
+{
+  "title": "Il court le furet",
+  "score_title": "Il court, il court, le furet",
+  "path": "ENFANTS CHILD/Il_court_le_furet.mid",
+  "composer": "Child Enfants",
+  "performer": "Child Enfants",
+  "date": "",
+  "duration": "0:25",
+  "duration_seconds": 25,
+  "humanized": true,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 408,
+  "tempo_bpm": 120,
+  "time_signature": "2/4"
+}

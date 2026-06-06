@@ -1,0 +1,18 @@
+{
+  "title": "Clair de Lune",
+  "score_title": "Clair de lune",
+  "path": "DEBUSSY CLAUDE/Clair de Lune.mid",
+  "composer": "Claude Debussy",
+  "performer": "Claude Debussy",
+  "date": "1890",
+  "duration": "4:04",
+  "duration_seconds": 244,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 327
+  },
+  "note_count": 1491,
+  "tempo_bpm": 100,
+  "time_signature": "9/8"
+}

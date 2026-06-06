@@ -1,0 +1,18 @@
+{
+  "title": "Etudes-Tableaux Op. 33",
+  "score_title": "Etudes-Tableaux, Op. 33",
+  "path": "RACHMANINOV SERGUEÏ/Etudes-Tableaux Op. 33.mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1911",
+  "duration": "22:35",
+  "duration_seconds": 1355,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 15373
+  },
+  "note_count": 11581,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

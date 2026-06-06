@@ -1,0 +1,18 @@
+{
+  "title": "SOMEWHER",
+  "score_title": "SOMEWHER",
+  "path": "MACE BOB/SOMEWHER.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1957",
+  "duration": "2:47",
+  "duration_seconds": 167,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 136
+  },
+  "note_count": 961,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

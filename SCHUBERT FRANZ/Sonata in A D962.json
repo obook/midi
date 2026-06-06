@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in A D962",
+  "score_title": "Sonata in A D962",
+  "path": "SCHUBERT FRANZ/Sonata in A D962.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1828",
+  "duration": "10:48",
+  "duration_seconds": 648,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 10886
+  },
+  "note_count": 7045,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

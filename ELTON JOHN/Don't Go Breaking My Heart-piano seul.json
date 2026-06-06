@@ -1,0 +1,18 @@
+{
+  "title": "Don't Go Breaking My Heart-piano seul",
+  "score_title": "Don't Go Breaking My Heart",
+  "path": "ELTON JOHN/Don't Go Breaking My Heart-piano seul.mid",
+  "composer": "John Elton",
+  "performer": "John Elton",
+  "date": "1976",
+  "duration": "3:56",
+  "duration_seconds": 236,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 212
+  },
+  "note_count": 1828,
+  "tempo_bpm": 128,
+  "time_signature": "4/4"
+}

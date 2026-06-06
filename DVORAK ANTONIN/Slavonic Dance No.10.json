@@ -1,0 +1,18 @@
+{
+  "title": "Slavonic Dance No.10",
+  "score_title": "Slavonic Dance No. 10 in E Minor, Op. 72 No. 2",
+  "path": "DVORAK ANTONIN/Slavonic Dance No.10.mid",
+  "composer": "Antonin Dvorak",
+  "performer": "Antonin Dvorak",
+  "date": "1886",
+  "duration": "5:00",
+  "duration_seconds": 300,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2428
+  },
+  "note_count": 2972,
+  "tempo_bpm": 204,
+  "time_signature": "3/4"
+}

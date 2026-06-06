@@ -1,0 +1,18 @@
+{
+  "title": "Etude-Tableaux, Opus 33 No. 3 in C Minor",
+  "score_title": "Etude-Tableau in C Minor, Op. 33 No. 3",
+  "path": "RACHMANINOV SERGUEÏ/Etude-Tableaux, Opus 33 No. 3 in C Minor.mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1911",
+  "duration": "4:24",
+  "duration_seconds": 264,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1273
+  },
+  "note_count": 1181,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

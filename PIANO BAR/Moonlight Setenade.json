@@ -1,0 +1,18 @@
+{
+  "title": "Moonlight Setenade",
+  "score_title": "Moonlight Serenade",
+  "path": "PIANO BAR/Moonlight Setenade.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1939",
+  "duration": "3:33",
+  "duration_seconds": 213,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 192
+  },
+  "note_count": 1268,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

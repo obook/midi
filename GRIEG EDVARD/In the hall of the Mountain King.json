@@ -1,0 +1,18 @@
+{
+  "title": "In the hall of the Mountain King",
+  "score_title": "In the Hall of the Mountain King (Peer Gynt)",
+  "path": "GRIEG EDVARD/In the hall of the Mountain King.mid",
+  "composer": "Edvard Grieg",
+  "performer": "Edvard Grieg",
+  "date": "1875",
+  "duration": "2:06",
+  "duration_seconds": 126,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 215
+  },
+  "note_count": 1451,
+  "tempo_bpm": 138,
+  "time_signature": "4/4"
+}

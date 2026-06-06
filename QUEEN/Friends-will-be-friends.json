@@ -1,0 +1,18 @@
+{
+  "title": "Friends-will-be-friends",
+  "score_title": "Friends Will Be Friends",
+  "path": "QUEEN/Friends-will-be-friends.mid",
+  "composer": "Queen",
+  "performer": "Queen",
+  "date": "1986",
+  "duration": "2:54",
+  "duration_seconds": 174,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 773,
+  "tempo_bpm": 75,
+  "time_signature": "4/4"
+}

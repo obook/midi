@@ -1,0 +1,18 @@
+{
+  "title": "Your Song 74 piano",
+  "score_title": "Your Song",
+  "path": "ELTON JOHN/Your Song 74 piano.mid",
+  "composer": "John Elton",
+  "performer": "John Elton",
+  "date": "1970",
+  "duration": "3:43",
+  "duration_seconds": 223,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 1720,
+  "tempo_bpm": 67,
+  "time_signature": "2/4"
+}

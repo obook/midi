@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 31 in A-flat Major, Op. 110, First movement",
+  "score_title": "Sonata No. 31 in A-flat Major, Op. 110, First Movement",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 31 in A-flat Major, Op. 110, First movement.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1821",
+  "duration": "6:37",
+  "duration_seconds": 397,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 7804
+  },
+  "note_count": 2846,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

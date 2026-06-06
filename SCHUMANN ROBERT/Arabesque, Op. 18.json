@@ -1,0 +1,18 @@
+{
+  "title": "Arabesque, Op. 18",
+  "score_title": "Arabeske in C Major, Op. 18",
+  "path": "SCHUMANN ROBERT/Arabesque, Op. 18.mid",
+  "composer": "Robert Schumann",
+  "performer": "Robert Schumann",
+  "date": "1839",
+  "duration": "6:21",
+  "duration_seconds": 381,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3832
+  },
+  "note_count": 2582,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

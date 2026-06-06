@@ -1,0 +1,18 @@
+{
+  "title": "Lilac",
+  "score_title": "Lilacs, Op. 21 No. 5",
+  "path": "RACHMANINOV SERGUEÏ/Lilac.mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1902",
+  "duration": "2:15",
+  "duration_seconds": 135,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1082
+  },
+  "note_count": 1064,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

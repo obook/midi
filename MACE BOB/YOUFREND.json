@@ -1,0 +1,18 @@
+{
+  "title": "YOUFREND",
+  "score_title": "YOUFREND",
+  "path": "MACE BOB/YOUFREND.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "3:37",
+  "duration_seconds": 217,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 231
+  },
+  "note_count": 1150,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

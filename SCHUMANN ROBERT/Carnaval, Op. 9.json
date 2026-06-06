@@ -1,0 +1,18 @@
+{
+  "title": "Carnaval, Op. 9",
+  "score_title": "Carnaval, Op. 9",
+  "path": "SCHUMANN ROBERT/Carnaval, Op. 9.mid",
+  "composer": "Robert Schumann",
+  "performer": "Robert Schumann",
+  "date": "1835",
+  "duration": "21:25",
+  "duration_seconds": 1285,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 13500
+  },
+  "note_count": 15870,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

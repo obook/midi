@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 16 Op. 31 No. 1 in G Major, I. Allegro vivace",
+  "score_title": "Sonata No. 16 in G Major, Op. 31 No. 1, I. Allegro vivace",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 16 Op. 31 No. 1 in G Major, I. Allegro vivace.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1802",
+  "duration": "5:06",
+  "duration_seconds": 306,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2283
+  },
+  "note_count": 3370,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

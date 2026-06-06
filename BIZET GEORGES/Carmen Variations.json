@@ -1,0 +1,18 @@
+{
+  "title": "Carmen Variations",
+  "score_title": "Variations on a Theme from Bizet's Carmen",
+  "path": "BIZET GEORGES/Carmen Variations.mid",
+  "composer": "Georges Bizet",
+  "performer": "Georges Bizet",
+  "date": "1926",
+  "duration": "3:50",
+  "duration_seconds": 230,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3938
+  },
+  "note_count": 4243,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

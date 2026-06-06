@@ -1,0 +1,18 @@
+{
+  "title": "Berceuse Op. 57 in D-flat Major",
+  "score_title": "Berceuse in D-flat Major, Op. 57",
+  "path": "CHOPIN FREDERIC/Berceuse Op. 57 in D-flat Major.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1844",
+  "duration": "4:20",
+  "duration_seconds": 260,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4581
+  },
+  "note_count": 1691,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

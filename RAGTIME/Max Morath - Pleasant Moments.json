@@ -1,0 +1,18 @@
+{
+  "title": "Max Morath - Pleasant Moments",
+  "score_title": "Pleasant Moments",
+  "path": "RAGTIME/Max Morath - Pleasant Moments.mid",
+  "composer": "Ragtime",
+  "performer": "Ragtime",
+  "date": "1909",
+  "duration": "3:53",
+  "duration_seconds": 233,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 534
+  },
+  "note_count": 1661,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

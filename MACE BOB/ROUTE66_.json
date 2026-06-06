@@ -1,0 +1,18 @@
+{
+  "title": "ROUTE66 ",
+  "score_title": "Route 66",
+  "path": "MACE BOB/ROUTE66_.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1946",
+  "duration": "3:03",
+  "duration_seconds": 183,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 38
+  },
+  "note_count": 2043,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

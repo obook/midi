@@ -1,0 +1,18 @@
+{
+  "title": "Waltz No.3",
+  "score_title": "Waltz No. 3 in G-sharp Minor, Op. 39 No. 3",
+  "path": "BRAMS JOHANNES/Waltz No.3.mid",
+  "composer": "Johannes Brams",
+  "performer": "Johannes Brams",
+  "date": "1865",
+  "duration": "0:46",
+  "duration_seconds": 46,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 301,
+  "tempo_bpm": 136,
+  "time_signature": "3/4"
+}

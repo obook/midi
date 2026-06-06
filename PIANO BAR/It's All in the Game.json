@@ -1,0 +1,18 @@
+{
+  "title": "It's All in the Game",
+  "score_title": "It's All in the Game",
+  "path": "PIANO BAR/It's All in the Game.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1951",
+  "duration": "3:47",
+  "duration_seconds": 227,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 182
+  },
+  "note_count": 1235,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

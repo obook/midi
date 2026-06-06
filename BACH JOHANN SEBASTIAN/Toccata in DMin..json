@@ -1,0 +1,18 @@
+{
+  "title": "Toccata in DMin.",
+  "score_title": "Toccata in D Minor, BWV 913",
+  "path": "BACH JOHANN SEBASTIAN/Toccata in DMin..mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "",
+  "duration": "8:40",
+  "duration_seconds": 520,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5675
+  },
+  "note_count": 6161,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

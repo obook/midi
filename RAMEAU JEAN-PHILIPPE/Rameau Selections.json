@@ -1,0 +1,18 @@
+{
+  "title": "Rameau Selections",
+  "score_title": "Rameau Selections",
+  "path": "RAMEAU JEAN-PHILIPPE/Rameau Selections.mid",
+  "composer": "Jean-Philippe Rameau",
+  "performer": "Jean-Philippe Rameau",
+  "date": "",
+  "duration": "5:32",
+  "duration_seconds": 332,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5438
+  },
+  "note_count": 2266,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Andante spianato et grande polonaise brillante, Op. 22",
+  "score_title": "Andante spianato et Grande polonaise brillante, Op. 22",
+  "path": "CHOPIN FREDERIC/Andante spianato et grande polonaise brillante, Op. 22.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1834",
+  "duration": "12:46",
+  "duration_seconds": 766,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 8042
+  },
+  "note_count": 9642,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

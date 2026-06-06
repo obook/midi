@@ -1,0 +1,18 @@
+{
+  "title": "Polonaise Op. 26 in E-flat Minor",
+  "score_title": "Polonaise in E-flat Minor, Op. 26 No. 2",
+  "path": "CHOPIN FREDERIC/Polonaise Op. 26 in E-flat Minor.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1835",
+  "duration": "7:03",
+  "duration_seconds": 423,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 6381
+  },
+  "note_count": 4651,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

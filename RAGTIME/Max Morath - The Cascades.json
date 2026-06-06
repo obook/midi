@@ -1,0 +1,18 @@
+{
+  "title": "Max Morath - The Cascades",
+  "score_title": "The Cascades",
+  "path": "RAGTIME/Max Morath - The Cascades.mid",
+  "composer": "Ragtime",
+  "performer": "Ragtime",
+  "date": "1904",
+  "duration": "3:07",
+  "duration_seconds": 187,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 550
+  },
+  "note_count": 2734,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

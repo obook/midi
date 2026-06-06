@@ -1,0 +1,18 @@
+{
+  "title": "Silverbl",
+  "score_title": "Silver Bells",
+  "path": "MACE BOB/Silverbl.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1950",
+  "duration": "3:58",
+  "duration_seconds": 238,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 116
+  },
+  "note_count": 892,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

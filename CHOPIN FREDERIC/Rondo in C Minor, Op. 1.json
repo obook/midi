@@ -1,0 +1,18 @@
+{
+  "title": "Rondo in C Minor, Op. 1",
+  "score_title": "Rondo in C Minor, Op. 1",
+  "path": "CHOPIN FREDERIC/Rondo in C Minor, Op. 1.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1825",
+  "duration": "10:08",
+  "duration_seconds": 608,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 10316
+  },
+  "note_count": 5495,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

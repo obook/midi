@@ -1,0 +1,18 @@
+{
+  "title": "Au-Clair-de-la-Lune",
+  "score_title": "Au clair de la lune",
+  "path": "ENFANTS CHILD/Au-Clair-de-la-Lune.mid",
+  "composer": "Child Enfants",
+  "performer": "Child Enfants",
+  "date": "",
+  "duration": "1:05",
+  "duration_seconds": 65,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2
+  },
+  "note_count": 214,
+  "tempo_bpm": 116,
+  "time_signature": "4/4"
+}

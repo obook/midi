@@ -1,0 +1,18 @@
+{
+  "title": "Air On A G String (J S Bach)",
+  "score_title": "Air on the G String, from Orchestral Suite No. 3 in D Major, BWV 1068",
+  "path": "BACH JOHANN SEBASTIAN/Air On A G String (J S Bach).mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1730",
+  "duration": "1:54",
+  "duration_seconds": 114,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 232
+  },
+  "note_count": 348,
+  "tempo_bpm": 74,
+  "time_signature": "4/4"
+}

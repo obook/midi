@@ -1,0 +1,18 @@
+{
+  "title": "Lullaby",
+  "score_title": "Lullaby",
+  "path": "TCHAIKOVSKY PYOTR ILYICH/Lullaby.mid",
+  "composer": "Pyotr Ilyich Tchaikovsky",
+  "performer": "Pyotr Ilyich Tchaikovsky",
+  "date": "",
+  "duration": "3:54",
+  "duration_seconds": 234,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4213
+  },
+  "note_count": 1608,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

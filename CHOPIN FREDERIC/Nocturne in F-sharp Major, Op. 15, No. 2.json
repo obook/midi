@@ -1,0 +1,18 @@
+{
+  "title": "Nocturne in F-sharp Major, Op. 15, No. 2",
+  "score_title": "Nocturne in F-sharp Major, Op. 15 No. 2",
+  "path": "CHOPIN FREDERIC/Nocturne in F-sharp Major, Op. 15, No. 2.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1831",
+  "duration": "3:44",
+  "duration_seconds": 224,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3974
+  },
+  "note_count": 1133,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

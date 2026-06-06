@@ -1,0 +1,18 @@
+{
+  "title": "LOVESTOR",
+  "score_title": "Love Story",
+  "path": "MACE BOB/LOVESTOR.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1970",
+  "duration": "2:34",
+  "duration_seconds": 154,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 132
+  },
+  "note_count": 1158,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

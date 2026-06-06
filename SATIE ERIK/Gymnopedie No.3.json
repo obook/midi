@@ -1,0 +1,18 @@
+{
+  "title": "Gymnopedie No.3",
+  "score_title": "Gymnopédie No. 3",
+  "path": "SATIE ERIK/Gymnopedie No.3.mid",
+  "composer": "Erik Satie",
+  "performer": "Erik Satie",
+  "date": "1888",
+  "duration": "1:55",
+  "duration_seconds": 115,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 119
+  },
+  "note_count": 325,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

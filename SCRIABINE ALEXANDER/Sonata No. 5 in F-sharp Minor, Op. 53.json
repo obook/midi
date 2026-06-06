@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 5 in F-sharp Minor, Op. 53",
+  "score_title": "Piano Sonata No. 5 in F-sharp Major, Op. 53",
+  "path": "SCRIABINE ALEXANDER/Sonata No. 5 in F-sharp Minor, Op. 53.mid",
+  "composer": "Alexander Scriabine",
+  "performer": "Alexander Scriabine",
+  "date": "1907",
+  "duration": "11:00",
+  "duration_seconds": 660,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3219
+  },
+  "note_count": 7516,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Chromatic Fantasy and Fugue in D Minor, BWV 903",
+  "score_title": "Chromatic Fantasy and Fugue in D Minor, BWV 903",
+  "path": "BACH JOHANN SEBASTIAN/Chromatic Fantasy and Fugue in D Minor, BWV 903.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1720",
+  "duration": "11:46",
+  "duration_seconds": 706,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 10334
+  },
+  "note_count": 5095,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Qui A Le Droit-piano 2 slow",
+  "score_title": "Qui a le droit",
+  "path": "BRUEL PATRICK/Qui_A_Le_Droit-piano 2 slow.mid",
+  "composer": "Patrick Bruel",
+  "performer": "Patrick Bruel",
+  "date": "1989",
+  "duration": "5:09",
+  "duration_seconds": 309,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 359
+  },
+  "note_count": 1575,
+  "tempo_bpm": 70,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "MAYBEIMA",
+  "score_title": "Maybe I'm Amazed",
+  "path": "MACE BOB/MAYBEIMA.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1970",
+  "duration": "3:23",
+  "duration_seconds": 203,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 258
+  },
+  "note_count": 1427,
+  "tempo_bpm": 63,
+  "time_signature": "4/4"
+}

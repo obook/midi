@@ -1,0 +1,18 @@
+{
+  "title": "AMAZED",
+  "score_title": "AMAZED",
+  "path": "MACE BOB/AMAZED.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1999",
+  "duration": "1:47",
+  "duration_seconds": 107,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 258
+  },
+  "note_count": 1427,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

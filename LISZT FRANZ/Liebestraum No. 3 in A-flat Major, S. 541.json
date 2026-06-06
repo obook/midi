@@ -1,0 +1,18 @@
+{
+  "title": "Liebestraum No. 3 in A-flat Major, S. 541",
+  "score_title": "Liebestraum No. 3 in A-flat Major, S. 541 No. 3",
+  "path": "LISZT FRANZ/Liebestraum No. 3 in A-flat Major, S. 541.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1850",
+  "duration": "4:15",
+  "duration_seconds": 255,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 200
+  },
+  "note_count": 1886,
+  "tempo_bpm": 120,
+  "time_signature": "1/4"
+}

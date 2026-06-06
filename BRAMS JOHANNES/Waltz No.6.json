@@ -1,0 +1,18 @@
+{
+  "title": "Waltz No.6",
+  "score_title": "Waltz No. 6 in C-sharp Major, Op. 39 No. 6",
+  "path": "BRAMS JOHANNES/Waltz No.6.mid",
+  "composer": "Johannes Brams",
+  "performer": "Johannes Brams",
+  "date": "1865",
+  "duration": "1:00",
+  "duration_seconds": 60,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 743,
+  "tempo_bpm": 61,
+  "time_signature": "3/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Douce Nuit",
+  "score_title": "Douce nuit, sainte nuit",
+  "path": "ENFANTS CHILD/Douce_Nuit.mid",
+  "composer": "Child Enfants",
+  "performer": "Child Enfants",
+  "date": "1818",
+  "duration": "1:14",
+  "duration_seconds": 74,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 454,
+  "tempo_bpm": 47,
+  "time_signature": "3/4"
+}

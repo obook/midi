@@ -1,0 +1,18 @@
+{
+  "title": "Waltz No.4",
+  "score_title": "Waltz No. 4 in E Minor, Op. 39 No. 4",
+  "path": "BRAMS JOHANNES/Waltz No.4.mid",
+  "composer": "Johannes Brams",
+  "performer": "Johannes Brams",
+  "date": "1865",
+  "duration": "1:15",
+  "duration_seconds": 75,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 35
+  },
+  "note_count": 624,
+  "tempo_bpm": 110,
+  "time_signature": "3/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Etudes from Op.8",
+  "score_title": "Etudes from Op. 8",
+  "path": "SCRIABINE ALEXANDER/Etudes from Op.8.mid",
+  "composer": "Alexander Scriabine",
+  "performer": "Alexander Scriabine",
+  "date": "1894",
+  "duration": "9:10",
+  "duration_seconds": 550,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 6740
+  },
+  "note_count": 5392,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Transcendental Etude No. 5 Feux Follets",
+  "score_title": "Transcendental Etude No. 5 in B-flat Major, S. 139 \"Feux follets\"",
+  "path": "LISZT FRANZ/Transcendental Etude No. 5 Feux Follets.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1852",
+  "duration": "3:28",
+  "duration_seconds": 208,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1687
+  },
+  "note_count": 4215,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Rondo Opus.11",
+  "score_title": "Rondo in E-flat Major, Op. 11",
+  "path": "HUMMEL JOHAN NEPOMUK/Rondo Opus.11.mid",
+  "composer": "Johan Nepomuk Hummel",
+  "performer": "Johan Nepomuk Hummel",
+  "date": "1804",
+  "duration": "3:28",
+  "duration_seconds": 208,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 361
+  },
+  "note_count": 3405,
+  "tempo_bpm": 175,
+  "time_signature": "3/4"
+}

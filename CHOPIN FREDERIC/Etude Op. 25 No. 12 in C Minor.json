@@ -1,0 +1,18 @@
+{
+  "title": "Etude Op. 25 No. 12 in C Minor",
+  "score_title": "Etude in C Minor, Op. 25 No. 12 \"Ocean\"",
+  "path": "CHOPIN FREDERIC/Etude Op. 25 No. 12 in C Minor.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1836",
+  "duration": "2:14",
+  "duration_seconds": 134,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 745
+  },
+  "note_count": 2792,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

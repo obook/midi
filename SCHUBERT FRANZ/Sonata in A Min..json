@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in A Min.",
+  "score_title": "Sonata in A Min.",
+  "path": "SCHUBERT FRANZ/Sonata in A Min..mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "",
+  "duration": "4:32",
+  "duration_seconds": 272,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5059
+  },
+  "note_count": 3832,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

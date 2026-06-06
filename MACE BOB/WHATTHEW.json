@@ -1,0 +1,18 @@
+{
+  "title": "WHATTHEW",
+  "score_title": "What the World Needs Now Is Love",
+  "path": "MACE BOB/WHATTHEW.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "2:40",
+  "duration_seconds": 160,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 176
+  },
+  "note_count": 1207,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

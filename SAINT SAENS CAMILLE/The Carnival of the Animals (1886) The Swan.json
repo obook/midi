@@ -1,0 +1,18 @@
+{
+  "title": "The Carnival of the Animals (1886) The Swan",
+  "score_title": "Le Carnaval des animaux - \"Le Cygne\"",
+  "path": "SAINT SAENS CAMILLE/The Carnival of the Animals (1886) The Swan.mid",
+  "composer": "Saens Camille Saint",
+  "performer": "Saens Camille Saint",
+  "date": "1886",
+  "duration": "2:35",
+  "duration_seconds": 155,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 123
+  },
+  "note_count": 1591,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

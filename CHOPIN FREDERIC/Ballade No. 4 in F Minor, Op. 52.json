@@ -1,0 +1,18 @@
+{
+  "title": "Ballade No. 4 in F Minor, Op. 52",
+  "score_title": "Ballade No. 4 in F Minor, Op. 52",
+  "path": "CHOPIN FREDERIC/Ballade No. 4 in F Minor, Op. 52.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1842",
+  "duration": "10:38",
+  "duration_seconds": 638,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 9797
+  },
+  "note_count": 6019,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

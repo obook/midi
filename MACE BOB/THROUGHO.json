@@ -1,0 +1,18 @@
+{
+  "title": "THROUGHO",
+  "score_title": "THROUGHO",
+  "path": "MACE BOB/THROUGHO.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "4:45",
+  "duration_seconds": 285,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 258
+  },
+  "note_count": 1109,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

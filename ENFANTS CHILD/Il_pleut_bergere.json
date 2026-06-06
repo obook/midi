@@ -1,0 +1,18 @@
+{
+  "title": "Il pleut bergere",
+  "score_title": "Il pleut, il pleut, bergere",
+  "path": "ENFANTS CHILD/Il_pleut_bergere.mid",
+  "composer": "Child Enfants",
+  "performer": "Child Enfants",
+  "date": "1780",
+  "duration": "2:01",
+  "duration_seconds": 121,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 1006,
+  "tempo_bpm": 79,
+  "time_signature": "6/8"
+}

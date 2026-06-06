@@ -1,0 +1,18 @@
+{
+  "title": "You Decorated My Life",
+  "score_title": "You Decorated My Life",
+  "path": "PIANO BAR/You Decorated My Life.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1979",
+  "duration": "3:15",
+  "duration_seconds": 195,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 190
+  },
+  "note_count": 933,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

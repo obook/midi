@@ -1,0 +1,18 @@
+{
+  "title": "Black And White Rag",
+  "score_title": "Black and White Rag",
+  "path": "PIANO BAR/Black And White Rag.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1908",
+  "duration": "2:29",
+  "duration_seconds": 149,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1
+  },
+  "note_count": 2416,
+  "tempo_bpm": 120,
+  "time_signature": "2/4"
+}

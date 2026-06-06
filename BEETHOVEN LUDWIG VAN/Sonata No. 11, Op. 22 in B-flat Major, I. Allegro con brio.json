@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 11, Op. 22 in B-flat Major, I. Allegro con brio",
+  "score_title": "Sonata No. 11 in B-flat Major, Op. 22, I. Allegro con brio",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 11, Op. 22 in B-flat Major, I. Allegro con brio.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1800",
+  "duration": "5:22",
+  "duration_seconds": 322,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4086
+  },
+  "note_count": 3811,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

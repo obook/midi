@@ -1,0 +1,18 @@
+{
+  "title": "Variations and Fugue in E-flat Major, Op. 35, Eroica",
+  "score_title": "Variations and Fugue in E-flat Major, Op. 35 \"Eroica\"",
+  "path": "BEETHOVEN LUDWIG VAN/Variations and Fugue in E-flat Major, Op. 35, Eroica.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1802",
+  "duration": "25:30",
+  "duration_seconds": 1530,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 13391
+  },
+  "note_count": 12299,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

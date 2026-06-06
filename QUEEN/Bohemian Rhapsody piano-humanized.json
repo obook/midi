@@ -1,0 +1,18 @@
+{
+  "title": "Bohemian Rhapsody piano-humanized",
+  "score_title": "Bohemian Rhapsody",
+  "path": "QUEEN/Bohemian Rhapsody piano-humanized.mid",
+  "composer": "Queen",
+  "performer": "Queen",
+  "date": "1975",
+  "duration": "4:33",
+  "duration_seconds": 273,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 1949,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "MERCYMER",
+  "score_title": "Mercy, Mercy Me (The Ecology)",
+  "path": "MACE BOB/MERCYMER.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1971",
+  "duration": "8:26",
+  "duration_seconds": 506,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 344
+  },
+  "note_count": 8232,
+  "tempo_bpm": 102,
+  "time_signature": "4/4"
+}

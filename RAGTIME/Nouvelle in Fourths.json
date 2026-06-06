@@ -1,0 +1,18 @@
+{
+  "title": "Nouvelle in Fourths",
+  "score_title": "Nouvelle in Fourths",
+  "path": "RAGTIME/Nouvelle in Fourths.mid",
+  "composer": "Ragtime",
+  "performer": "Ragtime",
+  "date": "",
+  "duration": "1:59",
+  "duration_seconds": 119,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 208
+  },
+  "note_count": 1655,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

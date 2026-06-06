@@ -1,0 +1,18 @@
+{
+  "title": "Piano Sonata in F sharp Opus.81, Mov.2",
+  "score_title": "Piano Sonata No. 5 in F-sharp Minor, Op. 81, II. Largo con molto espressione",
+  "path": "HUMMEL JOHAN NEPOMUK/Piano Sonata in F sharp Opus.81, Mov.2.mid",
+  "composer": "Johan Nepomuk Hummel",
+  "performer": "Johan Nepomuk Hummel",
+  "date": "1819",
+  "duration": "8:51",
+  "duration_seconds": 531,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 679
+  },
+  "note_count": 2810,
+  "tempo_bpm": 30,
+  "time_signature": "3/4"
+}

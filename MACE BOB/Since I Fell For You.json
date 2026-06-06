@@ -1,0 +1,18 @@
+{
+  "title": "Since I Fell For You",
+  "score_title": "Since I Fell For You",
+  "path": "MACE BOB/Since I Fell For You.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1945",
+  "duration": "4:41",
+  "duration_seconds": 281,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 336
+  },
+  "note_count": 2317,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "AVEMARIA",
+  "score_title": "Ave Maria",
+  "path": "MACE BOB/AVEMARIA.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "4:43",
+  "duration_seconds": 283,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 240
+  },
+  "note_count": 2148,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

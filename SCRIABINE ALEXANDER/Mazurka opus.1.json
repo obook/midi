@@ -1,0 +1,18 @@
+{
+  "title": "Mazurka opus.1",
+  "score_title": "Mazurka opus.1",
+  "path": "SCRIABINE ALEXANDER/Mazurka opus.1.mid",
+  "composer": "Alexander Scriabine",
+  "performer": "Alexander Scriabine",
+  "date": "",
+  "duration": "1:58",
+  "duration_seconds": 118,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 327
+  },
+  "note_count": 894,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

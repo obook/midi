@@ -1,0 +1,18 @@
+{
+  "title": "In the Mood2",
+  "score_title": "In the Mood",
+  "path": "MACE BOB/In the Mood2.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1939",
+  "duration": "3:43",
+  "duration_seconds": 223,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 315
+  },
+  "note_count": 3147,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

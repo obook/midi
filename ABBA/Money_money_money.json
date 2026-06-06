@@ -1,0 +1,18 @@
+{
+  "title": "Money, Money, Money",
+  "score_title": "Money, Money, Money",
+  "path": "ABBA/Money_money_money.mid",
+  "composer": "Abba",
+  "performer": "Abba",
+  "date": "1976",
+  "duration": "3:08",
+  "duration_seconds": 188,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 2662,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

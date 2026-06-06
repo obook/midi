@@ -1,0 +1,18 @@
+{
+  "title": "Nocturne Op. 32 No. 2 in A-flat Major",
+  "score_title": "Nocturne in A-flat Major, Op. 32 No. 2",
+  "path": "CHOPIN FREDERIC/Nocturne Op. 32 No. 2 in A-flat Major.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1837",
+  "duration": "4:18",
+  "duration_seconds": 258,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5329
+  },
+  "note_count": 2269,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

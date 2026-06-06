@@ -1,0 +1,18 @@
+{
+  "title": "Navarra",
+  "score_title": "Navarra",
+  "path": "ALBÉNIZ ISAAC/Navarra.mid",
+  "composer": "Isaac Albéniz",
+  "performer": "Isaac Albéniz",
+  "date": "1909",
+  "duration": "5:37",
+  "duration_seconds": 337,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2173
+  },
+  "note_count": 4206,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

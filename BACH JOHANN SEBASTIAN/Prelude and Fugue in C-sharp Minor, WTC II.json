@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in C-sharp Minor, WTC II",
+  "score_title": "Prelude and Fugue in C-sharp Minor, WTC II, BWV 873",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in C-sharp Minor, WTC II.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1742",
+  "duration": "6:18",
+  "duration_seconds": 378,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 501
+  },
+  "note_count": 2738,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Etude Op. 25 No. 1 in A-flat Major",
+  "score_title": "Etude in A-flat Major, Op. 25 No. 1 \"Aeolian Harp\"",
+  "path": "CHOPIN FREDERIC/Etude Op. 25 No. 1 in A-flat Major.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1836",
+  "duration": "2:20",
+  "duration_seconds": 140,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 933
+  },
+  "note_count": 1977,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

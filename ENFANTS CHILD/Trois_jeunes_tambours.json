@@ -1,0 +1,18 @@
+{
+  "title": "Trois jeunes tambours",
+  "score_title": "Trois jeunes tambours",
+  "path": "ENFANTS CHILD/Trois_jeunes_tambours.mid",
+  "composer": "Child Enfants",
+  "performer": "Child Enfants",
+  "date": "",
+  "duration": "4:37",
+  "duration_seconds": 277,
+  "humanized": true,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 1430,
+  "tempo_bpm": 120,
+  "time_signature": "6/8"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "If He Walked Into My Life",
+  "score_title": "If He Walked Into My Life",
+  "path": "PIANO BAR/If He Walked Into My Life.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1966",
+  "duration": "3:49",
+  "duration_seconds": 229,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 216
+  },
+  "note_count": 1472,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

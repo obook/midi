@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in C Major, K. 513",
+  "score_title": "Sonata in C Major, K. 513",
+  "path": "SCARLATTI DOMENICO/Sonata in C Major, K. 513.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "",
+  "duration": "2:52",
+  "duration_seconds": 172,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1287
+  },
+  "note_count": 1172,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

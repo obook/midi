@@ -1,0 +1,18 @@
+{
+  "title": "Gesänge der Frühe, Op. 133",
+  "score_title": "Gesänge der Frühe, Op. 133",
+  "path": "SCHUMANN ROBERT/Gesänge der Frühe, Op. 133.mid",
+  "composer": "Robert Schumann",
+  "performer": "Robert Schumann",
+  "date": "1853",
+  "duration": "10:30",
+  "duration_seconds": 630,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4956
+  },
+  "note_count": 5736,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

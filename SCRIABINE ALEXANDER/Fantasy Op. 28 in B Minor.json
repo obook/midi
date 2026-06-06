@@ -1,0 +1,18 @@
+{
+  "title": "Fantasy Op. 28 in B Minor",
+  "score_title": "Fantasy in B Minor, Op. 28",
+  "path": "SCRIABINE ALEXANDER/Fantasy Op. 28 in B Minor.mid",
+  "composer": "Alexander Scriabine",
+  "performer": "Alexander Scriabine",
+  "date": "1900",
+  "duration": "8:30",
+  "duration_seconds": 510,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4478
+  },
+  "note_count": 6498,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

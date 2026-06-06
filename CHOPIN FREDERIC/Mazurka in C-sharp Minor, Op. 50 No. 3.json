@@ -1,0 +1,18 @@
+{
+  "title": "Mazurka in C-sharp Minor, Op. 50 No. 3",
+  "score_title": "Mazurka in C-sharp Minor, Op. 50 No. 3",
+  "path": "CHOPIN FREDERIC/Mazurka in C-sharp Minor, Op. 50 No. 3.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1842",
+  "duration": "3:55",
+  "duration_seconds": 235,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2615
+  },
+  "note_count": 1925,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

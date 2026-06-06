@@ -1,0 +1,18 @@
+{
+  "title": "Sonata Op. 5",
+  "score_title": "Piano Sonata No. 3 in F Minor, Op. 5",
+  "path": "BRAMS JOHANNES/Sonata Op. 5.mid",
+  "composer": "Johannes Brams",
+  "performer": "Johannes Brams",
+  "date": "1853",
+  "duration": "33:26",
+  "duration_seconds": 2006,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 30344
+  },
+  "note_count": 15977,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Triana from 'Iberia'",
+  "score_title": "Triana, from Iberia, Book 2",
+  "path": "ALBÉNIZ ISAAC/Triana from 'Iberia'.mid",
+  "composer": "Isaac Albéniz",
+  "performer": "Isaac Albéniz",
+  "date": "1906",
+  "duration": "4:20",
+  "duration_seconds": 260,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2393
+  },
+  "note_count": 3856,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

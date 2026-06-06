@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in D-sharp Minor, WTC II, BWV 877",
+  "score_title": "Prelude and Fugue in D-sharp Minor, WTC II, BWV 877",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in D-sharp Minor, WTC II, BWV 877.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1742",
+  "duration": "6:25",
+  "duration_seconds": 385,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3294
+  },
+  "note_count": 2006,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

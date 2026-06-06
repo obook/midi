@@ -1,0 +1,18 @@
+{
+  "title": "Intermezzo Op. 118 No. 6 in E-flat Minor",
+  "score_title": "Intermezzo in E-flat Minor, Op. 118 No. 6",
+  "path": "BRAMS JOHANNES/Intermezzo Op. 118 No. 6 in E-flat Minor.mid",
+  "composer": "Johannes Brams",
+  "performer": "Johannes Brams",
+  "date": "1893",
+  "duration": "5:12",
+  "duration_seconds": 312,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 6051
+  },
+  "note_count": 1640,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

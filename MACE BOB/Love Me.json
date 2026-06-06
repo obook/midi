@@ -1,0 +1,18 @@
+{
+  "title": "Love Me",
+  "score_title": "Love Me",
+  "path": "MACE BOB/Love Me.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "4:08",
+  "duration_seconds": 248,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 299
+  },
+  "note_count": 1125,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

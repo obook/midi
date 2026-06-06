@@ -1,0 +1,18 @@
+{
+  "title": "Ne Me Quitte Pas-piano",
+  "score_title": "Ne me quitte pas",
+  "path": "BREL JACQUES/Ne_Me_Quitte_Pas-piano.mid",
+  "composer": "Jacques Brel",
+  "performer": "Jacques Brel",
+  "date": "1959",
+  "duration": "3:42",
+  "duration_seconds": 222,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 420
+  },
+  "note_count": 2083,
+  "tempo_bpm": 215,
+  "time_signature": "4/4"
+}

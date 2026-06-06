@@ -1,0 +1,18 @@
+{
+  "title": "JUSTONEO",
+  "score_title": "Just One of Those Things",
+  "path": "MACE BOB/JUSTONEO.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1935",
+  "duration": "3:42",
+  "duration_seconds": 222,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 150
+  },
+  "note_count": 1076,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

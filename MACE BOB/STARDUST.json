@@ -1,0 +1,18 @@
+{
+  "title": "STARDUST",
+  "score_title": "Stardust",
+  "path": "MACE BOB/STARDUST.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1927",
+  "duration": "1:24",
+  "duration_seconds": 84,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 94
+  },
+  "note_count": 666,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

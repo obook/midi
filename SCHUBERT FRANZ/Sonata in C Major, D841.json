@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in C Major, D841",
+  "score_title": "Sonata in C Major, D841",
+  "path": "SCHUBERT FRANZ/Sonata in C Major, D841.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1825",
+  "duration": "8:59",
+  "duration_seconds": 539,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 8149
+  },
+  "note_count": 3569,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

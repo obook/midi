@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in F Major, WTC II",
+  "score_title": "Prelude and Fugue in F Major, WTC II, BWV 880",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in F Major, WTC II.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1742",
+  "duration": "4:29",
+  "duration_seconds": 269,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1037
+  },
+  "note_count": 2218,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

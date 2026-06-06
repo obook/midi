@@ -1,0 +1,18 @@
+{
+  "title": "Killing Me Softly",
+  "score_title": "Killing Me Softly with His Song",
+  "path": "PIANO BAR/Killing Me Softly.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1972",
+  "duration": "2:16",
+  "duration_seconds": 136,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 44
+  },
+  "note_count": 900,
+  "tempo_bpm": 108,
+  "time_signature": "8/8"
+}

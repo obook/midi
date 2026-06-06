@@ -1,0 +1,18 @@
+{
+  "title": "IDONTKNO",
+  "score_title": "I Don't Know Why (I Just Do)",
+  "path": "MACE BOB/IDONTKNO.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1970",
+  "duration": "3:07",
+  "duration_seconds": 187,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 240
+  },
+  "note_count": 1037,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

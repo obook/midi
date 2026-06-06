@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in B-flat Major, Hob.XVI41",
+  "score_title": "Piano Sonata in B-flat Major, Hob. XVI:41",
+  "path": "HAYDN FRANZ JOSEPH/Sonata in B-flat Major, Hob.XVI41.mid",
+  "composer": "Franz Joseph Haydn",
+  "performer": "Franz Joseph Haydn",
+  "date": "1784",
+  "duration": "2:08",
+  "duration_seconds": 128,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 736
+  },
+  "note_count": 1442,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

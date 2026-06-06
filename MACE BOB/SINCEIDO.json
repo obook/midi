@@ -1,0 +1,18 @@
+{
+  "title": "SINCEIDO",
+  "score_title": "Since I Don't Have You",
+  "path": "MACE BOB/SINCEIDO.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1958",
+  "duration": "5:05",
+  "duration_seconds": 305,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 668
+  },
+  "note_count": 2455,
+  "tempo_bpm": 110,
+  "time_signature": "4/4"
+}

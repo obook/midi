@@ -1,0 +1,18 @@
+{
+  "title": "Variations and Fugue on the Theme of Händel, Op. 24",
+  "score_title": "Variations and Fugue on a Theme by Handel, Op. 24",
+  "path": "BRAMS JOHANNES/Variations and Fugue on the Theme of Händel, Op. 24.mid",
+  "composer": "Johannes Brams",
+  "performer": "Johannes Brams",
+  "date": "1861",
+  "duration": "24:33",
+  "duration_seconds": 1473,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 21444
+  },
+  "note_count": 17367,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

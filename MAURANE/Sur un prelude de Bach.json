@@ -1,0 +1,18 @@
+{
+  "title": "Sur un prelude de Bach",
+  "score_title": "Sur un prelude de Bach",
+  "path": "MAURANE/Sur un prelude de Bach.mid",
+  "composer": "Maurane",
+  "performer": "Maurane",
+  "date": "1991",
+  "duration": "4:51",
+  "duration_seconds": 291,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 136
+  },
+  "note_count": 3202,
+  "tempo_bpm": 61,
+  "time_signature": "4/4"
+}

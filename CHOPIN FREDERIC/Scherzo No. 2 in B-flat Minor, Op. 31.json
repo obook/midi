@@ -1,0 +1,18 @@
+{
+  "title": "Scherzo No. 2 in B-flat Minor, Op. 31",
+  "score_title": "Scherzo No. 2 in B-flat Minor, Op. 31",
+  "path": "CHOPIN FREDERIC/Scherzo No. 2 in B-flat Minor, Op. 31.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1837",
+  "duration": "9:37",
+  "duration_seconds": 577,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 10412
+  },
+  "note_count": 5982,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

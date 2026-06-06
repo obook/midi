@@ -1,0 +1,18 @@
+{
+  "title": "SECONDTI",
+  "score_title": "SECONDTI",
+  "path": "MACE BOB/SECONDTI.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "4:10",
+  "duration_seconds": 250,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 262
+  },
+  "note_count": 3168,
+  "tempo_bpm": 70,
+  "time_signature": "4/4"
+}

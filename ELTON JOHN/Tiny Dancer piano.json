@@ -1,0 +1,18 @@
+{
+  "title": "Tiny Dancer piano",
+  "score_title": "Tiny Dancer",
+  "path": "ELTON JOHN/Tiny Dancer piano.mid",
+  "composer": "John Elton",
+  "performer": "John Elton",
+  "date": "1971",
+  "duration": "6:00",
+  "duration_seconds": 360,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 3970,
+  "tempo_bpm": 75,
+  "time_signature": "4/4"
+}

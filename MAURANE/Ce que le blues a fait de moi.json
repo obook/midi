@@ -1,0 +1,18 @@
+{
+  "title": "Ce que le blues a fait de moi",
+  "score_title": "Ce que le blues a fait de moi",
+  "path": "MAURANE/Ce que le blues a fait de moi.mid",
+  "composer": "Maurane",
+  "performer": "Maurane",
+  "date": "2003",
+  "duration": "3:06",
+  "duration_seconds": 186,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 156
+  },
+  "note_count": 849,
+  "tempo_bpm": 60,
+  "time_signature": "4/4"
+}

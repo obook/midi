@@ -1,0 +1,18 @@
+{
+  "title": "Michelle",
+  "score_title": "Michelle",
+  "path": "POP-BEATLES/Michelle.mid",
+  "composer": "Pop-Beatles",
+  "performer": "Pop-Beatles",
+  "date": "1965",
+  "duration": "7:55",
+  "duration_seconds": 475,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 360
+  },
+  "note_count": 4378,
+  "tempo_bpm": 110,
+  "time_signature": "4/4"
+}

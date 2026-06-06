@@ -1,0 +1,18 @@
+{
+  "title": "Sonata Op. 81 No. 26, Les Adieux",
+  "score_title": "Sonata No. 26 in E-flat Major, Op. 81a \"Les Adieux\"",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata Op. 81 No. 26, Les Adieux.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1809",
+  "duration": "9:24",
+  "duration_seconds": 564,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 6196
+  },
+  "note_count": 6165,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

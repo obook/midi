@@ -1,0 +1,18 @@
+{
+  "title": "I've Got a Crush on You",
+  "score_title": "I've Got a Crush on You",
+  "path": "MACE BOB/I've Got a Crush on You.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1928",
+  "duration": "2:15",
+  "duration_seconds": 135,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 142
+  },
+  "note_count": 818,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

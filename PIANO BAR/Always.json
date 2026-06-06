@@ -1,0 +1,18 @@
+{
+  "title": "Always",
+  "score_title": "Always",
+  "path": "PIANO BAR/Always.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1925",
+  "duration": "2:12",
+  "duration_seconds": 132,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 198
+  },
+  "note_count": 1475,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

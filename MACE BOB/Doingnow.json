@@ -1,0 +1,18 @@
+{
+  "title": "Doingnow",
+  "score_title": "Doingnow",
+  "path": "MACE BOB/Doingnow.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "2:59",
+  "duration_seconds": 179,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 215
+  },
+  "note_count": 913,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

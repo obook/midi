@@ -1,0 +1,18 @@
+{
+  "title": "rhapsody in blue",
+  "score_title": "Rhapsody in Blue",
+  "path": "GERSHWIN GEORGES/rhapsody_in_blue.mid",
+  "composer": "Georges Gershwin",
+  "performer": "Georges Gershwin",
+  "date": "1924",
+  "duration": "15:48",
+  "duration_seconds": 948,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3034
+  },
+  "note_count": 9903,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

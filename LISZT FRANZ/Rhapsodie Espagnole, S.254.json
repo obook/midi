@@ -1,0 +1,18 @@
+{
+  "title": "Rhapsodie Espagnole, S.254",
+  "score_title": "Rhapsodie espagnole, S. 254",
+  "path": "LISZT FRANZ/Rhapsodie Espagnole, S.254.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1858",
+  "duration": "13:13",
+  "duration_seconds": 793,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 7419
+  },
+  "note_count": 11592,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

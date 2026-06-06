@@ -1,0 +1,18 @@
+{
+  "title": "Two Preludes from Op. 28, Nos. 15 and 24",
+  "score_title": "Two Preludes from Op. 28, Nos. 15 and 24",
+  "path": "CHOPIN FREDERIC/Two Preludes from Op. 28, Nos. 15 and 24.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1839",
+  "duration": "1:54",
+  "duration_seconds": 114,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 295
+  },
+  "note_count": 1485,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

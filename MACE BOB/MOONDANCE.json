@@ -1,0 +1,18 @@
+{
+  "title": "MOONDANCE",
+  "score_title": "Moondance",
+  "path": "MACE BOB/MOONDANCE.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1970",
+  "duration": "4:18",
+  "duration_seconds": 258,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 808
+  },
+  "note_count": 7584,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

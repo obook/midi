@@ -1,0 +1,18 @@
+{
+  "title": "IGESBLUE",
+  "score_title": "IGESBLUE",
+  "path": "MACE BOB/IGESBLUE.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1983",
+  "duration": "3:29",
+  "duration_seconds": 209,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 242
+  },
+  "note_count": 1404,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

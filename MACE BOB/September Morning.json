@@ -1,0 +1,18 @@
+{
+  "title": "September Morning",
+  "score_title": "September Morn",
+  "path": "MACE BOB/September Morning.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1979",
+  "duration": "3:24",
+  "duration_seconds": 204,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 202
+  },
+  "note_count": 1192,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

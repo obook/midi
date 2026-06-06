@@ -1,0 +1,18 @@
+{
+  "title": "IGUESSTH",
+  "score_title": "I Guess I'll Have to Change My Plan",
+  "path": "MACE BOB/IGUESSTH.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1983",
+  "duration": "3:29",
+  "duration_seconds": 209,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 242
+  },
+  "note_count": 1402,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

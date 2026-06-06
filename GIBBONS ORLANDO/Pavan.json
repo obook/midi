@@ -1,0 +1,18 @@
+{
+  "title": "Pavan",
+  "score_title": "Pavan",
+  "path": "GIBBONS ORLANDO/Pavan.mid",
+  "composer": "Orlando Gibbons",
+  "performer": "Orlando Gibbons",
+  "date": "1611",
+  "duration": "4:01",
+  "duration_seconds": 241,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3609
+  },
+  "note_count": 1094,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

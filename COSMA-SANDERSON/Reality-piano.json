@@ -1,0 +1,18 @@
+{
+  "title": "Reality-piano",
+  "score_title": "Reality",
+  "path": "COSMA-SANDERSON/Reality-piano.mid",
+  "composer": "Cosma-Sanderson",
+  "performer": "Cosma-Sanderson",
+  "date": "1980",
+  "duration": "4:34",
+  "duration_seconds": 274,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 643,
+  "tempo_bpm": 77,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in C Major, Op. 53  - Waldstein",
+  "score_title": "Sonata No. 21 in C Major, Op. 53 \"Waldstein\"",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata in C Major, Op. 53  - Waldstein.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1804",
+  "duration": "13:24",
+  "duration_seconds": 804,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 6524
+  },
+  "note_count": 7805,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

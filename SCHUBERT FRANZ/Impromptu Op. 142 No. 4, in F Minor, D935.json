@@ -1,0 +1,18 @@
+{
+  "title": "Impromptu Op. 142 No. 4, in F Minor, D935",
+  "score_title": "Impromptu in F Minor, Op. 142 No. 4, D. 935",
+  "path": "SCHUBERT FRANZ/Impromptu Op. 142 No. 4, in F Minor, D935.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1827",
+  "duration": "5:29",
+  "duration_seconds": 329,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4203
+  },
+  "note_count": 4577,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

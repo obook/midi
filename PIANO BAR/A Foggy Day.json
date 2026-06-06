@@ -1,0 +1,18 @@
+{
+  "title": "A Foggy Day",
+  "score_title": "A Foggy Day",
+  "path": "PIANO BAR/A Foggy Day.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1937",
+  "duration": "4:12",
+  "duration_seconds": 252,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 415
+  },
+  "note_count": 2720,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

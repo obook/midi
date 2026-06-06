@@ -1,0 +1,18 @@
+{
+  "title": "Nocturne Op. 15 No. 1 in F Major",
+  "score_title": "Nocturne in F Major, Op. 15 No. 1",
+  "path": "CHOPIN FREDERIC/Nocturne Op. 15 No. 1 in F Major.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1831",
+  "duration": "3:56",
+  "duration_seconds": 236,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2745
+  },
+  "note_count": 1780,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

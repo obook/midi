@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in A Major, Op. 120, I. Allegro moderato",
+  "score_title": "Piano Sonata No. 13 in A Major, Op. 120, D. 664: I. Allegro moderato",
+  "path": "SCHUBERT FRANZ/Sonata in A Major, Op. 120, I. Allegro moderato.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1819",
+  "duration": "5:38",
+  "duration_seconds": 338,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4941
+  },
+  "note_count": 2372,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

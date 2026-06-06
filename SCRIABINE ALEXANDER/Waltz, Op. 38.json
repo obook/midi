@@ -1,0 +1,18 @@
+{
+  "title": "Waltz, Op. 38",
+  "score_title": "Waltz in A-flat Major, Op. 38",
+  "path": "SCRIABINE ALEXANDER/Waltz, Op. 38.mid",
+  "composer": "Alexander Scriabine",
+  "performer": "Alexander Scriabine",
+  "date": "1903",
+  "duration": "5:10",
+  "duration_seconds": 310,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1298
+  },
+  "note_count": 2853,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

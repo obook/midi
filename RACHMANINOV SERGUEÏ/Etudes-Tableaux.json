@@ -1,0 +1,18 @@
+{
+  "title": "Etudes-Tableaux",
+  "score_title": "Etudes-Tableaux",
+  "path": "RACHMANINOV SERGUEÏ/Etudes-Tableaux.mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1911",
+  "duration": "3:25",
+  "duration_seconds": 205,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4008
+  },
+  "note_count": 3816,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

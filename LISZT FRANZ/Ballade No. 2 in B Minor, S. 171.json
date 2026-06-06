@@ -1,0 +1,18 @@
+{
+  "title": "Ballade No. 2 in B Minor, S. 171",
+  "score_title": "Ballade No. 2 in B Minor, S. 171",
+  "path": "LISZT FRANZ/Ballade No. 2 in B Minor, S. 171.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1853",
+  "duration": "13:37",
+  "duration_seconds": 817,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 10334
+  },
+  "note_count": 7269,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

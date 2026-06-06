@@ -1,0 +1,18 @@
+{
+  "title": "Four Preludes",
+  "score_title": "Four Preludes",
+  "path": "DEBUSSY CLAUDE/Four Preludes.mid",
+  "composer": "Claude Debussy",
+  "performer": "Claude Debussy",
+  "date": "",
+  "duration": "11:13",
+  "duration_seconds": 673,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 11816
+  },
+  "note_count": 7334,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

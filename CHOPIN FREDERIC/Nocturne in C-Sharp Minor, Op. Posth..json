@@ -1,0 +1,18 @@
+{
+  "title": "Nocturne in C-Sharp Minor, Op. Posth.",
+  "score_title": "Nocturne in C-sharp Minor, Op. posth. \"Lento con gran espressione\"",
+  "path": "CHOPIN FREDERIC/Nocturne in C-Sharp Minor, Op. Posth..mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1830",
+  "duration": "3:50",
+  "duration_seconds": 230,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1695
+  },
+  "note_count": 934,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 18, Op. 31 No. 3 in E-flat Major, I. Allegro",
+  "score_title": "Sonata No. 18 in E-flat Major, Op. 31 No. 3, I. Allegro",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 18, Op. 31 No. 3 in E-flat Major, I. Allegro.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1802",
+  "duration": "5:53",
+  "duration_seconds": 353,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2818
+  },
+  "note_count": 3260,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

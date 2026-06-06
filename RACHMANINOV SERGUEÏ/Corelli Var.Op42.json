@@ -1,0 +1,18 @@
+{
+  "title": "Corelli Var.Op42",
+  "score_title": "Variations on a Theme of Corelli, Op. 42",
+  "path": "RACHMANINOV SERGUEÏ/Corelli Var.Op42.mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1931",
+  "duration": "18:16",
+  "duration_seconds": 1096,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 9085
+  },
+  "note_count": 9608,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

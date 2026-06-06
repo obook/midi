@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fuge in G-sharp Minor, WTC I, BWV 863",
+  "score_title": "Prelude and Fugue in G-sharp Minor, WTC I, BWV 863",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fuge in G-sharp Minor, WTC I, BWV 863.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1722",
+  "duration": "4:53",
+  "duration_seconds": 293,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2245
+  },
+  "note_count": 1363,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

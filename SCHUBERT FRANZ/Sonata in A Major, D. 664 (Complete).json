@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in A Major, D. 664 (Complete)",
+  "score_title": "Piano Sonata No. 13 in A Major, D. 664 (Complete)",
+  "path": "SCHUBERT FRANZ/Sonata in A Major, D. 664 (Complete).mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1819",
+  "duration": "15:03",
+  "duration_seconds": 903,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 22911
+  },
+  "note_count": 7097,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

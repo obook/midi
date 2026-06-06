@@ -1,0 +1,18 @@
+{
+  "title": "Nocturne Op. 55 No. 2 in E-flat Major",
+  "score_title": "Nocturne in E-flat Major, Op. 55 No. 2",
+  "path": "CHOPIN FREDERIC/Nocturne Op. 55 No. 2 in E-flat Major.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1843",
+  "duration": "4:34",
+  "duration_seconds": 274,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2027
+  },
+  "note_count": 1427,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

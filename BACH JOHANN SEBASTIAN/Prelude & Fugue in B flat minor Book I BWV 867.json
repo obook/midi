@@ -1,0 +1,18 @@
+{
+  "title": "Prelude & Fugue in B flat minor Book I BWV 867",
+  "score_title": "Prelude and Fugue in B-Flat Minor, BWV 867 (WTC Book I)",
+  "path": "BACH JOHANN SEBASTIAN/Prelude & Fugue in B flat minor Book I BWV 867.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1722",
+  "duration": "5:18",
+  "duration_seconds": 318,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3772
+  },
+  "note_count": 1519,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Prelude from the English Suite No. 2 in A Minor, BWV 807",
+  "score_title": "Prelude from English Suite No. 2 in A Minor, BWV 807",
+  "path": "BACH JOHANN SEBASTIAN/Prelude from the English Suite No. 2 in A Minor, BWV 807.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1715",
+  "duration": "2:37",
+  "duration_seconds": 157,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 702
+  },
+  "note_count": 2053,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

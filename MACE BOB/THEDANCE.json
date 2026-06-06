@@ -1,0 +1,18 @@
+{
+  "title": "THEDANCE",
+  "score_title": "The Dance",
+  "path": "MACE BOB/THEDANCE.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1990",
+  "duration": "3:06",
+  "duration_seconds": 186,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 191
+  },
+  "note_count": 1413,
+  "tempo_bpm": 130,
+  "time_signature": "4/4"
+}

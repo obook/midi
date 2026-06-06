@@ -1,0 +1,18 @@
+{
+  "title": "Piano Sonata in C major, Hob. XVI50 (Complete)",
+  "score_title": "Piano Sonata in C Major, Hob. XVI:50 (Complete)",
+  "path": "HAYDN FRANZ JOSEPH/Piano Sonata in C major, Hob. XVI50 (Complete).mid",
+  "composer": "Franz Joseph Haydn",
+  "performer": "Franz Joseph Haydn",
+  "date": "1795",
+  "duration": "13:10",
+  "duration_seconds": 790,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5260
+  },
+  "note_count": 6716,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

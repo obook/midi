@@ -1,0 +1,18 @@
+{
+  "title": "C'est magnifique",
+  "score_title": "C'est magnifique",
+  "path": "MARIANO LOUIS/C'est magnifique.mid",
+  "composer": "Louis Mariano",
+  "performer": "Louis Mariano",
+  "date": "1953",
+  "duration": "2:48",
+  "duration_seconds": 168,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 307
+  },
+  "note_count": 1802,
+  "tempo_bpm": 142,
+  "time_signature": "4/4"
+}

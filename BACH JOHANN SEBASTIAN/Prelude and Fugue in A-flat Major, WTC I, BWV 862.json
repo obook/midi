@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in A-flat Major, WTC I, BWV 862",
+  "score_title": "Prelude and Fugue in A-flat Major, WTC I, BWV 862",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in A-flat Major, WTC I, BWV 862.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1722",
+  "duration": "3:25",
+  "duration_seconds": 205,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1
+  },
+  "note_count": 1559,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

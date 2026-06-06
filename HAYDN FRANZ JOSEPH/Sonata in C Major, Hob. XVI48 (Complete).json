@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in C Major, Hob. XVI48 (Complete)",
+  "score_title": "Piano Sonata in C Major, Hob. XVI:48 (Complete)",
+  "path": "HAYDN FRANZ JOSEPH/Sonata in C Major, Hob. XVI48 (Complete).mid",
+  "composer": "Franz Joseph Haydn",
+  "performer": "Franz Joseph Haydn",
+  "date": "1789",
+  "duration": "11:45",
+  "duration_seconds": 705,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 8289
+  },
+  "note_count": 4815,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

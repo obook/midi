@@ -1,0 +1,18 @@
+{
+  "title": "piano concerto 1 1 finley-simple-court",
+  "score_title": "Piano Concerto No. 1 in F-sharp Minor, Op. 1 - I. Vivace",
+  "path": "RACHMANINOV SERGUEÏ/piano_concerto_1_1_finley-simple-court.mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1891",
+  "duration": "2:17",
+  "duration_seconds": 137,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 831
+  },
+  "note_count": 2032,
+  "tempo_bpm": 127,
+  "time_signature": "4/4"
+}

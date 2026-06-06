@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in D Major, K 576, First Movement",
+  "score_title": "Piano Sonata No. 18 in D Major, K. 576, I. Allegro",
+  "path": "MOZART WOLFGANG AMADEUS/Sonata in D Major, K 576, First Movement.mid",
+  "composer": "Wolfgang Amadeus Mozart",
+  "performer": "Wolfgang Amadeus Mozart",
+  "date": "1789",
+  "duration": "3:55",
+  "duration_seconds": 235,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2710
+  },
+  "note_count": 2104,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

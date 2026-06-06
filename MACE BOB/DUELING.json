@@ -1,0 +1,18 @@
+{
+  "title": "DUELING",
+  "score_title": "Dueling Banjos",
+  "path": "MACE BOB/DUELING.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1955",
+  "duration": "3:34",
+  "duration_seconds": 214,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 219
+  },
+  "note_count": 3069,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

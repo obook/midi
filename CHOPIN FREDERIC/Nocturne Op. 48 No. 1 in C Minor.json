@@ -1,0 +1,18 @@
+{
+  "title": "Nocturne Op. 48 No. 1 in C Minor",
+  "score_title": "Nocturne in C Minor, Op. 48 No. 1",
+  "path": "CHOPIN FREDERIC/Nocturne Op. 48 No. 1 in C Minor.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1841",
+  "duration": "4:54",
+  "duration_seconds": 294,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1695
+  },
+  "note_count": 2907,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

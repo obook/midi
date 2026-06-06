@@ -1,0 +1,18 @@
+{
+  "title": "Suite Op. 10",
+  "score_title": "Suite No. 2 in D Major, Op. 10",
+  "path": "ENESCU GEORGE/Suite Op. 10.mid",
+  "composer": "George Enescu",
+  "performer": "George Enescu",
+  "date": "1903",
+  "duration": "22:39",
+  "duration_seconds": 1359,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 22449
+  },
+  "note_count": 13496,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

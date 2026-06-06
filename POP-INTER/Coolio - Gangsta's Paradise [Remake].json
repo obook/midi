@@ -1,0 +1,18 @@
+{
+  "title": "Coolio - Gangsta's Paradise [Remake]",
+  "score_title": "Coolio - Gangsta's Paradise",
+  "path": "POP-INTER/Coolio - Gangsta's Paradise [Remake].mid",
+  "composer": "Pop-Inter",
+  "performer": "Pop-Inter",
+  "date": "1995",
+  "duration": "2:59",
+  "duration_seconds": 179,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 624
+  },
+  "note_count": 1642,
+  "tempo_bpm": 80,
+  "time_signature": "4/4"
+}

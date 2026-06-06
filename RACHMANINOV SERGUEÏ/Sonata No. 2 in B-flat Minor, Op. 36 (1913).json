@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 2 in B-flat Minor, Op. 36 (1913)",
+  "score_title": "Piano Sonata No. 2 in B-flat Minor, Op. 36 (1913 version)",
+  "path": "RACHMANINOV SERGUEÏ/Sonata No. 2 in B-flat Minor, Op. 36 (1913).mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1913",
+  "duration": "23:07",
+  "duration_seconds": 1387,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 12983
+  },
+  "note_count": 15172,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in E-flat Major, WTC I",
+  "score_title": "Prelude and Fugue in E-flat Major, WTC I, BWV 852",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in E-flat Major, WTC I.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1722",
+  "duration": "5:40",
+  "duration_seconds": 340,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3418
+  },
+  "note_count": 2326,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

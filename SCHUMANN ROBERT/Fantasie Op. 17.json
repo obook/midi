@@ -1,0 +1,18 @@
+{
+  "title": "Fantasie Op. 17",
+  "score_title": "Fantasie in C Major, Op. 17",
+  "path": "SCHUMANN ROBERT/Fantasie Op. 17.mid",
+  "composer": "Robert Schumann",
+  "performer": "Robert Schumann",
+  "date": "1836",
+  "duration": "31:26",
+  "duration_seconds": 1886,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 34031
+  },
+  "note_count": 13850,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Etude Pour les huit doigts",
+  "score_title": "Etude No. 6 \"Pour les huit doigts\", L. 136",
+  "path": "DEBUSSY CLAUDE/Etude Pour les huit doigts.mid",
+  "composer": "Claude Debussy",
+  "performer": "Claude Debussy",
+  "date": "1915",
+  "duration": "1:31",
+  "duration_seconds": 91,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2374
+  },
+  "note_count": 1346,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

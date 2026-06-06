@@ -1,0 +1,18 @@
+{
+  "title": "Transcendental Etude No. 12 Chasse-neige",
+  "score_title": "Transcendental Etude No. 12 in B-flat Minor, S. 139 \"Chasse-neige\"",
+  "path": "LISZT FRANZ/Transcendental Etude No. 12 Chasse-neige.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1852",
+  "duration": "4:13",
+  "duration_seconds": 253,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1932
+  },
+  "note_count": 4189,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

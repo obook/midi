@@ -1,0 +1,18 @@
+{
+  "title": "Silver Bells",
+  "score_title": "Silver Bells",
+  "path": "PIANO BAR/Silver Bells.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1950",
+  "duration": "3:58",
+  "duration_seconds": 238,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 116
+  },
+  "note_count": 892,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

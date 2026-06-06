@@ -1,0 +1,18 @@
+{
+  "title": "Watch What Happens",
+  "score_title": "Watch What Happens",
+  "path": "MACE BOB/Watch What Happens.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1964",
+  "duration": "2:57",
+  "duration_seconds": 177,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 237
+  },
+  "note_count": 1398,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

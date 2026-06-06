@@ -1,0 +1,18 @@
+{
+  "title": "Sonata Op. 54 in F Major",
+  "score_title": "Sonata No. 22 in F Major, Op. 54",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata Op. 54 in F Major.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1804",
+  "duration": "8:54",
+  "duration_seconds": 534,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3360
+  },
+  "note_count": 5946,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

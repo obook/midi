@@ -1,0 +1,18 @@
+{
+  "title": "STAIRWAY",
+  "score_title": "Stairway to Heaven",
+  "path": "MACE BOB/STAIRWAY.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1971",
+  "duration": "4:40",
+  "duration_seconds": 280,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 304
+  },
+  "note_count": 2226,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

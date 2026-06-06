@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in C major, Hob. XVI 50",
+  "score_title": "Sonata in C Major, Hob. XVI:50",
+  "path": "HAYDN FRANZ JOSEPH/Sonata in C major, Hob. XVI 50.mid",
+  "composer": "Franz Joseph Haydn",
+  "performer": "Franz Joseph Haydn",
+  "date": "1795",
+  "duration": "13:30",
+  "duration_seconds": 810,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5739
+  },
+  "note_count": 6700,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

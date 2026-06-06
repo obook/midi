@@ -1,0 +1,18 @@
+{
+  "title": "Yann Tiersen - Valse Amélie Poulain-piano",
+  "score_title": "Yann Tiersen - La Valse d'Amélie",
+  "path": "POP-FRANCE/Yann Tiersen - Valse Amélie Poulain-piano.mid",
+  "composer": "Pop-France",
+  "performer": "Pop-France",
+  "date": "2001",
+  "duration": "4:05",
+  "duration_seconds": 245,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 343
+  },
+  "note_count": 2259,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

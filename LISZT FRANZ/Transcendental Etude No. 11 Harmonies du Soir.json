@@ -1,0 +1,18 @@
+{
+  "title": "Transcendental Etude No. 11 Harmonies du Soir",
+  "score_title": "Transcendental Etude No. 11 in D-flat Major, S. 139 \"Harmonies du soir\"",
+  "path": "LISZT FRANZ/Transcendental Etude No. 11 Harmonies du Soir.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1852",
+  "duration": "9:51",
+  "duration_seconds": 591,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 9183
+  },
+  "note_count": 5112,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

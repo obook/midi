@@ -1,0 +1,18 @@
+{
+  "title": "Nocturne in B Major, Op. 9, No. 3",
+  "score_title": "Nocturne in B Major, Op. 9 No. 3",
+  "path": "CHOPIN FREDERIC/Nocturne in B Major, Op. 9, No. 3.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1832",
+  "duration": "5:49",
+  "duration_seconds": 349,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2954
+  },
+  "note_count": 2401,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

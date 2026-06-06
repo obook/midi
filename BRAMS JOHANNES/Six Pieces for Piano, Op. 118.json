@@ -1,0 +1,18 @@
+{
+  "title": "Six Pieces for Piano, Op. 118",
+  "score_title": "Six Pieces for Piano, Op. 118",
+  "path": "BRAMS JOHANNES/Six Pieces for Piano, Op. 118.mid",
+  "composer": "Johannes Brams",
+  "performer": "Johannes Brams",
+  "date": "1893",
+  "duration": "22:11",
+  "duration_seconds": 1331,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 12252
+  },
+  "note_count": 9364,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

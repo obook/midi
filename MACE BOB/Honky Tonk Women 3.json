@@ -1,0 +1,18 @@
+{
+  "title": "Honky Tonk Women 3",
+  "score_title": "Honky Tonk Women",
+  "path": "MACE BOB/Honky Tonk Women 3.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1969",
+  "duration": "2:44",
+  "duration_seconds": 164,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 352
+  },
+  "note_count": 2198,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Miroirs-La Vallee des Cloches. Tres lent",
+  "score_title": "Miroirs, No. 5 \"La Vallee des cloches\"",
+  "path": "RAVEL MAURICE/Miroirs-La Vallee des Cloches. Tres lent.mid",
+  "composer": "Maurice Ravel",
+  "performer": "Maurice Ravel",
+  "date": "1905",
+  "duration": "5:59",
+  "duration_seconds": 359,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 67
+  },
+  "note_count": 1364,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

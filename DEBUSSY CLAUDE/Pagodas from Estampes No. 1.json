@@ -1,0 +1,18 @@
+{
+  "title": "Pagodas from Estampes No. 1",
+  "score_title": "Pagodes, from Estampes No. 1",
+  "path": "DEBUSSY CLAUDE/Pagodas from Estampes No. 1.mid",
+  "composer": "Claude Debussy",
+  "performer": "Claude Debussy",
+  "date": "1903",
+  "duration": "5:45",
+  "duration_seconds": 345,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 339
+  },
+  "note_count": 2774,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Etudes Op. 10 Nos. 9",
+  "score_title": "Etude in F Minor, Op. 10 No. 9",
+  "path": "CHOPIN FREDERIC/Etudes Op. 10 Nos. 9.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1829",
+  "duration": "2:04",
+  "duration_seconds": 124,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1719
+  },
+  "note_count": 1256,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

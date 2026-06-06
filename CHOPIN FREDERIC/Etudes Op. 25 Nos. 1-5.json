@@ -1,0 +1,18 @@
+{
+  "title": "Etudes Op. 25 Nos. 1-5",
+  "score_title": "Etudes, Op. 25 Nos. 1-5",
+  "path": "CHOPIN FREDERIC/Etudes Op. 25 Nos. 1-5.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1836",
+  "duration": "10:56",
+  "duration_seconds": 656,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5436
+  },
+  "note_count": 8673,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

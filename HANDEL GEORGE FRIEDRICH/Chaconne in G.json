@@ -1,0 +1,18 @@
+{
+  "title": "Chaconne in G",
+  "score_title": "Chaconne in G Major, HWV 435",
+  "path": "HANDEL GEORGE FRIEDRICH/Chaconne in G.mid",
+  "composer": "George Friedrich Handel",
+  "performer": "George Friedrich Handel",
+  "date": "1733",
+  "duration": "5:24",
+  "duration_seconds": 324,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3216
+  },
+  "note_count": 3220,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

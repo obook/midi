@@ -1,0 +1,18 @@
+{
+  "title": "Islamey",
+  "score_title": "Islamey: Oriental Fantasy",
+  "path": "BALAKIREV MILY/Islamey.mid",
+  "composer": "Mily Balakirev",
+  "performer": "Mily Balakirev",
+  "date": "1869",
+  "duration": "8:12",
+  "duration_seconds": 492,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 8244
+  },
+  "note_count": 8357,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

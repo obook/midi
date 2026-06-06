@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in F Major, Hob. XVI23",
+  "score_title": "Sonata in F Major, Hob. XVI:23",
+  "path": "HAYDN FRANZ JOSEPH/Sonata in F Major, Hob. XVI23.mid",
+  "composer": "Franz Joseph Haydn",
+  "performer": "Franz Joseph Haydn",
+  "date": "1773",
+  "duration": "15:45",
+  "duration_seconds": 945,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5037
+  },
+  "note_count": 6615,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

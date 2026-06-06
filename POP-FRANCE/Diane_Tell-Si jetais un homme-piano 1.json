@@ -1,0 +1,18 @@
+{
+  "title": "Diane Tell-Si jetais un homme-piano 1",
+  "score_title": "Diane Tell - Si j'etais un homme",
+  "path": "POP-FRANCE/Diane_Tell-Si jetais un homme-piano 1.mid",
+  "composer": "Pop-France",
+  "performer": "Pop-France",
+  "date": "1981",
+  "duration": "4:27",
+  "duration_seconds": 267,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 238
+  },
+  "note_count": 1069,
+  "tempo_bpm": 70,
+  "time_signature": "4/4"
+}

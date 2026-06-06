@@ -1,0 +1,18 @@
+{
+  "title": "Etude Op. 10 No. 12",
+  "score_title": "Etude in C Minor, Op. 10 No. 12 \"Revolutionary\"",
+  "path": "CHOPIN FREDERIC/Etude Op. 10 No. 12.mid",
+  "composer": "Frederic Chopin",
+  "performer": "Frederic Chopin",
+  "date": "1831",
+  "duration": "2:38",
+  "duration_seconds": 158,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2166
+  },
+  "note_count": 2124,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

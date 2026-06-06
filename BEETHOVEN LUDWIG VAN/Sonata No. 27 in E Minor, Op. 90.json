@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 27 in E Minor, Op. 90",
+  "score_title": "Sonata No. 27 in E Minor, Op. 90",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 27 in E Minor, Op. 90.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1814",
+  "duration": "12:39",
+  "duration_seconds": 759,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 18097
+  },
+  "note_count": 6636,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

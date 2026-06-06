@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in C-sharp Minor, Book I, BWV 849",
+  "score_title": "Prelude and Fugue in C-sharp Minor, WTC I, BWV 849",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in C-sharp Minor, Book I, BWV 849.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1722",
+  "duration": "7:30",
+  "duration_seconds": 450,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 8649
+  },
+  "note_count": 1991,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Ramble on the Last Love - Duet",
+  "score_title": "Ramble on the Last Love-Duet (Der Rosenkavalier)",
+  "path": "GRAINGER PERCY/Ramble on the Last Love - Duet.mid",
+  "composer": "Percy Grainger",
+  "performer": "Percy Grainger",
+  "date": "1927",
+  "duration": "7:14",
+  "duration_seconds": 434,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4305
+  },
+  "note_count": 3044,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

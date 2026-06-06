@@ -1,0 +1,18 @@
+{
+  "title": "What Are You Doing The Rest Of Your Life",
+  "score_title": "What Are You Doing the Rest of Your Life?",
+  "path": "EVANS BILL/What Are You Doing The Rest Of Your Life.mid",
+  "composer": "Bill Evans",
+  "performer": "Bill Evans",
+  "date": "1969",
+  "duration": "3:36",
+  "duration_seconds": 216,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 232
+  },
+  "note_count": 1235,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

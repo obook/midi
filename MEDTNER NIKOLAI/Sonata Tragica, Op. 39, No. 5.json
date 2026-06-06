@@ -1,0 +1,18 @@
+{
+  "title": "Sonata Tragica, Op. 39, No. 5",
+  "score_title": "Sonata Tragica in C Minor, Op. 39, No. 5",
+  "path": "MEDTNER NIKOLAI/Sonata Tragica, Op. 39, No. 5.mid",
+  "composer": "Nikolai Medtner",
+  "performer": "Nikolai Medtner",
+  "date": "1920",
+  "duration": "10:07",
+  "duration_seconds": 607,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4213
+  },
+  "note_count": 7458,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

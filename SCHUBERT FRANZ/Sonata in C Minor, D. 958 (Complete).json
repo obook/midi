@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in C Minor, D. 958 (Complete)",
+  "score_title": "Sonata in C Minor, D. 958",
+  "path": "SCHUBERT FRANZ/Sonata in C Minor, D. 958 (Complete).mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1828",
+  "duration": "29:26",
+  "duration_seconds": 1766,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 19418
+  },
+  "note_count": 16837,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

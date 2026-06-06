@@ -1,0 +1,18 @@
+{
+  "title": "SOMEONES",
+  "score_title": "SOMEONES",
+  "path": "MACE BOB/SOMEONES.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "5:48",
+  "duration_seconds": 348,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 480
+  },
+  "note_count": 3111,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Lyric Piece in E Minor, Valse-Impromptu, Op. 47 No.1",
+  "score_title": "Lyric Piece in E Minor, Valse-Impromptu, Op. 47 No. 1",
+  "path": "GRIEG EDVARD/Lyric Piece in E Minor, Valse-Impromptu, Op. 47 No.1.mid",
+  "composer": "Edvard Grieg",
+  "performer": "Edvard Grieg",
+  "date": "1888",
+  "duration": "2:58",
+  "duration_seconds": 178,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1345
+  },
+  "note_count": 1490,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

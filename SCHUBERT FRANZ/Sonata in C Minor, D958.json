@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in C Minor, D958",
+  "score_title": "Piano Sonata in C Minor, D. 958",
+  "path": "SCHUBERT FRANZ/Sonata in C Minor, D958.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1828",
+  "duration": "29:18",
+  "duration_seconds": 1758,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 36279
+  },
+  "note_count": 16690,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

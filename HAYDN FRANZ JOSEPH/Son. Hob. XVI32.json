@@ -1,0 +1,18 @@
+{
+  "title": "Son. Hob. XVI32",
+  "score_title": "Piano Sonata in B Minor, Hob. XVI:32",
+  "path": "HAYDN FRANZ JOSEPH/Son. Hob. XVI32.mid",
+  "composer": "Franz Joseph Haydn",
+  "performer": "Franz Joseph Haydn",
+  "date": "1776",
+  "duration": "8:27",
+  "duration_seconds": 507,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4940
+  },
+  "note_count": 3900,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

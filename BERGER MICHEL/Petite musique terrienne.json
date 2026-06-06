@@ -1,0 +1,18 @@
+{
+  "title": "Petite musique terrienne",
+  "score_title": "Petite musique terrienne",
+  "path": "BERGER MICHEL/Petite musique terrienne.mid",
+  "composer": "Michel Berger",
+  "performer": "Michel Berger",
+  "date": "1978",
+  "duration": "1:18",
+  "duration_seconds": 78,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 74
+  },
+  "note_count": 419,
+  "tempo_bpm": 71,
+  "time_signature": "4/4"
+}

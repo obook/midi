@@ -1,0 +1,18 @@
+{
+  "title": "ATIMEFOR",
+  "score_title": "ATIMEFOR",
+  "path": "MACE BOB/ATIMEFOR.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1968",
+  "duration": "3:09",
+  "duration_seconds": 189,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 136
+  },
+  "note_count": 801,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Moments Musicaux, Op. 16",
+  "score_title": "Moments musicaux, Op. 16",
+  "path": "RACHMANINOV SERGUEÏ/Moments Musicaux, Op. 16.mid",
+  "composer": "Sergueï Rachmaninov",
+  "performer": "Sergueï Rachmaninov",
+  "date": "1896",
+  "duration": "4:32",
+  "duration_seconds": 272,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1488
+  },
+  "note_count": 5011,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

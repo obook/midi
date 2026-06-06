@@ -1,0 +1,18 @@
+{
+  "title": "Cheeck To Cheeck",
+  "score_title": "Cheek to Cheek",
+  "path": "PIANO BAR/Cheeck To Cheeck.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1935",
+  "duration": "3:29",
+  "duration_seconds": 209,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 206
+  },
+  "note_count": 2759,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Song Without Words in A Major, Op. 62 No. 6 (Spring Song)",
+  "score_title": "Song Without Words in A Major, Op. 62 No. 6 (Spring Song)",
+  "path": "MENDELSSOHN FELIX/Song Without Words in A Major, Op. 62 No. 6 (Spring Song).mid",
+  "composer": "Felix Mendelssohn",
+  "performer": "Felix Mendelssohn",
+  "date": "1842",
+  "duration": "2:25",
+  "duration_seconds": 145,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 482
+  },
+  "note_count": 1145,
+  "tempo_bpm": 76,
+  "time_signature": "2/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Vive le vent",
+  "score_title": "Vive le vent",
+  "path": "ENFANTS CHILD/Vive_le_vent.mid",
+  "composer": "Child Enfants",
+  "performer": "Child Enfants",
+  "date": "1857",
+  "duration": "2:27",
+  "duration_seconds": 147,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 3301,
+  "tempo_bpm": 154,
+  "time_signature": "4/4"
+}

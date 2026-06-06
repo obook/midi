@@ -1,0 +1,18 @@
+{
+  "title": "3 Etudes, Op. 65",
+  "score_title": "3 Etudes, Op. 65",
+  "path": "SCRIABINE ALEXANDER/3 Etudes, Op. 65.mid",
+  "composer": "Alexander Scriabine",
+  "performer": "Alexander Scriabine",
+  "date": "1912",
+  "duration": "6:38",
+  "duration_seconds": 398,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4375
+  },
+  "note_count": 4019,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

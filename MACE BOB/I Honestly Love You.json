@@ -1,0 +1,18 @@
+{
+  "title": "I Honestly Love You",
+  "score_title": "I Honestly Love You",
+  "path": "MACE BOB/I Honestly Love You.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1974",
+  "duration": "3:02",
+  "duration_seconds": 182,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 186
+  },
+  "note_count": 1138,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

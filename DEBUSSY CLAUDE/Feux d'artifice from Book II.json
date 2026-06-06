@@ -1,0 +1,18 @@
+{
+  "title": "Feux d'artifice from Book II",
+  "score_title": "Feux d'artifice, from Preludes, Book II",
+  "path": "DEBUSSY CLAUDE/Feux d'artifice from Book II.mid",
+  "composer": "Claude Debussy",
+  "performer": "Claude Debussy",
+  "date": "1913",
+  "duration": "4:02",
+  "duration_seconds": 242,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2567
+  },
+  "note_count": 3054,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

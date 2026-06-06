@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in B Minor, WTC II, BWV 893",
+  "score_title": "Prelude and Fugue in B Minor, WTC II, BWV 893",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in B Minor, WTC II, BWV 893.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1742",
+  "duration": "4:12",
+  "duration_seconds": 252,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 523
+  },
+  "note_count": 1926,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

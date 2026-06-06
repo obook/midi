@@ -1,0 +1,18 @@
+{
+  "title": "STANDBYM",
+  "score_title": "Stand by Me",
+  "path": "MACE BOB/STANDBYM.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1961",
+  "duration": "3:26",
+  "duration_seconds": 206,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 251
+  },
+  "note_count": 1273,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

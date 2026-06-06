@@ -1,0 +1,18 @@
+{
+  "title": "Bagtellen, Op.126",
+  "score_title": "Six Bagatelles, Op. 126",
+  "path": "BEETHOVEN LUDWIG VAN/Bagtellen, Op.126.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1824",
+  "duration": "18:56",
+  "duration_seconds": 1136,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 27222
+  },
+  "note_count": 7520,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

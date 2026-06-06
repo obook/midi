@@ -1,0 +1,18 @@
+{
+  "title": "Prelude and Fugue in D Minor, Book II",
+  "score_title": "Prelude and Fugue in D Minor, WTC II, BWV 875",
+  "path": "BACH JOHANN SEBASTIAN/Prelude and Fugue in D Minor, Book II.mid",
+  "composer": "Johann Sebastian Bach",
+  "performer": "Johann Sebastian Bach",
+  "date": "1742",
+  "duration": "3:21",
+  "duration_seconds": 201,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1970
+  },
+  "note_count": 1906,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

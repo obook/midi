@@ -1,0 +1,18 @@
+{
+  "title": "ONTHEWIN",
+  "score_title": "On the Wings of Love",
+  "path": "MACE BOB/ONTHEWIN.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "3:27",
+  "duration_seconds": 207,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 238
+  },
+  "note_count": 1561,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

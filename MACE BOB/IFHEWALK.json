@@ -1,0 +1,18 @@
+{
+  "title": "IFHEWALK",
+  "score_title": "If He Walked Into My Life",
+  "path": "MACE BOB/IFHEWALK.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1966",
+  "duration": "4:35",
+  "duration_seconds": 275,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 216
+  },
+  "note_count": 1472,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

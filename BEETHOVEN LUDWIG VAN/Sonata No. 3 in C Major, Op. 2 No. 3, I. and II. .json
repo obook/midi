@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 3 in C Major, Op. 2 No. 3, I. and II. ",
+  "score_title": "Sonata No. 3 in C Major, Op. 2 No. 3, I. and II.",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 3 in C Major, Op. 2 No. 3, I. and II. .mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1795",
+  "duration": "14:52",
+  "duration_seconds": 892,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 17725
+  },
+  "note_count": 5823,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

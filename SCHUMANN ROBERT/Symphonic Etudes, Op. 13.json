@@ -1,0 +1,18 @@
+{
+  "title": "Symphonic Etudes, Op. 13",
+  "score_title": "Symphonic Etudes, Op. 13",
+  "path": "SCHUMANN ROBERT/Symphonic Etudes, Op. 13.mid",
+  "composer": "Robert Schumann",
+  "performer": "Robert Schumann",
+  "date": "1834",
+  "duration": "17:35",
+  "duration_seconds": 1055,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 9438
+  },
+  "note_count": 12612,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

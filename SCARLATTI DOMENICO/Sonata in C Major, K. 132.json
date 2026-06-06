@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in C Major, K. 132",
+  "score_title": "Sonata in C Major, K. 132",
+  "path": "SCARLATTI DOMENICO/Sonata in C Major, K. 132.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "",
+  "duration": "3:57",
+  "duration_seconds": 237,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2153
+  },
+  "note_count": 1864,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

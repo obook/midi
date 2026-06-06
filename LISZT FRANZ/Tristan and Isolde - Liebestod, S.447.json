@@ -1,0 +1,18 @@
+{
+  "title": "Tristan and Isolde - Liebestod, S.447",
+  "score_title": "Isoldes Liebestod from Tristan und Isolde, S. 447 (after Wagner)",
+  "path": "LISZT FRANZ/Tristan and Isolde - Liebestod, S.447.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1867",
+  "duration": "6:21",
+  "duration_seconds": 381,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1542
+  },
+  "note_count": 4163,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

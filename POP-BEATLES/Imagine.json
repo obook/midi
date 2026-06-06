@@ -1,0 +1,18 @@
+{
+  "title": "Imagine",
+  "score_title": "Imagine",
+  "path": "POP-BEATLES/Imagine.mid",
+  "composer": "Pop-Beatles",
+  "performer": "Pop-Beatles",
+  "date": "1971",
+  "duration": "3:11",
+  "duration_seconds": 191,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 158
+  },
+  "note_count": 1213,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

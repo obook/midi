@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in C Minor, K. 457, 1st mov.",
+  "score_title": "Piano Sonata No. 14 in C Minor, K. 457, I. Allegro molto",
+  "path": "MOZART WOLFGANG AMADEUS/Sonata in C Minor, K. 457, 1st mov..mid",
+  "composer": "Wolfgang Amadeus Mozart",
+  "performer": "Wolfgang Amadeus Mozart",
+  "date": "1784",
+  "duration": "3:59",
+  "duration_seconds": 239,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2391
+  },
+  "note_count": 2214,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

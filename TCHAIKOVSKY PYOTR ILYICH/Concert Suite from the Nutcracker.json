@@ -1,0 +1,18 @@
+{
+  "title": "Concert Suite from the Nutcracker",
+  "score_title": "Concert Suite from \"The Nutcracker\"",
+  "path": "TCHAIKOVSKY PYOTR ILYICH/Concert Suite from the Nutcracker.mid",
+  "composer": "Pyotr Ilyich Tchaikovsky",
+  "performer": "Pyotr Ilyich Tchaikovsky",
+  "date": "1892",
+  "duration": "5:08",
+  "duration_seconds": 308,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1279
+  },
+  "note_count": 3757,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 1, 2nd, 3rd and 4th movements",
+  "score_title": "Piano Sonata No. 1 in C Major, Op. 24, J. 138 (2nd, 3rd and 4th Movements)",
+  "path": "MARIA VON WEBER CARL/Sonata No. 1, 2nd, 3rd and 4th movements.mid",
+  "composer": "von Weber Carl Maria",
+  "performer": "von Weber Carl Maria",
+  "date": "1812",
+  "duration": "15:39",
+  "duration_seconds": 939,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 9302
+  },
+  "note_count": 12827,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

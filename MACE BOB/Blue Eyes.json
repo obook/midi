@@ -1,0 +1,18 @@
+{
+  "title": "Blue Eyes",
+  "score_title": "Blue Eyes",
+  "path": "MACE BOB/Blue Eyes.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1982",
+  "duration": "2:53",
+  "duration_seconds": 173,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 124
+  },
+  "note_count": 926,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

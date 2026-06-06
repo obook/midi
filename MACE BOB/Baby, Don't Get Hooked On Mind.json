@@ -1,0 +1,18 @@
+{
+  "title": "Baby, Don't Get Hooked On Mind",
+  "score_title": "Baby, Don't Get Hooked on Me",
+  "path": "MACE BOB/Baby, Don't Get Hooked On Mind.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1972",
+  "duration": "2:58",
+  "duration_seconds": 178,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 190
+  },
+  "note_count": 1183,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

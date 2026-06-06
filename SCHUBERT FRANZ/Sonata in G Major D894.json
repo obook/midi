@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in G Major D894",
+  "score_title": "Piano Sonata in G Major, D. 894 \"Fantasie\"",
+  "path": "SCHUBERT FRANZ/Sonata in G Major D894.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1826",
+  "duration": "33:07",
+  "duration_seconds": 1987,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 51286
+  },
+  "note_count": 18040,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

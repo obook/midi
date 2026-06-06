@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 23 in F Minor, Op. 57 (Complete)",
+  "score_title": "Sonata No. 23 in F Minor, Op. 57 \"Appassionata\" (Complete)",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 23 in F Minor, Op. 57 (Complete).mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1806",
+  "duration": "20:51",
+  "duration_seconds": 1251,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 21800
+  },
+  "note_count": 13128,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

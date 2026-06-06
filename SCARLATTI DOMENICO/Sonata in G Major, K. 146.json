@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in G Major, K. 146",
+  "score_title": "Sonata in G Major, K. 146",
+  "path": "SCARLATTI DOMENICO/Sonata in G Major, K. 146.mid",
+  "composer": "Domenico Scarlatti",
+  "performer": "Domenico Scarlatti",
+  "date": "",
+  "duration": "2:23",
+  "duration_seconds": 143,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 771
+  },
+  "note_count": 1469,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "March from Nutcracker Suite",
+  "score_title": "March from The Nutcracker Suite, Op. 71a",
+  "path": "TCHAIKOVSKY PYOTR ILYICH/March from Nutcracker Suite.mid",
+  "composer": "Pyotr Ilyich Tchaikovsky",
+  "performer": "Pyotr Ilyich Tchaikovsky",
+  "date": "1892",
+  "duration": "1:49",
+  "duration_seconds": 109,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 553
+  },
+  "note_count": 1688,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

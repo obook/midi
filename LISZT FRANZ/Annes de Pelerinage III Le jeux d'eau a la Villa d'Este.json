@@ -1,0 +1,18 @@
+{
+  "title": "Annes de Pelerinage III Le jeux d'eau a la Villa d'Este",
+  "score_title": "Annees de Pelerinage III, S. 163: Les Jeux d'eaux a la Villa d'Este",
+  "path": "LISZT FRANZ/Annes de Pelerinage III Le jeux d'eau a la Villa d'Este.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1877",
+  "duration": "7:06",
+  "duration_seconds": 426,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3510
+  },
+  "note_count": 6016,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

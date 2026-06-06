@@ -1,0 +1,18 @@
+{
+  "title": "Ondine from Book II",
+  "score_title": "Ondine, from Preludes, Book II, No. 8",
+  "path": "DEBUSSY CLAUDE/Ondine from Book II.mid",
+  "composer": "Claude Debussy",
+  "performer": "Claude Debussy",
+  "date": "1913",
+  "duration": "3:08",
+  "duration_seconds": 188,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1688
+  },
+  "note_count": 1581,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

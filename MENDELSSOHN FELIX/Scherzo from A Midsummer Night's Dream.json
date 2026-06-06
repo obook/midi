@@ -1,0 +1,18 @@
+{
+  "title": "Scherzo from A Midsummer Night's Dream",
+  "score_title": "Scherzo from A Midsummer Night's Dream",
+  "path": "MENDELSSOHN FELIX/Scherzo from A Midsummer Night's Dream.mid",
+  "composer": "Felix Mendelssohn",
+  "performer": "Felix Mendelssohn",
+  "date": "1842",
+  "duration": "4:14",
+  "duration_seconds": 254,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2391
+  },
+  "note_count": 4596,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

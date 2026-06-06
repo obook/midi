@@ -1,0 +1,18 @@
+{
+  "title": "IFIWEREA",
+  "score_title": "If I Were a Bell",
+  "path": "MACE BOB/IFIWEREA.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1966",
+  "duration": "4:30",
+  "duration_seconds": 270,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 524
+  },
+  "note_count": 2296,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

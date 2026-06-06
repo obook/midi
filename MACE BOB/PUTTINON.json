@@ -1,0 +1,18 @@
+{
+  "title": "PUTTINON",
+  "score_title": "Puttin' On the Ritz",
+  "path": "MACE BOB/PUTTINON.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1929",
+  "duration": "4:10",
+  "duration_seconds": 250,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 278
+  },
+  "note_count": 5643,
+  "tempo_bpm": 185,
+  "time_signature": "4/4"
+}

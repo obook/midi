@@ -1,0 +1,18 @@
+{
+  "title": "My Guy",
+  "score_title": "My Guy",
+  "path": "MACE BOB/My Guy.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1964",
+  "duration": "3:46",
+  "duration_seconds": 226,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 562
+  },
+  "note_count": 2041,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

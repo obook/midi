@@ -1,0 +1,18 @@
+{
+  "title": "WHATAREY",
+  "score_title": "What Are You Doing the Rest of Your Life?",
+  "path": "MACE BOB/WHATAREY.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "",
+  "duration": "4:17",
+  "duration_seconds": 257,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 232
+  },
+  "note_count": 1235,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

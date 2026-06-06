@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in D Major, D850",
+  "score_title": "Piano Sonata in D Major, D. 850",
+  "path": "SCHUBERT FRANZ/Sonata in D Major, D850.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1825",
+  "duration": "39:01",
+  "duration_seconds": 2341,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 53696
+  },
+  "note_count": 25076,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

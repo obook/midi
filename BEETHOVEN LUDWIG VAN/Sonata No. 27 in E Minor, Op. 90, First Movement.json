@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 27 in E Minor, Op. 90, First Movement",
+  "score_title": "Sonata No. 27 in E Minor, Op. 90, I. Mit Lebhaftigkeit und durchaus mit Empfindung und Ausdruck",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 27 in E Minor, Op. 90, First Movement.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1814",
+  "duration": "5:07",
+  "duration_seconds": 307,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 3891
+  },
+  "note_count": 2628,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

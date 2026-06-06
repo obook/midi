@@ -1,0 +1,18 @@
+{
+  "title": "Papillons Op.2-Andras Schiff",
+  "score_title": "Papillons, Op. 2",
+  "path": "SCHUMANN ROBERT/Papillons Op.2-Andras Schiff.mid",
+  "composer": "Robert Schumann",
+  "performer": "Robert Schumann",
+  "date": "1831",
+  "duration": "15:51",
+  "duration_seconds": 951,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 1698
+  },
+  "note_count": 8920,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

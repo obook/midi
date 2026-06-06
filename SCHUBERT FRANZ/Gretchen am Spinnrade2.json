@@ -1,0 +1,18 @@
+{
+  "title": "Gretchen am Spinnrade2",
+  "score_title": "Gretchen am Spinnrade, D. 118",
+  "path": "SCHUBERT FRANZ/Gretchen am Spinnrade2.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1814",
+  "duration": "3:53",
+  "duration_seconds": 233,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4374
+  },
+  "note_count": 2868,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

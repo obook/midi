@@ -1,0 +1,18 @@
+{
+  "title": "SINCEIFE",
+  "score_title": "Since I Fell for You",
+  "path": "MACE BOB/SINCEIFE.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1945",
+  "duration": "5:34",
+  "duration_seconds": 334,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 336
+  },
+  "note_count": 2317,
+  "tempo_bpm": 100,
+  "time_signature": "4/4"
+}

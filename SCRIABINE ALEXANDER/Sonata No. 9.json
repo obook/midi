@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 9",
+  "score_title": "Sonata No. 9 in F Major, Op. 68 \"Black Mass\"",
+  "path": "SCRIABINE ALEXANDER/Sonata No. 9.mid",
+  "composer": "Alexander Scriabine",
+  "performer": "Alexander Scriabine",
+  "date": "1913",
+  "duration": "7:02",
+  "duration_seconds": 422,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 4017
+  },
+  "note_count": 3878,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

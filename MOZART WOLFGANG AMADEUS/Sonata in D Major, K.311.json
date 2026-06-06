@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in D Major, K.311",
+  "score_title": "Piano Sonata No. 9 in D Major, K. 311",
+  "path": "MOZART WOLFGANG AMADEUS/Sonata in D Major, K.311.mid",
+  "composer": "Wolfgang Amadeus Mozart",
+  "performer": "Wolfgang Amadeus Mozart",
+  "date": "1777",
+  "duration": "13:12",
+  "duration_seconds": 792,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 7508
+  },
+  "note_count": 7267,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

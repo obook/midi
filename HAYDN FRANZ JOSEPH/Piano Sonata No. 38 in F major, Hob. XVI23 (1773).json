@@ -1,0 +1,18 @@
+{
+  "title": "Piano Sonata No. 38 in F major, Hob. XVI23 (1773)",
+  "score_title": "Piano Sonata No. 38 in F Major, Hob. XVI:23",
+  "path": "HAYDN FRANZ JOSEPH/Piano Sonata No. 38 in F major, Hob. XVI23 (1773).mid",
+  "composer": "Franz Joseph Haydn",
+  "performer": "Franz Joseph Haydn",
+  "date": "1773",
+  "duration": "18:08",
+  "duration_seconds": 1088,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 2693
+  },
+  "note_count": 8299,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

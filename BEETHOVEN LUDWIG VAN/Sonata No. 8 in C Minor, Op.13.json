@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 8 in C Minor, Op.13",
+  "score_title": "Sonata No. 8 in C Minor, Op. 13 \"Pathetique\"",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 8 in C Minor, Op.13.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1798",
+  "duration": "15:21",
+  "duration_seconds": 921,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 13523
+  },
+  "note_count": 8486,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Can I Have This Dance",
+  "score_title": "Can I Have This Dance",
+  "path": "PIANO BAR/Can I Have This Dance.mid",
+  "composer": "Bar Piano",
+  "performer": "Bar Piano",
+  "date": "1980",
+  "duration": "4:46",
+  "duration_seconds": 286,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 388
+  },
+  "note_count": 1754,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

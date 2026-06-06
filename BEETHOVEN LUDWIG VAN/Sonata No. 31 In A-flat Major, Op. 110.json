@@ -1,0 +1,18 @@
+{
+  "title": "Sonata No. 31 In A-flat Major, Op. 110",
+  "score_title": "Sonata No. 31 in A-flat Major, Op. 110",
+  "path": "BEETHOVEN LUDWIG VAN/Sonata No. 31 In A-flat Major, Op. 110.mid",
+  "composer": "Ludwig van Beethoven",
+  "performer": "Ludwig van Beethoven",
+  "date": "1821",
+  "duration": "17:02",
+  "duration_seconds": 1022,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 16157
+  },
+  "note_count": 8081,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

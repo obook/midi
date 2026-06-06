@@ -1,0 +1,18 @@
+{
+  "title": "Etude Op. 2, No. 3- Kissin, Evgeny",
+  "score_title": "Etude in C Minor, Op. 2 No. 3",
+  "path": "PROKOFIEFF SERGUEÏ/Etude Op. 2, No. 3- Kissin, Evgeny.mid",
+  "composer": "Sergueï Prokofieff",
+  "performer": "Sergueï Prokofieff",
+  "date": "1909",
+  "duration": "3:14",
+  "duration_seconds": 194,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 135
+  },
+  "note_count": 2880,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

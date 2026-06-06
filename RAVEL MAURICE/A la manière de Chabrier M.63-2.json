@@ -1,0 +1,18 @@
+{
+  "title": "A la manière de Chabrier M.63-2",
+  "score_title": "A la maniere de... Chabrier, M. 63 No. 2",
+  "path": "RAVEL MAURICE/A la manière de Chabrier M.63-2.mid",
+  "composer": "Maurice Ravel",
+  "performer": "Maurice Ravel",
+  "date": "1913",
+  "duration": "2:00",
+  "duration_seconds": 120,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 185
+  },
+  "note_count": 626,
+  "tempo_bpm": 120,
+  "time_signature": "6/8"
+}

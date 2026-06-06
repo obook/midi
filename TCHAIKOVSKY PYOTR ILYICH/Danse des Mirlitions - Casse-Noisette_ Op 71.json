@@ -1,0 +1,18 @@
+{
+  "title": "Danse des Mirlitions - Casse-Noisette  Op 71",
+  "score_title": "Danse des Mirlitons from \"The Nutcracker\", Op. 71",
+  "path": "TCHAIKOVSKY PYOTR ILYICH/Danse des Mirlitions - Casse-Noisette_ Op 71.mid",
+  "composer": "Pyotr Ilyich Tchaikovsky",
+  "performer": "Pyotr Ilyich Tchaikovsky",
+  "date": "1892",
+  "duration": "2:17",
+  "duration_seconds": 137,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 180
+  },
+  "note_count": 1454,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

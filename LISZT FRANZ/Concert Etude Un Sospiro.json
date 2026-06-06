@@ -1,0 +1,18 @@
+{
+  "title": "Concert Etude Un Sospiro",
+  "score_title": "Concert Etude No. 3 \"Un Sospiro\", S. 144",
+  "path": "LISZT FRANZ/Concert Etude Un Sospiro.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1849",
+  "duration": "6:07",
+  "duration_seconds": 367,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5392
+  },
+  "note_count": 2787,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Wanderer Fantasy",
+  "score_title": "Wanderer Fantasy in C Major, Op. 15, D. 760",
+  "path": "SCHUBERT FRANZ/Wanderer Fantasy.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1822",
+  "duration": "21:00",
+  "duration_seconds": 1260,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 30504
+  },
+  "note_count": 15733,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

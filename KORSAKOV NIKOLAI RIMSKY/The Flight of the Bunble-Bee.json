@@ -1,0 +1,18 @@
+{
+  "title": "The Flight of the Bunble-Bee",
+  "score_title": "Flight of the Bumblebee",
+  "path": "KORSAKOV NIKOLAI RIMSKY/The Flight of the Bunble-Bee.mid",
+  "composer": "Nikolai Rimsky Korsakov",
+  "performer": "Nikolai Rimsky Korsakov",
+  "date": "1900",
+  "duration": "1:03",
+  "duration_seconds": 63,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 578
+  },
+  "note_count": 1311,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

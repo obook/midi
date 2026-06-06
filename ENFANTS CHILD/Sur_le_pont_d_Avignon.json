@@ -1,0 +1,18 @@
+{
+  "title": "Sur le pont d Avignon",
+  "score_title": "Sur le pont d'Avignon",
+  "path": "ENFANTS CHILD/Sur_le_pont_d_Avignon.mid",
+  "composer": "Child Enfants",
+  "performer": "Child Enfants",
+  "date": "",
+  "duration": "1:42",
+  "duration_seconds": 102,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 1010,
+  "tempo_bpm": 96,
+  "time_signature": "2/4"
+}

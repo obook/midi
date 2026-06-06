@@ -1,0 +1,18 @@
+{
+  "title": "Mon beau sapin",
+  "score_title": "Mon beau sapin",
+  "path": "ENFANTS CHILD/Mon_beau_sapin.mid",
+  "composer": "Child Enfants",
+  "performer": "Child Enfants",
+  "date": "",
+  "duration": "1:21",
+  "duration_seconds": 81,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 502
+  },
+  "note_count": 1380,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

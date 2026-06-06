@@ -1,0 +1,18 @@
+{
+  "title": "Black or White",
+  "score_title": "Black or White",
+  "path": "MACE BOB/Black or White.mid",
+  "composer": "Bob Mace",
+  "performer": "Bob Mace",
+  "date": "1991",
+  "duration": "3:19",
+  "duration_seconds": 199,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 336
+  },
+  "note_count": 3263,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

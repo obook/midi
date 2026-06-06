@@ -1,0 +1,18 @@
+{
+  "title": "Valse-Impromptu, S. 213",
+  "score_title": "Valse-Impromptu, S. 213",
+  "path": "LISZT FRANZ/Valse-Impromptu, S. 213.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1852",
+  "duration": "5:42",
+  "duration_seconds": 342,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 7571
+  },
+  "note_count": 3094,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

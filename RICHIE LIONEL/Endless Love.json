@@ -1,0 +1,18 @@
+{
+  "title": "Endless Love",
+  "score_title": "Endless Love",
+  "path": "RICHIE LIONEL/Endless Love.mid",
+  "composer": "Lionel Richie",
+  "performer": "Lionel Richie",
+  "date": "1981",
+  "duration": "3:25",
+  "duration_seconds": 205,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 212
+  },
+  "note_count": 1303,
+  "tempo_bpm": 90,
+  "time_signature": "4/4"
+}

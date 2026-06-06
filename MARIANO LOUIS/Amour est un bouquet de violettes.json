@@ -1,0 +1,18 @@
+{
+  "title": "Amour est un bouquet de violettes",
+  "score_title": "L'amour est un bouquet de violettes",
+  "path": "MARIANO LOUIS/Amour est un bouquet de violettes.mid",
+  "composer": "Louis Mariano",
+  "performer": "Louis Mariano",
+  "date": "1952",
+  "duration": "3:28",
+  "duration_seconds": 208,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 5
+  },
+  "note_count": 1850,
+  "tempo_bpm": 210,
+  "time_signature": "4/4"
+}

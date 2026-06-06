@@ -1,0 +1,18 @@
+{
+  "title": "Réminiscences de Don Juan, S.418",
+  "score_title": "Réminiscences de Don Juan, S. 418",
+  "path": "LISZT FRANZ/Réminiscences de Don Juan, S.418.mid",
+  "composer": "Franz Liszt",
+  "performer": "Franz Liszt",
+  "date": "1841",
+  "duration": "16:13",
+  "duration_seconds": 973,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 14522
+  },
+  "note_count": 15564,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

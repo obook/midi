@@ -1,0 +1,18 @@
+{
+  "title": "Julien Clerc-Ma Preference",
+  "score_title": "Julien Clerc - Ma preference",
+  "path": "POP-FRANCE/Julien Clerc-Ma Preference.mid",
+  "composer": "Pop-France",
+  "performer": "Pop-France",
+  "date": "1978",
+  "duration": "3:17",
+  "duration_seconds": 197,
+  "humanized": false,
+  "pedal": {
+    "present": false,
+    "events": 0
+  },
+  "note_count": 931,
+  "tempo_bpm": 105,
+  "time_signature": "4/4"
+}

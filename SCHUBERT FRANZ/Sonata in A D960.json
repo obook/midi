@@ -1,0 +1,18 @@
+{
+  "title": "Sonata in A D960",
+  "score_title": "Sonata in A D960",
+  "path": "SCHUBERT FRANZ/Sonata in A D960.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1828",
+  "duration": "7:05",
+  "duration_seconds": 425,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 7045
+  },
+  "note_count": 2230,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

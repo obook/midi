@@ -1,0 +1,18 @@
+{
+  "title": "Fantasia in C Major, Wanderer, D. 760",
+  "score_title": "Wanderer Fantasy in C Major, D. 760",
+  "path": "SCHUBERT FRANZ/Fantasia in C Major, Wanderer, D. 760.mid",
+  "composer": "Franz Schubert",
+  "performer": "Franz Schubert",
+  "date": "1822",
+  "duration": "20:02",
+  "duration_seconds": 1202,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 12673
+  },
+  "note_count": 15840,
+  "tempo_bpm": 120,
+  "time_signature": "4/4"
+}

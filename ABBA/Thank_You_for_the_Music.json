@@ -1,0 +1,18 @@
+{
+  "title": "Thank You for the Music",
+  "score_title": "Thank You for the Music",
+  "path": "ABBA/Thank_You_for_the_Music.mid",
+  "composer": "Abba",
+  "performer": "Abba",
+  "date": "1977",
+  "duration": "3:49",
+  "duration_seconds": 229,
+  "humanized": false,
+  "pedal": {
+    "present": true,
+    "events": 99
+  },
+  "note_count": 1659,
+  "tempo_bpm": 55,
+  "time_signature": "4/4"
+}
