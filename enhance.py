@@ -2,23 +2,28 @@
 # -*- coding: utf-8 -*-
 """
 Nom du fichier : enhance.py
-Description : Donne du relief a des fichiers MIDI au jeu trop mecanique.
-             Deux traitements complementaires, activables separement :
-               - pedale : ajoute automatiquement la pedale forte (CC 64),
-                 enfoncee a chaque temps et relachee juste avant le suivant ;
-               - humanisation : fait varier velocites, departs de notes et
-                 ajoute une legere derive de tempo (portage de l'algorithme
+Description : Donne du relief à des fichiers MIDI au jeu trop mécanique.
+             Deux traitements complémentaires, activables séparément :
+               - pédale : ajoute automatiquement la pédale forte (CC 64),
+                 enfoncée à chaque temps et relâchée juste avant le suivant ;
+               - humanisation : fait varier vélocités, départs de notes et
+                 ajoute une légère dérive de tempo (portage de l'algorithme
                  de vincerubinetti/midi-humanizer).
-             Les hauteurs ne sont jamais modifiees.
+             Les hauteurs ne sont jamais modifiées.
 Auteur : O. Booklage
 Date : Juin 2026
 Licence : CC BY-SA 4.0
 
+Crédit : l'algorithme d'humanisation (variation des vélocités, des
+         départs de notes et dérive de tempo) est porté du projet
+         midi-humanizer de Vincent Rubinetti (vincerubinetti).
+         Source : https://github.com/vincerubinetti/midi-humanizer
+
 Usage :
-    python enhance.py "fichier.mid"             # pedale + humanisation
-    python enhance.py "DOSSIER" --pedal         # pedale seule
+    python enhance.py "fichier.mid"             # pédale + humanisation
+    python enhance.py "DOSSIER" --pedal         # pédale seule
     python enhance.py "fichier.mid" --humanize  # humanisation seule
-Le resultat est ecrit a cote de la source, avec un suffixe.
+Le résultat est écrit à côté de la source, avec un suffixe.
 """
 
 import os
@@ -30,19 +35,19 @@ import random
 from mido import MidiFile, MidiTrack, Message, MetaMessage
 
 
-# --- Parametres d'humanisation ---
-VELOCITE_ALEA = 18       # amplitude aleatoire de la velocite (unites MIDI)
-VELOCITE_DECALAGE = -8   # decalage fixe (une velocite de 120 est trop forte)
-TIMING_ALEA = 10         # amplitude aleatoire des departs de notes (tics)
-DERIVE_AMPLITUDE = 8     # amplitude de la derive de tempo (tics)
-DERIVE_PAS = 512         # espacement des points de derive (tics)
-GRAINE = "midi"          # graine globale : meme entree -> meme sortie
+# --- Paramètres d'humanisation ---
+VELOCITE_ALEA = 18       # amplitude aléatoire de la vélocité (unités MIDI)
+VELOCITE_DECALAGE = -8   # décalage fixe (une vélocité de 120 est trop forte)
+TIMING_ALEA = 10         # amplitude aléatoire des départs de notes (tics)
+DERIVE_AMPLITUDE = 8     # amplitude de la dérive de tempo (tics)
+DERIVE_PAS = 512         # espacement des points de dérive (tics)
+GRAINE = "midi"          # graine globale : même entrée -> même sortie
 
-# --- Parametres de pedale ---
-PEDALE_UNITE_TEMPS = 1   # nombre de temps couverts par un coup de pedale
-PEDALE_ECART = 32        # relache un 1/PEDALE_ECART de ronde avant le temps
+# --- Paramètres de pédale ---
+PEDALE_UNITE_TEMPS = 1   # nombre de temps couverts par un coup de pédale
+PEDALE_ECART = 32        # relâche un 1/PEDALE_ECART de ronde avant le temps
 
-# Suffixes selon les traitements appliques.
+# Suffixes selon les traitements appliqués.
 SUFFIXE_PEDALE = "-pedaled"
 SUFFIXE_HUMANISE = "-humanized"
 SUFFIXE_COMPLET = "-enhanced"
@@ -53,13 +58,13 @@ SUFFIXE_COMPLET = "-enhanced"
 # ===============================================================
 
 def alea(cle):
-    """Renvoyer un nombre aleatoire deterministe dans [-1, 1].
+    """Renvoyer un nombre aléatoire déterministe dans [-1, 1].
 
-    La meme cle produit toujours le meme nombre : les traitements
+    La même clé produit toujours le même nombre : les traitements
     sont donc reproductibles.
 
     Args:
-        cle: Chaine servant de graine (par exemple "velocity3-12").
+        cle: Chaîne servant de graine (par exemple "velocity3-12").
 
     Returns:
         Un flottant compris entre -1 et 1.
@@ -69,17 +74,17 @@ def alea(cle):
 
 
 def borner(valeur, minimum, maximum):
-    """Limiter une valeur a l'intervalle [minimum, maximum]."""
+    """Limiter une valeur à l'intervalle [minimum, maximum]."""
     return max(minimum, min(maximum, valeur))
 
 
 def est_note_jouee(message):
-    """Indiquer si le message demarre reellement une note."""
+    """Indiquer si le message démarre réellement une note."""
     return message.type == "note_on" and message.velocity > 0
 
 
 def est_fin_de_note(message):
-    """Indiquer si le message arrete une note (note_off ou note_on a 0)."""
+    """Indiquer si le message arrête une note (note_off ou note_on à 0)."""
     if message.type == "note_off":
         return True
     return message.type == "note_on" and message.velocity == 0
@@ -96,14 +101,14 @@ def vers_temps_absolu(piste):
 
 
 def vers_piste(evenements):
-    """Recomposer une piste a partir d'evenements en temps absolu.
+    """Recomposer une piste à partir d'événements en temps absolu.
 
-    Les evenements sont retries par instant, les durees relatives
-    (deltas) recalculees, et un end_of_track propre est ajoute.
+    Les événements sont retriés par instant, les durées relatives
+    (deltas) recalculées, et un end_of_track propre est ajouté.
 
     Args:
         evenements: Liste de [instant_absolu, message], le end_of_track
-                    d'origine ayant ete retire au prealable.
+                    d'origine ayant été retiré au préalable.
 
     Returns:
         Une nouvelle piste MIDI.
@@ -120,7 +125,7 @@ def vers_piste(evenements):
 
 
 def sans_fin_de_piste(evenements):
-    """Retirer le message end_of_track de la liste d'evenements."""
+    """Retirer le message end_of_track de la liste d'événements."""
     return [
         evenement
         for evenement in evenements
@@ -133,18 +138,18 @@ def sans_fin_de_piste(evenements):
 # ===============================================================
 
 def pedaliser_piste(piste, ticks_par_temps):
-    """Ajouter une pedale forte rythmee a une piste contenant des notes.
+    """Ajouter une pédale forte rythmée à une piste contenant des notes.
 
-    La pedale est enfoncee au debut, puis relachee juste avant chaque
-    temps et reenfoncee sur le temps. Toute pedale existante est
-    remplacee. Une piste sans note est renvoyee telle quelle.
+    La pédale est enfoncée au début, puis relâchée juste avant chaque
+    temps et réenfoncée sur le temps. Toute pédale existante est
+    remplacée. Une piste sans note est renvoyée telle quelle.
 
     Args:
         piste: La piste MIDI d'origine.
         ticks_par_temps: Nombre de tics pour un temps (noire).
 
     Returns:
-        Une nouvelle piste avec la pedale, ou la piste d'origine.
+        Une nouvelle piste avec la pédale, ou la piste d'origine.
     """
     evenements = vers_temps_absolu(piste)
     notes_jouees = [(t, m) for t, m in evenements if est_note_jouee(m)]
@@ -171,7 +176,7 @@ def pedaliser_piste(piste, ticks_par_temps):
         instant += unite
     nouvelle_pedale.append(pedale(fin, 0))
 
-    # Repartir des evenements en retirant l'ancienne pedale (CC 64).
+    # Repartir des événements en retirant l'ancienne pédale (CC 64).
     base = [
         evenement
         for evenement in sans_fin_de_piste(evenements)
@@ -187,16 +192,16 @@ def pedaliser_piste(piste, ticks_par_temps):
 # ===============================================================
 
 def construire_derive(duree_tics):
-    """Construire la courbe de derive de tempo (instant -> decalage en tics).
+    """Construire la courbe de dérive de tempo (instant -> décalage en tics).
 
-    On tire un point aleatoire tous les DERIVE_PAS tics, puis on
+    On tire un point aléatoire tous les DERIVE_PAS tics, puis on
     interpole entre ces points avec un lissage en sinus.
 
     Args:
-        duree_tics: Duree totale de la piste, en tics.
+        duree_tics: Durée totale de la piste, en tics.
 
     Returns:
-        Une fonction qui, pour un instant en tics, renvoie un decalage.
+        Une fonction qui, pour un instant en tics, renvoie un décalage.
     """
     pas = max(1, DERIVE_PAS)
     nombre_points = duree_tics // pas + 2
@@ -214,18 +219,18 @@ def construire_derive(duree_tics):
 
 
 def humaniser_piste(piste, index_piste, derive):
-    """Humaniser une piste : velocites variees et departs decales.
+    """Humaniser une piste : vélocités variées et départs décalés.
 
-    Le decalage de depart d'une note est applique a la fois a son
-    note_on et a son note_off, ce qui preserve la duree des notes.
+    Le décalage de départ d'une note est appliqué à la fois à son
+    note_on et à son note_off, ce qui préserve la durée des notes.
 
     Args:
         piste: La piste MIDI d'origine.
-        index_piste: Numero de la piste (sert de graine).
-        derive: Fonction de derive de tempo (voir construire_derive).
+        index_piste: Numéro de la piste (sert de graine).
+        derive: Fonction de dérive de tempo (voir construire_derive).
 
     Returns:
-        Une nouvelle piste humanisee.
+        Une nouvelle piste humanisée.
     """
     evenements = sans_fin_de_piste(vers_temps_absolu(piste))
     decalages_en_attente = {}
@@ -259,7 +264,7 @@ def humaniser_piste(piste, index_piste, derive):
 # ===============================================================
 
 def suffixe(faire_pedale, faire_humanise):
-    """Choisir le suffixe de nom selon les traitements appliques."""
+    """Choisir le suffixe de nom selon les traitements appliqués."""
     if faire_pedale and faire_humanise:
         return SUFFIXE_COMPLET
     if faire_pedale:
@@ -268,15 +273,15 @@ def suffixe(faire_pedale, faire_humanise):
 
 
 def traiter_fichier(chemin, faire_pedale, faire_humanise):
-    """Appliquer les traitements demandes a un fichier et l'enregistrer.
+    """Appliquer les traitements demandés à un fichier et l'enregistrer.
 
     Args:
-        chemin: Chemin du fichier .mid d'entree.
-        faire_pedale: Ajouter la pedale forte.
+        chemin: Chemin du fichier .mid d'entrée.
+        faire_pedale: Ajouter la pédale forte.
         faire_humanise: Appliquer l'humanisation.
 
     Returns:
-        Le chemin du fichier ecrit.
+        Le chemin du fichier écrit.
     """
     midi = MidiFile(chemin)
     duree_tics = max(sum(m.time for m in piste) for piste in midi.tracks)
@@ -297,15 +302,15 @@ def traiter_fichier(chemin, faire_pedale, faire_humanise):
 
 
 def lister_fichiers(chemin):
-    """Lister les fichiers a traiter (un seul ou tout un dossier).
+    """Lister les fichiers à traiter (un seul ou tout un dossier).
 
-    Les fichiers deja traites (suffixes connus) sont ignores.
+    Les fichiers déjà traités (suffixes connus) sont ignorés.
 
     Args:
         chemin: Un fichier .mid ou un dossier.
 
     Returns:
-        La liste triee des chemins a traiter.
+        La liste triée des chemins à traiter.
     """
     if os.path.isfile(chemin):
         return [chemin]
@@ -318,7 +323,7 @@ def lister_fichiers(chemin):
 
 
 def main():
-    """Lire les arguments et traiter le fichier ou le dossier indique."""
+    """Lire les arguments et traiter le fichier ou le dossier indiqué."""
     arguments = sys.argv[1:]
     options = [a for a in arguments if a.startswith("--")]
     chemins = [a for a in arguments if not a.startswith("--")]

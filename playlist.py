@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 """
 Nom du fichier : playlist.py
-Description : Genere PLAYLIST.md, un classement par duree croissante
-             de morceaux celebres et accessibles (debutant a moyen),
-             selectionnes a la main dans la collection.
+Description : Génère PLAYLIST.md, un classement par durée croissante
+             de morceaux célèbres et accessibles (débutant à moyen),
+             sélectionnés à la main dans la collection.
 Auteur : O. Booklage
 Date : Juin 2026
 Licence : CC BY-SA 4.0
@@ -15,12 +15,12 @@ import os
 from mido import MidiFile
 
 
-# Selection curee : uniquement des morceaux celebres, jouables par un
-# interprete debutant a intermediaire. Un seul fichier par morceau
-# (les doublons de la collection sont volontairement ecartes).
-# Niveau : 1 = debutant, 2 = facile, 3 = intermediaire (moyen).
+# Sélection curée : uniquement des morceaux célèbres, jouables par un
+# interprète débutant à intermédiaire. Un seul fichier par morceau
+# (les doublons de la collection sont volontairement écartés).
+# Niveau : 1 = débutant, 2 = facile, 3 = intermédiaire (moyen).
 REPERTOIRE = [
-    # --- Comptines et chants tres connus (debutant) ---
+    # --- Comptines et chants très connus (débutant) ---
     ("ENFANTS CHILD/Au-Clair-de-la-Lune.mid", "Au clair de la lune", "Traditionnel", 1),
     ("ENFANTS CHILD/Frere_Jacques.mid", "Frère Jacques", "Traditionnel", 1),
     ("ENFANTS CHILD/Ah_vous_dirais_je_Maman.mid", "Ah vous dirai-je maman", "Traditionnel", 1),
@@ -29,7 +29,7 @@ REPERTOIRE = [
     ("ENFANTS CHILD/Mon_beau_sapin.mid", "Mon beau sapin", "Traditionnel", 1),
     ("ENFANTS CHILD/Sur_le_pont_d_Avignon.mid", "Sur le pont d'Avignon", "Traditionnel", 1),
 
-    # --- Classiques accessibles (facile a intermediaire) ---
+    # --- Classiques accessibles (facile à intermédiaire) ---
     ("SATIE ERIK/Gymnopedie No - simple.mid", "Gymnopédie n°1", "E. Satie", 2),
     ("SATIE ERIK/Gymnopedie No.3.mid", "Gymnopédie n°3", "E. Satie", 2),
     ("SATIE ERIK/Gnossiennes 1890 1 K.Oguri - Lent.mid", "Gnossienne n°1", "E. Satie", 3),
@@ -53,7 +53,7 @@ REPERTOIRE = [
     ("ALBÉNIZ ISAAC/Tango.mid", "Tango (España, Op. 165)", "I. Albéniz", 3),
     ("RAGTIME/Scott Joplin - Entertainer.mid", "The Entertainer", "S. Joplin", 3),
 
-    # --- Films, chansons et standards celebres (arrangements accessibles) ---
+    # --- Films, chansons et standards célèbres (arrangements accessibles) ---
     ("FILMS/My-Heart-Will-Go-On-(From-'Titanic')-piano.mid", "My Heart Will Go On (Titanic)", "J. Horner", 2),
     ("POP-FRANCE/Yann Tiersen - Comptine dun autre ete1.mid", "Comptine d'un autre été (Amélie Poulain)", "Y. Tiersen", 2),
     ("POP-FRANCE/Yann Tiersen - Valse Amélie Poulain-piano.mid", "La Valse d'Amélie", "Y. Tiersen", 3),
@@ -80,7 +80,7 @@ REPERTOIRE = [
     ("PIANO BAR/Stardust.mid", "Stardust", "H. Carmichael", 3),
 ]
 
-# Etiquettes affichees pour chaque niveau de difficulte.
+# Étiquettes affichées pour chaque niveau de difficulté.
 LIBELLES_NIVEAU = {
     1: "Débutant",
     2: "Facile",
@@ -88,58 +88,58 @@ LIBELLES_NIVEAU = {
     4: "Avancé",
 }
 
-# Morceaux celebres et accessibles ABSENTS de la collection qu'il
-# serait pertinent d'ajouter. Verifie : aucun de ces titres n'est
-# present dans les fichiers .mid du depot.
-# Format : (titre, compositeur, niveau).
+# Morceaux célèbres et accessibles qu'il serait pertinent d'avoir.
+# Le dernier champ (recupere) indique ceux qui ont depuis été
+# récupérés et qui figurent désormais dans la collection.
+# Format : (titre, compositeur, niveau, recupere).
 MANQUANTS = [
-    ("Lettre à Élise (Für Elise), WoO 59", "L. van Beethoven", 2),
-    ("Hymne à la joie (thème)", "L. van Beethoven", 1),
-    ("Canon en ré majeur", "J. Pachelbel", 3),
-    ("Menuet en sol majeur, BWV Anh. 114", "J.-S. Bach", 1),
-    ("Solfeggietto", "C. P. E. Bach", 3),
-    ("Rêverie (Träumerei), Scènes d'enfants", "R. Schumann", 3),
-    ("La fille aux cheveux de lin", "C. Debussy", 3),
-    ("Rêverie", "C. Debussy", 3),
-    ("Ave Maria", "F. Schubert", 3),
-    ("Sérénade", "F. Schubert", 3),
-    ("Moment musical n°3", "F. Schubert", 3),
-    ("Romance sans paroles (Chant de printemps)", "F. Mendelssohn", 3),
-    ("Au matin (Peer Gynt)", "E. Grieg", 2),
-    ("Album pour la jeunesse (pièces faciles)", "P. I. Tchaïkovski", 1),
-    ("Arabesque, Op. 100 n°2", "F. Burgmüller", 2),
-    ("Rêve d'amour (Liebestraum n°3)", "F. Liszt", 3),
-    ("Maple Leaf Rag", "S. Joplin", 3),
-    ("Lacrimosa (Requiem)", "W. A. Mozart", 3),
-    ("River Flows in You", "Yiruma", 3),
-    ("Ballade pour Adeline", "R. Clayderman", 3),
-    ("Hallelujah", "L. Cohen", 2),
-    ("Someone Like You", "Adele", 2),
-    ("All of Me", "J. Legend", 2),
-    ("Perfect", "Ed Sheeran", 2),
-    ("Clocks", "Coldplay", 3),
+    ("Lettre à Élise (Für Elise), WoO 59", "L. van Beethoven", 2, True),
+    ("Hymne à la joie (thème)", "L. van Beethoven", 1, False),
+    ("Canon en ré majeur", "J. Pachelbel", 3, False),
+    ("Menuet en sol majeur, BWV Anh. 114", "J.-S. Bach", 1, False),
+    ("Solfeggietto", "C. P. E. Bach", 3, False),
+    ("Rêverie (Träumerei), Scènes d'enfants", "R. Schumann", 3, False),
+    ("La fille aux cheveux de lin", "C. Debussy", 3, True),
+    ("Rêverie", "C. Debussy", 3, False),
+    ("Ave Maria", "F. Schubert", 3, False),
+    ("Sérénade", "F. Schubert", 3, True),
+    ("Moment musical n°3", "F. Schubert", 3, True),
+    ("Romance sans paroles (Chant de printemps)", "F. Mendelssohn", 3, True),
+    ("Au matin (Peer Gynt)", "E. Grieg", 2, True),
+    ("Album pour la jeunesse (pièces faciles)", "P. I. Tchaïkovski", 1, False),
+    ("Arabesque, Op. 100 n°2", "F. Burgmüller", 2, False),
+    ("Rêve d'amour (Liebestraum n°3)", "F. Liszt", 3, True),
+    ("Maple Leaf Rag", "S. Joplin", 3, False),
+    ("Lacrimosa (Requiem)", "W. A. Mozart", 3, False),
+    ("River Flows in You", "Yiruma", 3, False),
+    ("Ballade pour Adeline", "R. Clayderman", 3, False),
+    ("Hallelujah", "L. Cohen", 2, False),
+    ("Someone Like You", "Adele", 2, False),
+    ("All of Me", "J. Legend", 2, False),
+    ("Perfect", "Ed Sheeran", 2, False),
+    ("Clocks", "Coldplay", 3, False),
 ]
 
 
 def calculer_duree(chemin):
-    """Calculer la duree musicale d'un fichier MIDI en secondes.
+    """Calculer la durée musicale d'un fichier MIDI en secondes.
 
-    On mesure le temps ecoule jusqu'a la derniere note jouee, et non
-    la duree brute du fichier : certains fichiers de la collection
-    contiennent un long silence final (un evenement avec un delta de
+    On mesure le temps écoulé jusqu'à la dernière note jouée, et non
+    la durée brute du fichier : certains fichiers de la collection
+    contiennent un long silence final (un événement avec un delta de
     plusieurs centaines de milliers de tics) qui fausserait le tri.
 
     Args:
-        chemin: Chemin du fichier .mid a analyser.
+        chemin: Chemin du fichier .mid à analyser.
 
     Returns:
-        La duree en secondes (float), ou None si la lecture echoue.
+        La durée en secondes (float), ou None si la lecture échoue.
     """
     try:
         midi = MidiFile(chemin)
         temps_ecoule = 0.0
         temps_derniere_note = 0.0
-        # En iterant sur le fichier, mido fournit message.time en
+        # En itérant sur le fichier, mido fournit message.time en
         # secondes (en tenant compte des changements de tempo).
         for message in midi:
             temps_ecoule += message.time
@@ -152,13 +152,13 @@ def calculer_duree(chemin):
 
 
 def formater_duree(secondes):
-    """Mettre en forme une duree au format minutes:secondes.
+    """Mettre en forme une durée au format minutes:secondes.
 
     Args:
-        secondes: Duree en secondes.
+        secondes: Durée en secondes.
 
     Returns:
-        Une chaine de la forme "m:ss" (par exemple "3:07").
+        Une chaîne de la forme "m:ss" (par exemple "3:07").
     """
     minutes = int(secondes) // 60
     reste = int(secondes) % 60
@@ -166,12 +166,12 @@ def formater_duree(secondes):
 
 
 def construire_lignes():
-    """Lire la duree de chaque morceau et trier par duree croissante.
+    """Lire la durée de chaque morceau et trier par durée croissante.
 
     Returns:
         Une liste de tuples (duree_secondes, titre, compositeur,
-        niveau, chemin), triee par duree croissante. Les fichiers
-        absents ou illisibles sont ignores.
+        niveau, chemin), triée par durée croissante. Les fichiers
+        absents ou illisibles sont ignorés.
     """
     lignes = []
     for chemin, titre, compositeur, niveau in REPERTOIRE:
@@ -188,11 +188,11 @@ def construire_lignes():
 
 
 def ecrire_playlist(lignes):
-    """Ecrire le fichier PLAYLIST.md a partir des morceaux tries.
+    """Écrire le fichier PLAYLIST.md à partir des morceaux triés.
 
     Args:
         lignes: Liste de tuples (duree, titre, compositeur, niveau,
-                chemin) triee par duree croissante.
+                chemin) triée par durée croissante.
     """
     with open("PLAYLIST.md", "w", encoding="utf-8") as fichier:
         fichier.write("# Playlist - morceaux célèbres et accessibles\n\n")
@@ -216,18 +216,19 @@ def ecrire_playlist(lignes):
 
         fichier.write(f"\n{len(lignes)} morceaux.\n")
 
-        # Morceaux celebres encore manquants, a se procurer.
-        fichier.write("\n## À ajouter (absents de la collection)\n\n")
+        # Morceaux célèbres à se procurer, sous forme de cases à
+        # cocher : une case cochée signale un morceau déjà récupéré.
+        fichier.write("\n## À ajouter\n\n")
         fichier.write(
-            "Morceaux célèbres et accessibles qui manquent encore "
-            "et qu'il serait utile d'ajouter.\n\n"
+            "Morceaux célèbres et accessibles qui manquent encore et "
+            "qu'il serait utile d'ajouter. Les cases cochées ont depuis "
+            "été récupérées et figurent maintenant dans la collection.\n\n"
         )
-        fichier.write("| Titre | Compositeur | Niveau |\n")
-        fichier.write("|-------|-------------|--------|\n")
-        for titre, compositeur, niveau in MANQUANTS:
+        for titre, compositeur, niveau, recupere in MANQUANTS:
+            case = "x" if recupere else " "
             fichier.write(
-                f"| {titre} | {compositeur} | "
-                f"{LIBELLES_NIVEAU[niveau]} |\n"
+                f"- [{case}] {titre} - {compositeur} "
+                f"({LIBELLES_NIVEAU[niveau]})\n"
             )
 
 

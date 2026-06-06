@@ -61,34 +61,32 @@ Niveaux : Débutant, Facile, Intermédiaire, Avancé (quelques pièces dépassen
 
 53 morceaux.
 
-## À ajouter (absents de la collection)
+## À ajouter
 
-Morceaux célèbres et accessibles qui manquent encore et qu'il serait utile d'ajouter.
+Morceaux célèbres et accessibles qui manquent encore et qu'il serait utile d'ajouter. Les cases cochées ont depuis été récupérées et figurent maintenant dans la collection.
 
-| Titre | Compositeur | Niveau |
-|-------|-------------|--------|
-| Lettre à Élise (Für Elise), WoO 59 | L. van Beethoven | Facile |
-| Hymne à la joie (thème) | L. van Beethoven | Débutant |
-| Canon en ré majeur | J. Pachelbel | Intermédiaire |
-| Menuet en sol majeur, BWV Anh. 114 | J.-S. Bach | Débutant |
-| Solfeggietto | C. P. E. Bach | Intermédiaire |
-| Rêverie (Träumerei), Scènes d'enfants | R. Schumann | Intermédiaire |
-| La fille aux cheveux de lin | C. Debussy | Intermédiaire |
-| Rêverie | C. Debussy | Intermédiaire |
-| Ave Maria | F. Schubert | Intermédiaire |
-| Sérénade | F. Schubert | Intermédiaire |
-| Moment musical n°3 | F. Schubert | Intermédiaire |
-| Romance sans paroles (Chant de printemps) | F. Mendelssohn | Intermédiaire |
-| Au matin (Peer Gynt) | E. Grieg | Facile |
-| Album pour la jeunesse (pièces faciles) | P. I. Tchaïkovski | Débutant |
-| Arabesque, Op. 100 n°2 | F. Burgmüller | Facile |
-| Rêve d'amour (Liebestraum n°3) | F. Liszt | Intermédiaire |
-| Maple Leaf Rag | S. Joplin | Intermédiaire |
-| Lacrimosa (Requiem) | W. A. Mozart | Intermédiaire |
-| River Flows in You | Yiruma | Intermédiaire |
-| Ballade pour Adeline | R. Clayderman | Intermédiaire |
-| Hallelujah | L. Cohen | Facile |
-| Someone Like You | Adele | Facile |
-| All of Me | J. Legend | Facile |
-| Perfect | Ed Sheeran | Facile |
-| Clocks | Coldplay | Intermédiaire |
+- [x] Lettre à Élise (Für Elise), WoO 59 - L. van Beethoven (Facile)
+- [ ] Hymne à la joie (thème) - L. van Beethoven (Débutant)
+- [ ] Canon en ré majeur - J. Pachelbel (Intermédiaire)
+- [ ] Menuet en sol majeur, BWV Anh. 114 - J.-S. Bach (Débutant)
+- [ ] Solfeggietto - C. P. E. Bach (Intermédiaire)
+- [ ] Rêverie (Träumerei), Scènes d'enfants - R. Schumann (Intermédiaire)
+- [x] La fille aux cheveux de lin - C. Debussy (Intermédiaire)
+- [ ] Rêverie - C. Debussy (Intermédiaire)
+- [ ] Ave Maria - F. Schubert (Intermédiaire)
+- [x] Sérénade - F. Schubert (Intermédiaire)
+- [x] Moment musical n°3 - F. Schubert (Intermédiaire)
+- [x] Romance sans paroles (Chant de printemps) - F. Mendelssohn (Intermédiaire)
+- [x] Au matin (Peer Gynt) - E. Grieg (Facile)
+- [ ] Album pour la jeunesse (pièces faciles) - P. I. Tchaïkovski (Débutant)
+- [ ] Arabesque, Op. 100 n°2 - F. Burgmüller (Facile)
+- [x] Rêve d'amour (Liebestraum n°3) - F. Liszt (Intermédiaire)
+- [ ] Maple Leaf Rag - S. Joplin (Intermédiaire)
+- [ ] Lacrimosa (Requiem) - W. A. Mozart (Intermédiaire)
+- [ ] River Flows in You - Yiruma (Intermédiaire)
+- [ ] Ballade pour Adeline - R. Clayderman (Intermédiaire)
+- [ ] Hallelujah - L. Cohen (Facile)
+- [ ] Someone Like You - Adele (Facile)
+- [ ] All of Me - J. Legend (Facile)
+- [ ] Perfect - Ed Sheeran (Facile)
+- [ ] Clocks - Coldplay (Intermédiaire)
