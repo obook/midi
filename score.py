@@ -4,15 +4,21 @@
 Nom du fichier : score.py
 Description : Génère une partition PDF pour chaque fichier MIDI de la
              collection, en parcourant récursivement les sous-dossiers.
-             Chaque partition reçoit un en-tête avec le titre du morceau
-             (nom du fichier) et le compositeur (nom du dossier parent).
-             Les fichiers qui possèdent déjà un PDF sont ignorés.
+             L'en-tête (titre, interprète, date) provient du fichier
+             d'informations JSON s'il existe (voir infos.py), sinon du
+             nom du fichier et du dossier parent.
 Auteur : O. Booklage
 Date : Juin 2026
 Licence : CC BY-SA 4.0
 
 Prérequis : MuseScore 3
     $ sudo apt install musescore3
+
+Usage :
+    python score.py                 # partitions manquantes (collection)
+    python score.py --force         # régénère toute la collection
+    python score.py "fichier.mid"   # recrée le PDF d'un seul fichier
+    python score.py "DOSSIER"       # recrée les PDF d'un dossier
 """
 
 import os
@@ -89,7 +95,10 @@ def lire_infos_sidecar(fichier_midi):
     try:
         with open(chemin, encoding="utf-8") as fichier:
             return json.load(fichier)
-    except (ValueError, OSError):
+    except (ValueError, OSError) as erreur:
+        # Sidecar present mais corrompu : on le signale au lieu de
+        # retomber silencieusement sur le nom du dossier.
+        print(f"|!| Fiche JSON illisible, ignorée : {chemin} ({erreur})")
         return None
 
 
@@ -398,30 +407,61 @@ def trouver_fichiers_midi(dossier_racine):
     return sorted(glob.glob(motif, recursive=True))
 
 
-def main():
-    """Parcourir la collection et générer les partitions.
+def fichiers_depuis_arguments(chemins):
+    """Construire la liste des MIDI à traiter à partir d'arguments.
 
-    Sans argument, seules les partitions manquantes sont générées.
-    Avec l'option --force, toutes les partitions sont régénérées
-    (utile après un changement de mise en forme, par exemple l'ajout
-    du titre et du compositeur en en-tête).
+    Chaque argument peut être un fichier .mid ou un dossier (exploré
+    récursivement). Les chemins qui ne sont ni l'un ni l'autre sont
+    ignorés.
+
+    Args:
+        chemins: Liste de chemins (fichiers ou dossiers).
+
+    Returns:
+        La liste des fichiers .mid correspondants.
     """
-    forcer = "--force" in sys.argv[1:]
+    fichiers = []
+    for chemin in chemins:
+        if os.path.isdir(chemin):
+            fichiers.extend(trouver_fichiers_midi(chemin))
+        elif chemin.lower().endswith(".mid") and os.path.isfile(chemin):
+            fichiers.append(chemin)
+    return fichiers
 
-    fichiers = trouver_fichiers_midi(DOSSIER_RACINE)
+
+def main():
+    """Générer les partitions PDF.
+
+    Trois usages :
+      - sans argument : génère les partitions manquantes de toute la
+        collection ;
+      - avec --force : régénère toute la collection ;
+      - avec un ou plusieurs chemins (fichiers .mid ou dossiers) : ne
+        traite que ceux-là et régénère leur PDF même s'il existe déjà
+        (pratique pour glisser un fichier sur le script).
+    """
+    arguments = sys.argv[1:]
+    forcer = "--force" in arguments
+    chemins = [a for a in arguments if not a.startswith("--")]
+
+    if chemins:
+        # Un fichier fourni explicitement est toujours recréé.
+        fichiers = fichiers_depuis_arguments(chemins)
+        forcer = True
+    else:
+        fichiers = trouver_fichiers_midi(DOSSIER_RACINE)
+
     total = len(fichiers)
-    mode = "régénération complète" if forcer else "partitions manquantes"
-    print(f"Génération des partitions ({mode}) pour {total} fichiers MIDI")
+    print(f"Génération de {total} partition(s)")
 
     nombre_generees = 0
     for index, fichier_midi in enumerate(fichiers, start=1):
         heure = datetime.now().strftime("%H:%M:%S")
-        nom = os.path.relpath(fichier_midi, DOSSIER_RACINE)
-        print(f"{index}/{total} {heure} {nom}")
+        print(f"{index}/{total} {heure} {os.path.basename(fichier_midi)}")
         if generer_partition(fichier_midi, forcer=forcer):
             nombre_generees += 1
 
-    print(f"** Terminé : {nombre_generees} partitions générées")
+    print(f"** Terminé : {nombre_generees} partition(s) générée(s)")
 
 
 if __name__ == "__main__":

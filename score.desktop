@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Créer la partition
+Comment=Glisser un fichier MIDI pour générer son PDF dans le même dossier
+Exec=python3 "/home/obooklage/Documents/GitHub/midi/score.py" %F
+Icon=audio-x-generic
+Terminal=true
+MimeType=audio/midi;audio/x-midi;
+Categories=AudioVideo;Audio;
